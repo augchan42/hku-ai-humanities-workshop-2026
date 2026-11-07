@@ -1,0 +1,167 @@
+# Album 006: Wittgenstein and Nagarjuna
+
+Time: 2026-11-05T09:39:49.606000+08:00
+Session: Artificial Intelligence, Subjectivity, and Silence
+Photo ID: AF1QipNI4HN0uYIRpvlQo8VoV3inlKu9jnDQOT6-qrGr
+Image: sources/slides/images/slide-006.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczMtt-wJqRcuJ931EWP2Xq94jkOw3Fo8WceAvstvjG9pUQx86LowUJK3M_Q_2s3CFpD42Y-ZiDE99AVm0p43SZUAc0lF-DioZL-ZIXdi7PcZWT_OUuIt
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+Tr
+
+setmeemeeane nae
+
+ae
+
+wm ne:
+
+yi
+
+|
+
+Wittgenstein and Nagarjuna
+
+iI
+
+my
+
+ae
+
+\
+
+i
+
+O Method: Use of reasoned argument
+
+Method: Use of reasoned argument
+
+to undermine interlocutor’s
+
+to undermine opponent’s
+
+metaphysical presuppositions (not to
+
+metaphysical presuppositions (not to
+
+establish fresh conclusions)
+
+establish fresh conclusions)
+
+c
+
+Themes: Representational
+
+Themes: Inherent existence;
+
+ry
+
+conceptions of meaning; privacy of
+
+conventional truth vs ultimate truth;
+
+“ei
+
+%
+
+ipf
+
+the subjective
+
+dualities including subject / object
+
+ihe
+
+distinction
+
+a |
+
+Aim: To dispel philosophical
+
+fod
+
+?.
+
+confusion; to “show the fly the way
+
+Aim: To dispel philosophical
+
+eA,
+
+on
+
+n fram niuiffarina
+
+—
+
+[
+
+1g)
+
+out of the fly-bottle”
+
+confusion; libera
+
+——
+
+am,
+
+~— ~we
+
+“|
+
+= ae EEE
+
+rs
+
+ary
+
+wo
+
+Seen Mie
+
+oe eee, Ye
+
+Pe
+
+a
+
+:
+
+J&A
+
+}
+
+Sate a ne,
+
+nr
+
+wee
+
+Cnt EM
+
+_
+
+\ auneedh |
+
+Murray Shanahan
+
+a 4}
+
+soos
+
+oe STAN Foe
+
+ene a a
+
+ay RE ee pe,
+
+Siete se
+
+ee
+
+Oe.
+
+SPS
+```

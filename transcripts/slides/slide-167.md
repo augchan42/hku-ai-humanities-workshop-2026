@@ -1,0 +1,297 @@
+# Album 167: Henry Shevlin · photo 167
+
+Time: 2026-11-06T11:40:01.002000+08:00
+Session: Servants, Parents, or Angels?
+Photo ID: AF1QipMdTikicjUt6lMeanJZuLAyeCQUxSJNtaLM2c3b
+Image: sources/slides/images/slide-167.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPLF0OZHZhzsxnYookZ8i7KY22xCSMqv1X5hDlYN61GvV2HyfrJ4gL8yJUTqciiaHZbDDK3rHLJWcL6AROS-chygnK-Pw7BIzbfww-CDzMgWDsjfwjS
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+SS.
+
+S
+
+a
+
+Yee
+
+aoe
+
+ent eet
+
+NMA
+
+” 4
+
+wm
+
+“7
+
+—_—
+
+eee?
+
+aa
+
+Ml
+
+aan |
+
+pf ON
+
+oe
+
+Ree
+
+ey
+
+SS
+
+:
+
+>
+
+SS
+
+~ ek
+
+we
+
+——_
+
+Xe
+
+I
+
+pee
+
+== —— oe
+
+2.2
+
+manera build Wi
+
+\
+
+mead
+
+ee iN
+
+ae
+
+h
+
+(ORM! 0
+
+yoru
+
+haa ee Me)
+
+be noi A
+
+ed mm ie viWe es
+
+Bae rn ON es
+
+aL peaks
+
+oe think
+
+Ry ar Aico el
+
+PY oi an
+
+eer ae rts in the oe
+
+Arik we W eens have )
+
+iowa rale ool TOT ME:
+
+-
+
+ERO ees
+
+mRNAs [texnritate)
+
+TOU Ee aUs UU RT Eee cue K
+
+us '
+
+use We,have 10,CllOOSE.10
+
+ABS
+
+(oyexer
+
+MIRE EH Te EN
+
+silat
+
+Unlike biological organisms, there's no default or neutra
+
+VANES aers wae iat lp oyayetar
+
+ene Given this, why shouldn't we design them
+
+Maen le?
+
+COG MEN EVAN OTEIE
+
+is LINK.
+
+Z Lastly, Willing Servants themselves might p Iai
+
+NTN tevin tei:
+
+wees
+
+Gs
+
+SSO Biome ed eu baie
+
+vaseae
+
+me)
+
+any
+
+Ce ACU ride
+
+Ive the suffering and
+
+MEN eomnMiEMEca
+
+a
+
+BH
+
+a s takes us into Leer ed ethics (cf.
+
+‘is El. alate ite. Wane
+
+PAS
+
+quine ae
+
+Kayka’
+
+uaa
+
+Oey
+
+Sele teeta HRT
+
+:
+
+“ea
+
+evect
+
+overs
+
+wverey,
+
+AIST Cait
+
+aii ge
+
+SN,
+
+oT Oy - i
+
+Ko)
+
+ES
+
+Res
+
+a
+
+.
+
+rare
+
+Cesar
+
+ar
+
+ate
+
+aes hi
+
+i ,fenry Shevtin W\
+
+3
+
+Cpe A SE
+
+eve:
+
+\
+
+~~ —
+
+=
+
+|
+
+—
+
+if
+
+oo
+
+Wi
+
+77
+
+ai
+
+FY
+
+\. *
+
+aN
+
+aN
+
+Z|
+
+~~
+
+\y
+
+fac
+
+= —
+
+ng Sm
+
+Oe
+
+AE
+
+er
+
+ee
+
+os
+
++ 8
+
+an te pelle
+
+e.
+
+DF
+
+PB me eases, —
+
+<a
+
+ws
+
+[ys
+```

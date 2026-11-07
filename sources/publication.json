@@ -1,0 +1,11 @@
+{
+  "project_id": "appgprj_6aefa67094088191be0225ebbf29f2bb",
+  "version_id": "appgprj_6aefa67094088191be0225ebbf29f2bb~appgver_9f0205cb03c481919d5f2194da39985d",
+  "deployment_id": "appgdep_6aefad47a3dc819198458309a9833d16",
+  "status": "succeeded",
+  "url": "https://hku-minds-meaning-machines-notebook.merry-lamb-8416.chatgpt.site",
+  "audience": "owner-private",
+  "source_commit": "5bfd974d6268d68c0563706b0eab387d7ca7bd5e",
+  "local_private_talk": "private/hawthorne/reading-guide.md",
+  "private_talk_in_hosted_version": false
+}

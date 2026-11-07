@@ -1,0 +1,54 @@
+ 
+
+What’s the significance of the Justificatory Requirement?
+
+Thete is a way of looking at the orbits of the planets on which they are following elaborate and
+infinitary orbital rules. The rules could even be said explain why they move as they do, in the
+way in which on some views, the laws of nature explain why things behave as they do. But what
+the planets don’t do is follow their paths because they have a reason or justification for doing so.
+
+IT assume we can all recognize that the way in which we follow the rules of our language is
+different from the way in which planets follow rules. And that it is an activity driven by reasons
+is the essential way in which it differs from mere mechanism. These reasons are supplied by our
+understanding and are consciously accessible to us: I know why I am disposed to apply the word
+‘green’ to this green wall.
+
+This shows a connection between this notion of understanding and certain notions of
+“consciousness.
+
+Of course, we already have such a connection in the case of terms like ‘green,’ whose meanings
+do not seem graspable without experiential acquaintance with their referent.
+
+But what this Kripkenstein-inspired argument shows is that even in the case of logical or
+mathematical words, where no such acquaintance requirement is in place, there is still a
+potentially strong connection between understanding and consciousness.
+
+Testing for Grasp
+We see whether they are able to apply the rule correctly in easy and moderately difficult cases,
+while allowing for a much higher rate of errors in harder cases.
+
+Why do we proceed in this way? The answer is obvious. Typical humans have limited working
+memories and limited powers of concentration. When those limitations are irrelevant — in the
+easy Cases — we expect near perfection from someone who has grasped the rule.
+
+Understanding in LLMs: The Argument from Easy Cases
+
+One obvious problem for attributing strong understanding to LLMs is that they seem to be
+capable of going wrong precisely in very easy cases. Some of these examples are old, but that
+won't matter. One of them is from the most recent OpenAI model.
+
+LLMs have been known:
+To assert that 9.11 is greater than 9.9 on the grounds that 11 is greater than 9.
+To be distracted by superficial linguistic cues. Example: “A farmer has 17 sheep. All but
+9 die. How many remain?” Most people get that ‘all but 9 die’ means 9 remain. LLMs
+
+sometimes compute: 17 — 9 = 8.
+
+This is from GPT6.
+
+“
+
+My prompt: Please multiply: \(5647 \times 8911
+
+\ (6647 \times 8911 = \boxed {50,322,417}\)
+

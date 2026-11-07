@@ -1,0 +1,811 @@
+# Album 090: Models and characters
+
+Time: 2026-11-05T14:47:16.204000+08:00
+Session: Chuck, Wilson & the Emergence of Artificial Minds in Human-AI Conversation
+Photo ID: AF1QipOXO9p_e73if-4fjHUJ-bn-i84djuVdJ3vmQOTE
+Image: sources/slides/images/slide-090.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczM8gUD0ZdOEqmWFYPDQ26Yl5XmSAw9jY6trnfghRyU7qqSeqTJyeNtFHYDNgBz5DWhdAHC64_Ix2My-ORiXGlepNu0Mwlq1A8TG1ZboCNSgPzVf53yj
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+tn cereetceenatare |
+
+prams oa
+
+Se
+
+———_/
+
+Sere scs]
+
+—_—
+
+ao
+
+a
+
+ean
+
+SS
+
+—~- +
+
+-—
+
+ee.
+
+_
+
+ee
+
+=“
+
+ed
+
+=
+
+eee
+
+_
+
+RE gy
+
+Cc
+
+ae
+
+ee ag hy by
+
+ne _
+
+es
+
+————
+
+as
+
+_
+
+nn
+
+—
+
+) oP sree”
+
+--
+
+ee
+
+= -~4 —
+
+Ww
+
+henieennnteein ne ee ll
+
+r=
+
+— -
+
+oe
+
+SS mo
+
+5
+
+ees ~ eee -
+
+a
+
+bce ee
+
+Welw te
+
+ae
+
+——
+
+@ocactaae +a se mimus
+
+~——— —,,
+
+oe ee
+
+rrr
+
+-
+
+Nr
+
+Te ee OT ge
+
+Siete, tee
+
+ee rt ee
+
+a ee
+
+Sy
+
+“3
+
+RR
+
+Ar re EE eee,
+
+ee
+
+wee
+
+a
+
+ee
+
+— me
+
+ems
+
+—
+
+Xa
+
+a=
+
+a
+
+Fes:
+
+oe
+
+a
+
+ee ee
+
+GA
+
+ee ae
+
+ee
+
+——_
+
+Be
+
+-_—
+
+I ge ag es
+
+ee ee
+
+a en ene
+
+en nee ee ee
+
+cm
+
+* TE ns oe ee
+
+2
+
+—
+
+va
+
+oe
+
+fn
+
+TF
+
+ee at _
+
+ee
+
+‘
+
+.
+
+hs
+
+—— A distinction —
+
+—_-
+
+ee
+
+- 5 a oe, 2
+
+in i
+
+ST rn eee
+
+ae ee
+
+re ee
+
+yO
+
+Moly
+
+i
+
+Le a Oe went
+
+ee
+
+ee ee
+
+Se Or i ge er
+
+ee
+
+ve
+
+~ 7
+
+=
+
+ead
+
+Se
+
+ee
+
+TS ae
+
+rE ee
+
+nae.
+
+%
+
+i
+
+eee
+
++
+
+-
+
+—
+
+a9
+
+ee ee
+
+LL
+
+ar
+
+ee.
+
+=== Model
+
+= function, realised in a neural net
+
+work,
+
+[ee Se
+
+—
+
+ee ee
+
+-
+
+7
+
+ee
+
+S|
+
+—
+
+=
+
+mapping token sequences to probability distrib
+
+——
+
+=
+
+ution
+
+—:
+
+coer en
+
+See
+
+Sa?
+
+is
+
+ae ee
+
+far
+
+—
+
+over a token vocabulary.
+
+ee ee ee.
+
+2
+
+~
+
+i |
+
+eettrs ps oy
+
+a ee
+
+ee
+
+Se ee ee _
+
+——
+
+a
+
+wabbdddoig
+
+—
+
+-
+
+~
+
+:
+
+ee
+
+oe
+
+thr eee seek eteR tot
+
+=i
+
+naaee
+
+weet
+
++ ee
+
+~~
+
+eS
+
+eee
+
+Se
+
+eee
+
+pee ee
+
+in
+
+sh
+
+tare simulated
+
+nn a
+
+‘be i’
+
+i
+
+== ,
+
+Cc
+
+haracters = person-like entities tha
+
+—_— +
+
+a ee
+
+na eee
+
+—
+
+a
+
+oe
+
+=—
+
+a
+
+wo ad ‘
+
+ioe
+
+ie
+
+ah
+
+7
+
+mr
+
+== by LLMs and which appear to have stable »
+
+a eg a ST ne
+
+=
+
+ee ee
+
+Doe nee
+
+as
+
+eae
+
+ee ee ee
+
+AZ| BA
+
+Lf,
+
++t
+
+spositions.
+
+:
+
+~
+
+a
+
+oe ee
+
+5
+
+maf
+
+.
+
+behavioural and psychological di
+
+. pn el ng me te
+
+See
+
+frag A a re re er a i a
+
+yf
+
+~ -f
+
+sat
+
+ee
+
+Oe ee
+
+ee ee
+
+A ga LR,
+
+on
+
+=—E=T F
+
+ay bong
+
+i
+
+ee eT oe
+
+a ee:
+
+we 6 ee ee
+
+et
+
+— ~ -—
+
+—,
+
+=—y P=
+
+ie
+
+vane
+
+=
+
+ee
+
+ee ee
+
+——e
+
+ww te 0-5 ee
+
+ae ee
+
+—— ee
+
+Se ee
+
+Sgt ee Se
+
+4 wT
+
+i te I ee
+
+ee ee
+
+ee
+
+Se
+
+wee rer
+
+4
+
+ie
+
+ab
+
+——
+
+ee
+
+—_
+
+> _e- he
+
+mae
+
+a
+
+es
+
+ae ee See
+
+a
+
+>
+
+y aT
+
+eo te
+
+ce ES
+
+ee
+
+—+ we
+
+ee
+
+oe
+
+ae ee
+
+eee
+
+ee ee
+
+ad
+
+Fy
+
+eee
+
+A ee
+
+el
+
+—_—
+
+ne
+
+a
+
+7
+
+a
+
+m
+
+\
+
+4
+
+——
+
+=~ >
+
+Meer Se
+
+eye
+
+--
+
+a
+
+an eanememnmmmmmamnant:.
+
+wecoe
+
+ne
+
+ioe
+
+a
+
+~~
+
+penne
+
+4
+
+oo
+
+Ge a
+
+on
+
+ee
+
+ve
+
+ns er
+
+ew
+
+2
+
+- o-
+
+a.
+
+eee
+
+“=
+
+pce nh sania
+
+nate tt annette s
+
+A.
+
+nw
+
+ve
+
+nats Saath theta amber
+
+eee
+
+ee
+
+vise
+
+pte
+
+pall Seeihe haa
+
+jek anid 25a
+
+wigfaamvnke FB ane neon
+
+ere &
+
+ee
+
+Leib a ae
+
+SB aster
+
+tab an adwek Ate
+
+wow
+
+ee
+
+saenee EP
+
+bathe
+
+a
+
+piabes de.
+
+vA
+
+nS
+
+peeU PR
+
+PANE:
+
+a ORS
+
+oe
+
+eo F
+
+Tre
+
+atownat
+
+ye
+
+Lae
+
+nee ¢
+
+eM Ua NT TE
+
+TAL
+
+pe ee
+
+et
+
+“epteh
+
+ai tae fy ce ~
+
+at
+
+‘
+
+RAAT
+
+aks
+
+Cre:
+
+at
+
+SEES
+
+ap ooh
+
+z
+
+Ei!
+
+xt
+
+a *
+
+ate
+
+*
+
+SE PPORPES
+
+Bu"
+
+anees saree
+
+ake
+
+rel
+
+2
+
+c
+
+sepa
+
+re
+
+ee
+
+bs.
+
+ve
+
+ane
+```

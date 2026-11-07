@@ -1,0 +1,114 @@
+M
+
+c
+
+elie
+
+vi
+
+a
+
+tha
+
+n
+
+ver b
+
+x
+
+the
+
+vay humans de
+
+yt at
+
+Q
+
+Dx
+
+LLMs solve problem
+
+an beha
+
+ophisticated, super-fast pattern-matchers that simulate hum
+
+)
+
+?
+
+‘on
+
+Con
+
+pt Methodology
+
+C
+
+ptual Engineering and
+
+4
+
+>
+
+erhaps what you say is true
+
+about understanding, say, in its full human version. But the cruc
+
+question that needs answering is not Q but rather Q*:
+
+I
+
+(Q* Do Als instantiate the bare essence of these ty pical human capacities? |
+
+a
+
+might be inter
+
+ting to ask whether LLMs are able to instantiate the full h
+
+version of, say, understanding, but it’s even more important to ask whether
+
+the
+
+are capable of understanding per se, even if it’s not in its full human version
+
+bare essence of understanding, as we may put It.
+
+(Q**) Do they instantiate concepts of understanding that are specially eng:
+
+suit the new kind of intelligence they represent?
+
+to
+
+However, I would insist that the most responsible and fruitful way to approach these issue
+
+start witl
+
+h asking about the full human case, that is, to start with Q itself.
+
+The Main Arguments for the Opposing Views
+
+Our Question has quickly become very polarizing.
+
+Believers are convinced that LLMs understand, know, believe, desire, intend and reason (Hinton.
+
+Cappelen, Sutskever, Lederman). Skeptics (Marcus, Bender, Chomsky, Pearl, Pinker, Penrose)
+
+are simply very sophisticated, very fast pattern-matchets.
+
+who are just as convinced that LLMs
+
+In favor of the Believer’s thesis that LLMs have human-like mental capacities there is first and
+
+foremost the fact th
+
+at they are so émpressive at what they can do. Best explanation is mentalistic
+
+What speaks in favor of the Skeptic’s position? Some Skeptics argue as follows:
+
+1
+
+LLMs are at bottom stochastic next-token predictors.
+
+ii, Such processes look nothing like belief, desire or intention.
+

@@ -1,0 +1,297 @@
+# Album 003: Artificial Intelligence, Subjectivity, and Silence
+
+Time: 2026-11-05T09:35:43.977000+08:00
+Session: Artificial Intelligence, Subjectivity, and Silence
+Photo ID: AF1QipOCqJkZGL9uUTWbA7OEgOV7DBOa3JMF6qvybxVM
+Image: sources/slides/images/slide-003.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPUtNFiQFAI9a2S47TT8RnuB89m2gFjjv0tP7ft2V6ZsAp7G4kYcldwSOju0oDdwndBcNaS8UUNLgTh2q7t_TzYcl9JUhZ_WLwRogm0ZKOPvsaGrClB
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+a Me vee
+
+J
+
+Ce
+
+<>
+
+=>
+
+Thea
+
+i
+
+=
+
+ay
+
+ee nee
+
+Intelligence
+
+and
+
+uray Shana H
+
+fe]
+
+(nadszeuelh eairove
+
+iF
+
+ewes
+
+ath
+
+wee remete
+
+Mind
+
+! Pri
+
+th;
+
+Lyi
+
+io
+
+Vs
+
+long Kong Universitys2026
+
+=.
+
+vat
+
+\
+
+xa
+
+L404
+
+Se |
+
+>
+
+aw ey
+
+SE
+
+we
+
+©
+
+aA
+
+Y
+
+Ag!
+
+an
+
+TL
+
+“
+
+at,
+
+i Tee
+
+ten wre
+
+er
+
+~ ie,
+
+- x
+
+as
+
+C2!
+
+1 OS ITIL,
+
+——— fs
+
+ary
+
+we
+
+~~
+
+as
+
+\<
+
+-fi
+
+es
+
+7)
+
+.
+
+i
+
+ty
+
+Murray Shanahan a,
+
+}
+
+eo
+
+no scseeiabetemomeeeesnen | Lommemee
+
+— inet
+
+WAL
+
+/,
+
+a
+
+weeh nee.) Oo. de
+
+Soe
+
+EPID ROP ONE
+
+8 nbc hilar
+
+ethene ata chamat heme cen dad ee
+
+Peters
+
+wb a aa lek cat ee
+
+bc
+
+et
+
+tie
+
+bt
+
+¥
+
+ane iss
+
+ee
+
+Weiss
+
+oa
+
+SN
+
+fant
+
+22 ES
+
+Pom
+
+ti kiss
+
+ee
+
+ened
+
+says
+
+oi
+
+A
+
+er
+
+as
+
+aren
+
+wet
+
+i
+
+nee deta Attias, adenine
+
+SS
+
+SS
+
+Se
+
+SE
+
+on eneneieen
+
+Me rita aN nae A Sac
+
+SAO RS SM AEE NI MA LD Nah NAR MIO Bg hone
+
+—,
+
+Seay.
+
+-
+
+ay
+
+SN
+
+SS
+
+wee Wien:
+
+Vt Gere,
+
+fo
+
+oe dake
+
+it
+
+tf
+
+we
+
+sate odeaeuie taaeemnaeaee mien
+
+, =
+
+F
+
+of
+
+.oe
+
+ar
+
+=)
+
+oy. BSG adalat Segoe eat oes
+
+ee ala.
+
+aN
+
+‘a pelea
+
+ae eit oan Se aS et ae eae Saag din AN ag ae As Rae tate mo ecb
+
+SS" >
+
+%
+
+PS.
+
+pathaettatinaaimeinatiencet an na aes dann eee At ep Pty Pal ant Me
+
+—_
+
+aN
+
+€
+```

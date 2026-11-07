@@ -1,0 +1,415 @@
+# Album 043: Workshop participants · photo 043
+
+Time: 2026-11-05T10:43:44.199000+08:00
+Session: Symposium discussion and author response
+Photo ID: AF1QipPB7QyS3ZLzdJCJ-kXVVOUpQBCT_9vAPCV4qyHW
+Image: sources/slides/images/slide-043.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPLavgET5DiArP9Nb8EduGoZ6DRy6QfFpWN-U2H_-9hQyJxn6UntK0CK_ucPaet5rwciTtnVuttpiK0xyZwHid0Ht7EozI7uqt5bM6gCty0MgXCuXxB
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+OC
+
+oe
+
+Ne
+
+dpe.
+
+=
+
+ale
+
+oom
+
+ae
+
+(a
+
+esau —__
+
+ner tA AE EER RIAs.
+
+S>
+
+_.,
+
+—
+
+—— ee,
+
+Tt
+
+de
+
+——s
+
+-
+
+— —
+
+-_
+
+—— —
+
+——
+
+—_—
+
+-_
+
+—~
+
+=. UN
+
+so
+
+—
+
+eh
+
+a
+
+ae
+
+=
+
+=
+
+INSTITUTE OF | SCHOOL OF
+
+PHILOSOPHY | ADVANCED STUDY
+
+UK Research
+
+—
+
+ay
+
+UNIVERSITY
+
+sas
+
+and Innovation
+
+a
+
+nl
+
+eet
+
+OF LONDON
+
+ware
+
+Thanks for your attention!
+
+oat
+
+IES
+
+And thanks to Herman Cappelen, HKU
+
+yar Gh,
+
+Alex Grzankowski, Institute of Philosophy
+
+———
+
+Emma Borg, Institute of Philosophy
+
+Nick Shea, institute of Philosophy
+
+mN
+
+\\
+
+if
+
+Ben Henke, Fellow of the Institute of Philosophy
+
+Chrie Frith Fellow of the Instit
+
+lita af Philosophy
+
+’
+
+TN
+
+i?
+
+heel
+
+IIc
+
+of hilosophy —
+
+Xi
+
+han, DeepMir
+
+¥
+
+lef
+
+a
+
+if
+
+———
+
+o |
+
+=
+
+{ Burry Seth
+
+Lh
+
+it
+
+VA
+
+a
+
+a
+
+u
+
+nee
+
+=
+
+a
+
+= ee
+
+wt
+
+“we
+
+pee smear ~
+
+Ce
+
+“¢
+
+ad
+
+—Y
+
+ugk
+
+ae
+
+AN
+
+—_
+
+wt
+
+#
+
+ay
+
+away
+
+al WA
+
+amare
+
+ale
+
+~—
+
+ol
+
+ee
+
+Sara RP INNN RAOM AT ALTOS ASS BI TE LACAN AS = © om 8
+
+see a
+
+6, OST
+
+a)
+
+..
+
+~ .
+
+>
+
+wo
+
+‘
+
+,*
+
+Po ee
+
+‘
+
+ney
+
+ty
+
+~~
+
+oem mi
+
+SF eceseummmentnmiaetesssn = ne
+
+Dan aang pe ee
+
+eee
+
+Pir s
+
+eo?
+
+-
+
+ae
+
+“4
+
+aig
+
+——
+
+ee
+
+ar
+
+—
+
+sre.
+
+a>
+
+re ee Seem ca eA am
+
+ALT ee a a a fe A
+
+wee
+
+ae
+
+Y,
+
+ba er eae
+
+SEE
+
+md
+
+SEE
+
+Senate
+
+| ee eR ae ae
+
+wy
+
+Re
+
+—-
+
+ere
+
+ae ee
+
+ee
+
+ene a en =
+
+ae
+
+a
+
+eee
+
+a
+
+ae
+
+we
+
+a
+
+--
+
+ee oe
+
+a
+
+_——
+
+a
+
+ener
+
+*,
+
+eee
+
+= cee
+
+ocean ee ee
+
+——
+
+———
+
+aeneceenrenaaee
+
+Ce
+
+—_——
+
+(fe - - -
+
+e
+
+-_4
+
+= ~
+
+a
+
+ee
+
+-—
+
+“
+
+My
+
+te
+
+i %
+
+es
+
+be
+
+ie
+
+iF
+
+oe
+
+J
+
+(oP ry
+
+af +
+
+are
+
+NL
+
+eb
+```

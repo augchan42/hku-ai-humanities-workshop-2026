@@ -1,0 +1,52 @@
+The sense in which I will be interested in LLM understanding is whether they understand in the
+medium sense, which we will need to characterize.
+
+We're interested in the minimal notion that will let the Believer’s story go through. But what
+notion of understanding i is this? What is it for X to know what ‘plus’ means, or what it applies
+to?
+
+Cappelen & Dever think that whatever it is, and we don’t need a view about that just now, we
+can just see that LLMs understand in at least this sense. Can we just see this?
+
+Even without a deep characterization of understanding, I think it’s clear that understanding is
+not a perceptual matter in the way that C&D claim. In fact, given the way in which C&D defend
+the claim, I’m not sure hey believe that it is a purely perceptual matter.
+
+Let’s distinguish sharply between two phenomena that can be easily conflated. The first is that
+
+* some fact is established purely observationally. For example, I can know, on the basis of vision
+alone that Herman is wearing a (pink) shirt. On the other hand, the fact that the shirt is made in
+China I don’t know purely perceptually, but I can often infer it from the fact that most shirts are
+made in China (let’s say).
+
+Now, sometimes these inferences are so obvious that they are made automatically. In such
+cases, it is easy to think that the knowledge is purely perceptual, even when it is inferential.
+
+C&D give the following eg by way of supporting the perceptual thesis. Suppose you're trying to
+establish whether someone understands Mandarin. The best and easiest think you can do is get
+someone who understands Mandarin to speak to them for a bit. The Mandarin speaker would
+be able to establish quickly, without examining the interlocutor’s innards, whether he
+understands Mandarin. So, whether someone understands Mandarin can be ascertained
+observationally.
+
+I think this reasoning conflates the two phenomena distinguished above. If the speaker were
+really establishing the claim of understanding purely observationally, like in the case of color,
+they would need just ove utterance from the interlocutor to establish whether understanding was
+present. But that’s not what we do. We need to observe their speech for a bit.
+
+That is not perception; that is éuference fo the best explanation. On the assumption that you are not
+aware of things that can converse fluently in a given language without understanding that
+language, you are very strongly entitled to conclude that the person understands Mandarin if they
+speak it fluently. However, if you become aware that the government has invested heavily in
+designing super-fast humanoid robots that can pass the Turing test in Mandarin, but which are
+equipped only with massive look up tables so as simulate conversing with understanding, you
+might well hesitate to make that inference.
+
+Is the best explanation for what the conversational abilities of LLMS that we're seeing that they
+understand in the way humans so, or is it the alternative explanation via pattern matching?
+
+I will try to make the case that the pattern matching explanation is the better explanation.
+
+To evaluate the two hypotheses requires getting a little clearer about what they respectively say.
+What notion of medium understanding is at issue?
+

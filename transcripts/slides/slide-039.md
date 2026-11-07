@@ -1,0 +1,181 @@
+# Album 039: Wittgenstein: machines and possible movement
+
+Time: 2026-11-05T10:38:48.173000+08:00
+Session: Murray on Minds, Wittgenstein on Meaning
+Photo ID: AF1QipMzk_i7XMSGF4jHs9K0UFFClDvCY14x1LwBROC8
+Image: sources/slides/images/slide-039.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczOsu6l86Q67pDPBf62Q_ePne-5uUF8jWQyXlyeqfBQSUfhPQspDBi5-aARz6qXdDLS7MwMv50HWvd_eOpkkYVlkFkXyiwae7CKG-BrTCgoUEtdLbCVi
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+=< _—_
+
+eee
+
+mo,
+
+—_
+
+—_~
+
+—7*
+
+aN
+
+Sa
+
+So
+
+a ee
+
+_ wens et ee. a a ee
+
+Dd tom
+
+sa}
+
+aA
+
+af
+
+LW Philosophical Investigations
+
+¢ 194. The kind of way in which we talk about machines. We say, for
+
+example, that a machine has (possesses) such-and-such possibilities
+
+of movement; we speak of the ideally rigid machine which can only
+
+move in such-and-such a way.—— What is this possibility of
+
+{=
+
+1 ae
+
+movement? It is not the movement., but it does not seem to be the
+
+ate
+
+ty *
+
+mere physical conditions for moving either
+
+Hgeoe
+
+x
+
+-~_
+
+~ 7?
+
+~
+
+ay
+
+—ee
+
+a ET
+
+”
+
+———
+
+o
+
+ell ‘
+
+——————— i
+
+EE EEE EEE
+
+wee ee ee
+
+oe tesserae —
+
+PT eneenermenmensanacnll €
+
+an ctnerencnlcmanemnareres ely Sinner ——
+
+neem, \fpnenen ri
+
+nT Pe
+
+i
+
+ay
+
+se
+
+@
+
+TEE
+
+Barry Smith
+
+a can TARA AO ited
+
+GERAD Sr Pe
+
+ne
+
+waza
+
+Te
+
+§
+
+a
+
+S wee
+
+(Re
+
+waneet st nmeas wma i gt
+
+ram sem 0
+
+cose
+
+Va
+
+— = °
+
+mang ur ol ene in the end akan et ane Ga eating fw anne
+
+vy when the aque 's fat Oh
+
+20 te ee HS caer
+
+4a abl gaap Ou wheal woe of nando 4 fiat “anh
+
+when we dow three week Be
+
+tut & pat whe
+
+woe
+
+oe darechqenats gn RR pe
+
+(2g, soso quae, shana wha hapgene H brcrames gore ote
+
+ceva, = Fon we tae that tease san ey deeds tat we ene
+
+10 he on
+
+sep te mate tn cae pasate bet BEE ae ae peer nt
+
+Mot se el Ci reba
+
+ee ne
+
+i!
+
+j %
+
+| 2
+
+4
+
+oe
+```

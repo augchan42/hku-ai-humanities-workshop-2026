@@ -1,0 +1,60 @@
+Ss
+
+CC
+
+—
+
+i
+
+es
+
+~~
+
+l
+
+== VES
+
+TT
+
+eee
+
+————E———
+
+— |
+
+© comme tm Yor sy seets Pe toes
+
+CRE Rew eed
+
+Por
+
+pe | ft
+
+Model = function, realised in a neural network,
+
+mapping token sequences to probability distributions
+
+over a token vocabulary.
+
+Hf
+
+on
+
+Characters = person-like entities that are simulated
+
+fF
+
+by LLMs and which appear to have stable
+
+Al
+
+behavioural and psychological dispositions.
+
+a
+
+a5
+
+7
+
+ES
+

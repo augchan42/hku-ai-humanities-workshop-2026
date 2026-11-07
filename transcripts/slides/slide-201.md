@@ -1,0 +1,461 @@
+# Album 201: Herman Cappelen · photo 201
+
+Time: 2026-11-06T14:23:32.314000+08:00
+Session: Understanding: methods, evidence, and objections
+Photo ID: AF1QipPpMf0oFIdzOCyUHrT6avlehFpwURjnWO-AM0AJ
+Image: sources/slides/images/slide-201.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczMrv0m6wYbI1JOekCHEPOi2kKsNQZ9cyfwXxCLEMf1MiT5PB6Dlt0vFrWuMc7tG_HGlvFkWJhumAMfR2zTfNMhncxKDHxbcXqjb1H26IciAovOeZMa9
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+~_—”
+
+—
+
+~ PY -—"
+
+-
+
+ww,
+
+=_——
+
+_>
+
+ony ——
+
+=n
+
+———
+
+——
+
+I
+
+FAILUAE AND C
+
+OMPETING EXPLANATIONS
+
+is failure
+
+Acloser look revea
+
+Objection:
+
+An LLM can offer a plausible pl
+
+an for travelling around Paris.
+
+oves to rearrange them. It
+
+d ask for a sequence of legal m
+
+But give it
+
+a task involving stacked blocks an
+
+may fail repeatedly.
+
+he system was
+
+ent planning was never planning. T
+
+Skeptical Clai
+
+m: These failures reveal that the appar
+
+“
+
+producing text resembling plans.
+
+hy,
+
+—
+
+<Q
+
+Ba
+
+fi
+
+rn
+
+ft
+
+ty
+
+OX
+
+8;
+
+The methodological questio
+
+nz When should failures lead us to qualify a capacity attribution, and when should
+
+a
+
+aS
+
+s
+
+NN
+
+they lead us to withdraw it?
+
+—_— —_—
+
+a
+
+x
+
+oe Sa
+
+‘
+
+‘s
+
+Moor
+
+a
+
+_
+
+—
+
+oe
+
+a
+
+wo
+
+as As
+
+ae
+
+ff
+
+i
+
+toa
+
+{
+
+i
+
+of
+
+4 Horman Cappeton
+
+vr
+
+if
+
+—
+
+eel
+
+N
+
+ne
+
+SEES
+
+Ye
+
+ty
+
+--
+
+i __
+
+eer
+
+a=
+
+ee
+
+Tans aca aR faa aan aia Faas ah aes
+
+~
+
+Face
+
+ae.
+
+x
+
+Or aemeraaer abate ah Php nie Manan manent
+
+nae pnastavemintes Ate
+
+ise
+
+Sore F
+
+—e-—
+
+wo
+
+Ro as is te Ree na ee
+
+a ae tts te
+
+tae on at ne wt Ayre
+
+=e
+
+ae ee ar et
+
+—
+
+vr nien eee)
+
+~ iteteennte tan eee
+
+Nate a .
+
+~
+
+aot oa let nh caine oe og see ee
+
+on
+
+Me
+
+&
+
+oe
+
+Ses
+
+Tz
+
+a
+
+“tt
+
+Ld
+
+tA
+
+Ses
+
+——
+
+—
+
+ee
+
+--—
+
+eee.
+
+——
+
+Pv ey
+
+~e Hs.
+
+a
+
+a
+
+i!
+
+--
+
+--—
+
+aa
+
+a
+
+wee _
+
+ee ee.
+
+et
+
+ee
+
+rr
+
+Nos
+
+~
+
+eS
+
+rae
+
+wend
+
+Yes
+
+™~
+
+—£
+
+ae
+
+a
+
+Se
+
+ve
+
+~ eee a _
+
+mee eee
+
+on
+
+—-
+
+oe
+
+a
+
+—?
+
+ws
+
+3M
+
+wan
+
+a
+
+eee
+
+“a
+
+wh
+
+Tox.
+
+woe}
+
+~sar
+
+me
+
+enemas > —
+
+=
+
+~*
+
+a
+
+oo
+
+a
+
+PB en
+
+ashy
+
+at's
+
+error
+
+—-
+
+=a1
+
+> ERTS
+
+vx
+
+AS
+
+ore os,
+
+Vee
+
+wy
+
+a
+
+OS aa a ir
+
+a
+
+wt A
+
+on
+
+aw
+
+“ates pane
+
+eS
+
+*
+
+s2
+
+74
+
+aut e 8 ey
+
+ae
+
+.~
+
+a Sry
+
+ae
+
+aS
+
+RA gd eg
+
+1 aCe,
+
+RM
+
+Se
+
+ey
+
+7.
+
+Seka e
+
+“s
+
+-—
+
+—
+
+=e
+
+Bein 2X
+
+ST ean ERIE 2 ee .
+
+Ae,
+
+se
+
+—-
+
+io aerecne
+
+-
+
+*.
+
+*.~
+
+Rene L
+
+wa aie
+
+— we
+
+Wee
+```

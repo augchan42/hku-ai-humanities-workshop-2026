@@ -1,0 +1,11 @@
+The general framework
+
+Look at the successor agents and assess the initial agent’s stake in each
+A lower stake requires a larger payment for the same incentive effect
+
+The target cost to the initial agent is the social harm.
+
+ 
+
+ 
+

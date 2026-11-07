@@ -1,0 +1,485 @@
+# Album 214: Herman Cappelen · photo 214
+
+Time: 2026-11-06T14:39:40.198000+08:00
+Session: Understanding: methods, evidence, and objections
+Photo ID: AF1QipOxiCA0pdgvdEO5M9wfEf0lm4OkcfyD8iMJnGVZ
+Image: sources/slides/images/slide-214.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczMu-bsN8CqQnudmqAY-dPQJK8dmDHIECKHR2FT3pxGNBDTm04DNyM5dy6-8D-OB3ma72BX22CSjxE03Uaz-lsVHkOu-eTmLXZZf4ws8N5iedtMrHSn6
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+a
+
+Oo ———
+
+=?
+
+>
+
+sie
+
+ee
+
+yr
+
+‘|
+
+\ -/
+
+\
+
+_—-
+
+~
+
+wo
+
+e—---
+
+>
+
+_—
+
+-
+
+=~
+
+Syme“
+
+a
+
+>
+
+i
+
+=
+
+—__<—
+
+xr
+
+SEVEN ATPLIES TO PAUL
+
+FYITEOT
+
+Reply 1: Pa
+
+ul’s theory-first approach
+
+ermines an infinite extension and supplies
+
+Paul characterizes understand!
+
+ing as grasp of a rule that det:
+
+He then asks whether LLMs possess that
+
+consclously accessible reasons for subsequent app
+
+lications.
+
+grasp.
+
+tanding. The normativity
+
+This is a substantive philosophical account, not an agreed description of unders'
+
+of meaning is Itself disputed.
+
+'m more confident that LLMs understand can answer my
+
+Maybe he’s right, maybe he’s wrong. It’s tricky. I’
+
+questions.
+
+\*
+
+J
+
+4 a
+
+LF
+
+it
+
+~&
+
+=
+
+—_— 3
+
+~
+
+set
+
+‘a
+
+aN
+
+eed
+
+wee
+
+NAN
+
+SS
+
+—
+
+fay
+
+Ag
+
+ua
+
+iu
+
+"
+
+NS
+
+ee _
+
+an
+
+oR RS
+
+S
+
+©
+
+oP
+
+RY
+
+38
+
+‘es
+
+Bos ow
+
+eet
+
+‘as
+
+_—_—_—=
+
+“+ Herman Cappeten
+
+@
+
+s
+
+as
+
+[=
+
+m=
+
+—
+
+_
+
+—_——
+
+—
+
+tc
+
+Specs.
+
+ft Epherta noma:
+
+ere
+
+Te AS Ree ES ring en
+
+ii
+
+an?
+
+bigness
+
+SS nS
+
+a
+
+rn
+
+———
+
+eticns
+
+aoe
+
+ee
+
+aS
+
+enero Hanes meses
+
+mh
+
+meee,
+
+ate
+
+ew.
+
+owed
+
+ee
+
+wee
+
+s+
+
+a
+
+peer
+
+eet
+
+ee
+
+rer,
+
+ara A a
+
+cho ame
+
+Soe
+
+ve,
+
+<w
+
+=
+
+See,
+
+aS
+
+6 Se re Re
+
+a te ee pte
+
+42
+
+ee
+
+eee
+
+—
+
+ry
+
+aN
+
+ios
+
+(,)
+
+a
+
+hy
+
+oy
+
+wee
+
+mereeUkUeeseee
+
+--
+
+Sar aw
+
+wh.
+
+EF:
+
+Li De
+
+ee.
+
+ee
+
+It
+
+yy
+
+ait
+
+TT ee
+
+~<a
+
+~
+
+et
+
+te
+
+Pere
+
+In
+
+abies 2
+
+a1
+
+u
+
+Fane,
+
+one
+
+Sax
+
+Ne.
+
+2
+
+ie
+
+~
+
+i
+
+& os.
+
+y Pe,
+
+ee Een
+
+ta annes,
+
+are
+
+ae
+
+a
+
+wo
+
+=
+
+we
+
+emt.
+
+_
+
+——
+
+—e
+
+ee
+
+=
+
+=
+
++
+
+io,
+
+~
+
+Fe
+
+oes
+
+d~
+
+*
+
+>
+
+rs
+
+~®
+
+a>
+
+He
+
++ 4
+
+—
+
+te
+
+St:
+
+ey, ceed
+
+Ad
+
+2
+
+i
+
+awa
+
+—.
+
+_
+
+a
+
+ee
+
+A er
+
+—_
+
+42
+
+re
+
+*
+
+me
+
+ae
+
+aw
+
+set
+
+wwe
+
+ee mw
+
+ze
+
+a
+
+xh,
+
+AAL
+
+we
+
+‘—
+
+4.
+
+oe
+
+Vee
+
+ht
+
+—[—S==S==
+
+ott am
+
+ae
+
+ae,
+
+——————SS=
+```

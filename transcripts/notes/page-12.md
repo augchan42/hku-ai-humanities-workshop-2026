@@ -1,0 +1,35 @@
+# PDF page 12: Understanding in Large Language Models — Paul Boghossian
+
+Source: `CCF11082026.pdf`, PDF page 12.
+Status: OCR-assisted transcription checked against the scan; layout and emphasis simplified. Original wording and errors retained. Refer to scan for quotation.
+
+Most classic grokking experiments use finite domains such as addition modulo 97. Perfect
+generalization there does not by itself demonstrate mastery of an infinite extension. A skeptic
+can say that the network has discovered an efficient compression of a finite function rather than
+grasped a rule governing infinitely many cases. :
+
+What could possibly determine about a particular LLM node that it instantiates the plus rule and
+not something that diverges from it at very large numbers? The usual ways of pinning down
+interpretability in non-humans — the designer's intentions, the telos of the thing (assuming it was
+a biological organism) — do not apply here.
+
+Also in doubt would be the usual counterfactuals — if I were to extend the thing’s lifetime, it
+would do such-and-so; unlike ordinary devices, like calculators, or symbolic computers, we are
+much less clear about these counterfactuals. The plus/quus problem is a real one for these
+
+networks.
+
+Even putting this issue about finitude to one side, we would still be missing the Justificatory
+requirement. For there seems to be nothing in an LLM that amounts to acting on a reason, to
+the machine’s having a justification for giving one answer as opposed to another.
+
+Yet justification is what turns it from mere mechanical action to something that’s rationally
+assessable. Rational assessability requires doing something for a reason, and not just
+mechanically. And that in turn seems to involve treating something as a reason and doing
+something because of that. (This structure is also present in reasoning itself.)
+
+Is there a More Deflationary Understanding of Understanding That’s Still Adequate?
+
+The question is: What notion of understanding would be left if we gave up both on infinitary
+extensions and on language use being a rational activity? These are the questions that need to be
+thought through.

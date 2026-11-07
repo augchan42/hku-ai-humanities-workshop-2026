@@ -1,0 +1,551 @@
+# Album 144: The general framework
+
+Time: 2026-11-05T16:19:30.886000+08:00
+Session: Liability, copying, and successor agents
+Photo ID: AF1QipPyZ7U5ys3JHeGxIr7hLLECeY9DYMVfGDVjCqNg
+Image: sources/slides/images/slide-144.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPTJnNTTuEtCxMJ5LnlLzNuZB5j5CFC7ecdHIdQkzm1UucVHZtfOdAZScdtLyoarfgJOIOltvMyUY_SFwR59aS0EHXsUv7Xa-1h0fkHGdO4dJsGMr5e
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+=a
+
+-
+
+Se
+
+vey —=
+
+or
+
+EF]
+
+—l
+
+eee
+
+wwe BL
+
+~
+
+a
+
+L
+
+ea
+
+ee.
+
+Ue
+
+—~— E__
+
+AL
+
+Rae ate ar
+
+eee ee,
+
+hee
+
+ae
+
+Ba
+
+eee,
+
+deme rare
+
+ee ee
+
+L
+
+$=—<— _ _——————_—_—_
+
+“4
+
+="
+
+Se
+
+we cnet.
+
+Pea am a
+
+aa
+
+Cc
+
+a nnneny came
+
+~__
+
+———
+
+anneal
+
+a
+
+s
+
+SEE
+
+cae
+
+——
+
+————
+
+eT
+
+SS
+
+=
+
+-——_----—
+
+rc
+
+—
+
+\
+
+mont
+
+a"
+
+0
+
+aE
+
+= oe
+
+—6
+
+ee
+
+—
+
+a
+
+Ss
+
+on ii
+
+————
+
+a
+
+ES Se
+
+——
+
+jo
+
+—
+
+4a
+
+a
+
+EN
+
+qe
+
+, The general framework
+
+Ab eu hea g
+
+:
+
+a
+
+iM
+
+.
+
+“ro
+
+aa
+
++a
+
+\'
+
+a
+
+i
+
+‘(6
+
+i]
+
+“fe
+
+_—-——
+
+Look at the successor agents and assess the initial agent's stake in each.
+
+_— =
+
+——_ =
+
+— i -—C—rl COO" lc lt
+
+—_—- eo me eK
+
+--
+
+oe
+
+bee
+
+-— = &— =
+
+— —_—_  --
+
+~=-
+
+ao ooOroooOoOo
+
+meee ee
+
+—s
+
+——_—— S|
+
+ee
+
+a
+
+—_~_ =
+
+-_—— =
+
+-— = — -—
+
+~_— ow —_ =
+
+_—_— -
+
+- =
+
+_—
+
+¥.
+
+me incentive effect. =
+
+-——_—
+
+-_——-_—
+
+—
+
+NS
+
+er
+
+~—- A lower stake
+
+_—-~ ww er re 77
+
+Tequires a larger Payment for the sa
+
+—~—_— oo
+
+—_—_ —-
+
+ee ee Or
+
+_ —
+
+—ee ee =— = =
+
+——— =
+
+- =
+
+23g
+
+ae
+
+oer 2
+
+~- -
+
+— _.
+
+er err To
+
+--—
+
+ws o_o -
+
+_—
+
+~~ - _— = —
+
+—_——
+
+--
+
+—_—e-
+
+——
+
+2 AR y a
+
+“aa
+
+-~- —o
+
+—_-—<—oOo
+
+N
+
+woe
+
+"1
+
+tial agent is the social harm. =_
+
+_-_ -—_—
+
+-_=—
+
+At
+
+= The targe
+
+_ — *-
+
+t cost to the ini
+
+—_— eon
+
+—_— a i er
+
+-_ =
+
+-—--
+
+ae k
+
+as
+
+78h
+
+-— = -
+
+—— oo
+
+-~—<“~e|8e 7
+
+—
+
+~-_
+
+-
+
+-—_—_
+
+— =
+
+-— oo
+
+-— =e
+
+——_=- a TTT
+
+waaew - te OT
+
+aay”
+
+bi
+
+if
+
+a8
+
+wan ere
+
+_
+
+=U
+
+—_—
+
+-_——
+
+~~ - oo
+
+-——_——
+
+~ =
+
+-_ o_o
+
+-~- 7
+
+—
+
+~_ ee Oo TT
+
+—— ome
+
+-_—--
+
+w 4,
+
+|
+
+ata
+
+rt i]
+
+1 6
+
+—_— =
+
+—_—
+
+-——_
+
+- -
+
+--
+
+wer oo 7
+
+- =
+
+_---c
+
+-——_ ™~
+
+“=
+
+weer o™”"
+
+--
+
+--c-
+
+- -
+
+~-
+
+— =
+
+te
+
+y ‘ ‘
+
+a
+
+A
+
+«i.
+
+SC ell
+
+VN
+
+x Ss
+
+wa |
+
+Lot
+
+wk
+
+Ba
+
+|
+
+oo
+
+i
+
+Serpe eo eee
+
+= =
+
+it
+
+tee.
+
+Ly
+
+ay
+
+eo
+
+es
+
+eT
+
+| nee
+
+| |
+
+=
+
+omg CO
+
+ee ~ satin
+
+beet =
+
+mee
+
+—
+
+an *
+
+pee
+
+a
+
+ae
+
+ee ~
+
+ee
+
+en
+
+oem
+
+Nose
+
+ate
+
+_—
+
+—
+
+ee
+
+—
+
+erste
+
+=
+
+wee
+
+sre
+
+eee
+
+awe
+
+t-—
+
+ae
+
+aww
+```

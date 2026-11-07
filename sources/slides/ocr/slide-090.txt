@@ -1,0 +1,11 @@
+Model = function, realised in a neural network,
+
+mapping token sequences to probability distributions
+over a token vocabulary.
+
+Characters = person-like entities that are simulated
+by LLMs and which appear to have stable
+behavioural and psychological dispositions.
+
+ 
+

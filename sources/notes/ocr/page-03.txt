@@ -1,0 +1,104 @@
+Comments on Shanahan - Nate Sharadin : 5 November 2026 : bare page numbers are the manuscript’s
+
+« 1. Price’s M-worlds:
+
+— “the four Ms, for example: Morality, Modality, Meaning and the Mental”: “important areas of human discourse
+seem threatened by the rise of modern science” (Price, “Naturalism and the Fate of the M-Worlds”, 1997).
+
+— Price 2013, p. 5: “in many interesting cases it is hard to see what natural facts we could be talking about.
+Different people will offer different lists of these ‘hard problems’ — common candidates include meaning, value,
+mathematical truth, causation and physical modality, and various aspects of mentality”.
+
+— Consciousness talk lives in one of them: the Mental.
+
+— Morality: the first M, and Price’s own test case: “Some topic of human discourse—morality, say-seems difficult
+to accommodate in a naturalistic world view.” (Price 1997, §1).
+
+« 2. Why go pragmatist? Because the M-worlds seem suspicious!
+
+— Eliminate them and we lose too much; defend them as non-natural and we need a faith in the limits of science.
+So “most philosophical naturalists look for some sort of rescue strategy” (Price 1997).
+
+— The pragmatist route “offers the benefits of nonnaturalism, without the metaphysical down side” (Price 1997);
+“no metaphysical spooks are thereby required.” (Price 1997, §2)
+
+— Morality: the same menu, with names attached. Eliminate: Mackie, “There are no objective values”, because
+“If there were objective values, then they would be entities or qualities or relations of a very strange sort, utterly -
+different from anything else in the universe” (Ethics: Inventing Right and Wrong, 1977, pp. 15, 38). Defend as
+non-natural: Moore and the intuitionists.
+
+¢ 3. So what does it mean to go pragmatist? A simple-minded pragmatist says (Blackburn):
+« — Pose the external question about a stretch of talk; answer it by saying what is done by talking that way, not by
+finding what it is about.
+
+— Blackburn, “Pragmatism: All or Some?” (2013), p. 75: “You will be a pragmatist about an area of discourse if
+you pose a Carnapian external question: how does it come about that we go in for this kind of discourse and
+thought? [...] Instead, the explanation proceeds by talking in different terms of what is done by so talking.”
+
+— Morality: the view was built for ethics first. Blackburn, p. 75, straight after the definition: “All this is entirely
+in accord with the approach expressivists such as Gibbard and myself have taken to the ethical, which can
+encompass the more general area of the ‘normative’ ”.
+
++ 4. So: we should drop the demand to find something the discourse tracks; we should, instead, ask
+what it does.
+
+— Shanahan says this himself! On p. 42: “metaphysically flavoured questions about what consciousness is have
+been supplanted by questions about how words like “consciousness”, “awareness”, “feeling”, and so on are used.”
+
+— Morality: Price 1997, §4, says the same of moral talk: “the remaining puzzle is merely sociolinguistic, and not
+metaphysical. It is the issue as to why creatures like us should find ourselves engaged in this particular linguistic
+practice, not the issue as to what these moral properties are.”
+
+« 5. What does the language do? Shanahan tells us:
+
+— Prediction, p. 6: “To describe, predict, and explain complex behaviour, it often makes sense to adopt what
+Dennett calls the intentional stance”.
+
+— p. 33 fn 88: to extend the language of consciousness to something is to “call upon the resources of those language
+games to describe the thing, to explain its past behaviour, to predict its future behaviour, and so on.”
+
+— Fellowship and treatment, p. 33: the octopus “should be admitted to the fellowship of conscious creatures, and
+treated accordingly.”
+
+— Attitude, not opinion, p. 33: “we are not “of the opinion” that the child or the horse is a sentient being. Things
+run much deeper than that. Unthinkingly, spontaneously, we simply take up the attitude towards them that we
+adopt towards fellow conscious creatures.” (fn 89: PI II iv)
+
+— Moral standing, p. 32: “the capacity for consciousness goes hand-in-hand with candidature for moral considera-
+tion”.
+
+— Morality: the expressivist’s answer for moral talk has the same shape: its function is “to give voice to certain
+mental states, distinguished by their motivational role in human psychology” (Price 1997, §4). And the two
+practices aren’t just parallel, they’re joined: admitting something to the fellowship of conscious creatures is
+already a moral act (p. 32).
+
+« 6. But then Shanahan looks for more than this:
+
+— p. 10: “How is this space structured? What are its dimensions of variation, and where are its boundaries?”; the
+“compendium” of specimens, like “19th century collectors”.
+
+— As if there were an answer to be had apart from: should we extend these practices to this thing?
+
+— He resists “Surely (the thought goes) there is a fact of the matter here.” (p. 8), but only by going to “nothing
+IS anything” (p. 16) and “not ultimately real” (pp. 16-19, 25-27).
+
+~ When he does reach “should we extend?”, he puts it outside reason, p. 46: “the license to extend the language
+of consciousness to AI cannot be witheld [sic] on empirical or rational grounds”; “So the decision whether to
+extend the language of consciousness to AI is indeed a matter of existential orientation”,
+
+— pp. 46-47: “we now set aside the concepts of truth, reality, rationality, etc, in favour of ambiguity, metaphor,
+imagery, allegory, story, polysemy, paradox, contradiction, etc. There is no law of the excluded middle when it
+comes to existential orientations.”
+
++ 7. Diagnosis: Shanahan is hostage to the idea that language is representational.
+
+— So, since there’s no hidden thing to represent, it must be that the represented thing is mysterious / empty.
+
+— For this reason, a question with no represented thing behind it must be beyond reason!
+
+— Morality: each of the moves in point 6 has a familiar moral twin:
+
+* The specimen collection: the moral realist’s catalogue of the moral facts, as if there ‘were a list to be had
+apart from what we should do.
+* “Surely ... there is a fact of the matter here” (p. 8), answered with “not ultimately real”: Mackie’s error
+

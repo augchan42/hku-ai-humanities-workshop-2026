@@ -1,0 +1,289 @@
+# Album 202: Herman Cappelen · photo 202
+
+Time: 2026-11-06T14:25:05.080000+08:00
+Session: Understanding: methods, evidence, and objections
+Photo ID: AF1QipOKMDFeWuVpC4oSjyQ8otzg7T8Q-MgFkGG3dj6c
+Image: sources/slides/images/slide-202.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPs81_C1fgVmaOcFEyJEISG_XH0yYzLpv6x6JgTf9YBCLmacmsbk6VvxCnf3W23XXRFXT5YHFg7TJW9auFSy8Rh-2HDDdMAd6UM-vHqeIQka6cKkxIb
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+NN
+
+oo
+
+Tk
+
+—
+
+FAILURE AND COMPETING EXPLAN
+
+ATIONS
+
+ve science of LLMs
+
+Reply: Towards a cogniti
+
+n cognition works. 5}
+
+ed us understand how huma
+
+Kahneman and Tversky’s findings help
+
+t succeed under some condi
+
+tions and fail under ¢
+
+revealed our reliance on heuristics tha
+
+Research on LLM failures may play the same role.
+
+why it breaks down €
+
+We need to discover which conditions support LLM reasoning and
+
+conditions may differ substantially from ours.
+
+Some failures can undermine capacity attributions. Others can reveal the organizatior
+
+cognitive life.
+
+a
+
+a
+
+_
+
+_
+
+—
+
+—
+
+—_——
+
+—
+
+—4
+
+og
+
+Va
+
+4 ¢
+
+This may be the beginning of LLM cognitive science: investigating their capacities and characte
+
+eo
+
+without assuming that their minds work like ours.
+
+— ee
+
+_
+
+aT
+
+aaanea
+
+fe
+
+=3
+
+—_——
+
+—
+
+f
+
+ta
+
+——
+
+“a
+
+——-
+
+——
+
+a
+
+Herman Cappelen |
+
+Sacer See
+
+wy
+
+io]
+
+‘oy
+
+kad
+
+ot
+
+4D | 5k
+
+a
+
+OM tt ee eee
+
+— Pc
+
+~
+
+ita
+
+Pteaceve
+
+at
+
+1
+
+we ee ee
+
+— se
+
+———
+
++
+
+XY
+
+sw
+
+ae
+
+seems
+
+Soros
+
+— so
+
+S
+
+ae alenrepleT wun
+
+Pees wee
+
+oe,
+
+wn ve ~
+
+ew
+
+har mas romain
+
+De bor dee
+
+~ 124A - bet tiey vem,
+
+or
+
+ae
+
+ETN‘
+
+thin cer Farce
+
+‘evel avenied cm,
+
+a rede! ery oat,
+
+Ancor rade ae fe Dhweteres}
+
+Bat eu NUT hoe wa.
+
+ae
+
+we
+
+Vy ev evens peaee
+
+rte
+
+a” Se
+
+pa
+
+at
+
+Tar ny
+
+he tlh arnt shia sng abet
+
+OD hate Anhey
+
+2 teen
+
+wd
+
+Touma sogesis usacr af tf
+
+tet
+
+Moo eS
+
+wet eG
+
+Cot we
+
+a
+
+PORE GE
+
+as
+
+ye
+
+et
+
+ee“,
+
+oY
+
+A
+
+AE foe
+
+wr
+
+0 he
+
+A
+
+te WS
+
+OH Ft.
+
+BY KOSS
+
+by
+
+vet
+
+a
+
+me
+
+—_ 2
+
+eer
+
+~
+
+—
+
+‘ * x
+
+eR)
+
+— —
+
+Hy
+
+tee — wore
+
+ee
+```

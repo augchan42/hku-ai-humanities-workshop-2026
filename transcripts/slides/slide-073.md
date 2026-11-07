@@ -1,0 +1,503 @@
+# Album 073: Internal evidence and interpretation
+
+Time: 2026-11-05T14:15:40+08:00
+Session: Radical AI Interpretability
+Photo ID: AF1QipNcJeDXkGSIFfSzh8wpZhRJzTFNHeKGBgJd-bvK
+Image: sources/slides/images/slide-073.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczMjfNL11FoMAypzDiQQKsqaZUttA4eXo0YN35uuoaQkaDKt6EQtnST5Ovw8L6AymPHmvFhuKgbjqjOOiQDNKWE6xW7iITSUBJFEuvZMVQXGcG8ClqT6
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+--
+
+—- ee
+
+TF Seennegmee
+
+—
+
+ee! rs
+
+nang
+
+ee
+
+——temmeaseanerny
+
+ee.
+
+=
+
+—_—_—_—_—_—_—_—__
+
+Tt ee
+
+Senne
+
+~~ aL
+
+ee
+
+a
+
+meee
+
+| een]
+
+—
+
+Or
+
+| ar
+
+Bo
+
+Tee
+
+—_————_
+
+ay
+
+oe,
+
+a
+
+——
+
+_
+
+-~
+
+~
+
+—
+
+—~—
+
+i 1 .
+
+ee ee,
+
+ph
+
+—_———. ee
+
+a
+
+- Pee yt
+
+te
+
+a.
+
+——
+
+=—
+
+[—
+
+~~
+
+a
+
+me -~
+
+—_ ay
+
+lS
+
+aC
+
+———
+
+a
+
+—~— s
+
+_—__
+
+4
+
+4
+
+SS TF SEE ee
+
+-~—
+
+a
+
+=
+
+==
+
+ee
+
+—|
+
+—
+
+~ Se
+
+la gg
+
+——
+
+oo
+
+Tl
+
+be
+
+E.
+
+oe
+
+—— _
+
+——
+
+i — =
+
+— on
+
+Sy
+
+Ss ee
+
+La
+
+or
+
+—
+
+—_~>
+
+——
+
+(beatae ean ge
+
+SY
+
+ec
+
+=a
+
+ra
+
+~~ '-
+
+a
+
+Ni
+
+0 ones
+
+ee
+
++>
+
+—_——
+
+—
+
+a
+
+oy
+
+s
+
+7a
+
+s
+
+ed
+
+a?
+
+4
+
+a |
+
+a
+
+mare
+
+~<a.
+
+‘ew .
+
+as
+
+a
+
+7 a
+
+ae
+
+ee
+
+wa wht o~
+
+ea
+
+4
+
+a a
+
+e
+
+m
+
+weet Gor
+
+FT i
+
+For us, not rivals.
+
+:
+
+grr
+
+ag
+
+Many belief-desire pairs rationalize the same behaviour. Internal structure can break ties and
+
+eee ee
+
+Te ON
+
+yd yS
+
+NY
+
+extend reach.
+
+ax’
+
+3%
+
+ims
+
+NA
+
+emg
+
+~ \,
+
+ane
+
+tr een
+
+re
+
+And what we find inside is evid
+
+¢ the interpretationist can use too.
+
+AY
+
+ts Ne
+
+(4
+
+| ta ke |
+
+oe
+
+u
+
+=
+
+Su
+
+sat
+
+at
+
+— easy
+
+c.
+
+—- sr
+
+_—
+
+pone
+
+Mt.
+
+wih
+
+— a
+
+eras
+
+__|
+
+>
+
+ee
+
+pS
+
+ \
+
+—~-
+
+eo ee
+
+AS
+
+ee,
+
+wert
+
+-—
+
+neo
+
+eo a
+
+tS gt “ay ET SN
+
+--
+
+ae
+
+~
+
+je
+
+yw ee
+
+xe
+
+-pevet
+
+a a
+
+eee I AEH
+
+. een oper
+
+LL emeepeees
+
+PDI ERT
+
+oo
+
+cad
+
+we ee at
+
+roo
+
+\
+
+atl xn
+
+ei
+
+oA oe
+
+L,
+
+Pe
+
+one
+
+~
+
+A
+
+a”
+
+Ne
+
+<p
+
+PO.
+
+ree
+
+.
+
+A:
+
+oe
+
+eee A CLE ow
+
+.
+
+s
+
+:
+
+iyo
+
+—s
+
+ee.
+
+Cs
+
+aa,
+
+Bee
+
+—. TOA
+
+4 et ee
+
+PIS
+
+*.
+
+sf
+
+wf 1"
+
+\\\
+
+\
+
+\\
+
+ae ER ep 4
+
+IOS,
+
+Ca:
+
+a
+
+<
+
+a
+
+a
+
+.
+
+oN
+
+~
+
+"hep
+
+ea
+
+Coe
+
+ag
+
+~~ me
+
+>
+
+Re OT
+
+es ‘
+```

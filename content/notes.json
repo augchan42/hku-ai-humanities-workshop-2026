@@ -1,0 +1,176 @@
+[
+  {
+    "page": 1, "handout": "boghossian-on-shanahan", "author": "Paul Boghossian", "day": 1,
+    "title": "Is AI pain a question with a true answer?", "theme": "Experience",
+    "summary": "Boghossian argues that asking whether an AI feels pain can be a factual question, even if we cannot settle it. He challenges Shanahan’s approach as he understands it: that applying pain language to AI calls for a decision about how we speak and relate to it.",
+    "notes": [
+      {"ref":"1–3", "title":"Start with what pain feels like", "explanation":"When you burn your hand, there is a particular feeling. Boghossian wants to know whether an AI could have a feeling of that kind. A convincing sentence about pain would not, on its own, answer his question."},
+      {"ref":"4", "title":"An inside view", "explanation":"The phrase ‘something it is like’ points to the difference between describing a sensation and actually having it. A description of a headache and the headache itself are different things."},
+      {"ref":"5", "title":"Your access to your own feelings", "explanation":"You usually know your own pain more directly than other people do. Stronger claims—that you can never be wrong about your feelings, or that nobody could ever know them as well—are disputed. Boghossian’s argument does not require all those stronger claims."},
+      {"ref":"6", "title":"Unknown can still be true or false", "explanation":"Boghossian thinks the feeling either occurs or does not. Being unable to check which answer is right would be a limit on our knowledge, rather than proof that there is no right answer."},
+      {"ref":"7", "title":"A decision about language and relationships", "explanation":"Boghossian presents Shanahan as saying that extending words such as ‘pain’ to AI involves a choice in how we relate to it. This is Boghossian’s account of the position he is criticizing; the full manuscript is not in the PDF."},
+      {"ref":"8–9", "title":"Do familiar words settle unfamiliar cases?", "explanation":"Some words leave room for judgment when a new kind of thing appears. Boghossian asks why ‘pain’ should work that way: if it already names a specific feeling, why would a new kind of being make its application unsettled?"}
+    ],
+    "example":"Imagine an AI saying ‘that hurts.’ One question is whether it has a feeling. Another is whether we should respond with care. This handout asks whether the first question can be replaced by a decision about the second.",
+    "question":"Does identifying a feeling in yourself fix exactly which other cases count as that feeling?"
+  },
+  {
+    "page": 2, "handout": "boghossian-on-shanahan", "author": "Paul Boghossian", "day": 1,
+    "title": "No way to check is not the same as no fact", "theme": "Experience",
+    "summary":"The central objection is to a step in the private-language argument: moving from ‘there is no independent check on my judgment’ to ‘there is no distinction between being right and being wrong.’ Boghossian rejects that move.",
+    "notes":[
+      {"ref":"10a", "title":"The argument he rejects", "explanation":"A private-language argument challenges the idea that you can give a word a stable meaning solely by privately pointing your attention at an inner feeling. Boghossian says the versions he has encountered do not persuade him."},
+      {"ref":"10b.i–v", "title":"A diary of sensations", "explanation":"Suppose you name a new feeling ‘S.’ A week later you think you feel S again. If only your memory can check this, and memory can mislead you, what makes your second use correct? The argument asks whether ‘correct’ can mean anything if whatever seems right must count as right."},
+      {"ref":"10b.vi–viii", "title":"Why bodies and public behaviour enter the debate", "explanation":"The alternative connects pain language with the shared lives and behaviour of embodied creatures. On this account, applying that language to a very different machine may require a new decision about its use."},
+      {"ref":"11a–d", "title":"Two different claims", "explanation":"‘How could you tell?’ is a question about knowledge. ‘Could there be a fact?’ is a question about reality. Boghossian argues that a problem with the first does not automatically establish a problem with the second."},
+      {"ref":"11e", "title":"A truth without an available proof", "explanation":"He uses a mathematical conjecture to illustrate his point: a statement might be true or false even if nobody ever proves which. The example supports a distinction between truth and our ability to verify it; it does not settle whether machines feel pain."},
+      {"ref":"12–13", "title":"His conclusion", "explanation":"If an initial act of naming can identify a sensation, the AI question can have a factual answer. Boghossian thinks the private-language objection has not shown that this kind of naming is impossible."}
+    ],
+    "example":"You remember a tune from childhood but have no recording or other witness. Your inability to check your memory does not by itself show that there was no particular tune.",
+    "question":"Does the diary example reveal an unreliable test, or a failure to establish a meaning at all?"
+  },
+  {
+    "page":3, "handout":"sharadin-on-shanahan", "author":"Nate Sharadin", "day":1,
+    "title":"Ask what consciousness talk helps us do", "theme":"Language & care",
+    "summary":"Sharadin develops a practical approach to consciousness language using comparisons with moral language. He asks why Shanahan, having explained what that language does, still seeks a deeper map of minds or an answer outside ordinary reasoning.",
+    "notes":[
+      {"ref":"1", "title":"Four difficult subjects", "explanation":"The ‘four Ms’ are morality, possibility and necessity, meaning, and the mental. They are topics that can seem difficult to fit into a scientific account of the world. Consciousness belongs to the fourth group."},
+      {"ref":"2", "title":"Why take a practical approach?", "explanation":"Simply abandoning these subjects loses too much. Treating them as a separate, mysterious part of reality also has costs. A practical approach asks whether we can understand the usefulness of the language without adding mysterious things to the world."},
+      {"ref":"3", "title":"What are we doing when we speak?", "explanation":"Instead of starting with ‘What hidden thing does this word name?’, ask ‘Why do people speak this way, and what does it accomplish?’ Sharadin draws this approach from discussions of morality."},
+      {"ref":"4", "title":"Change the question", "explanation":"If we want to understand consciousness language, we can study how people use words such as ‘awareness’ and ‘feeling.’ Sharadin reads Shanahan as already accepting this change in approach."},
+      {"ref":"5", "title":"Prediction, recognition, and care", "explanation":"Calling something conscious can help us explain its behaviour, predict what it will do, and recognize it as a being that deserves consideration. These uses connect the discussion of minds directly with how we treat others."},
+      {"ref":"6", "title":"Why look for something more?", "explanation":"Sharadin objects that Shanahan still looks for the boundaries of a space of minds and describes the final decision about AI as an outlook beyond ordinary factual or rational argument. Sharadin thinks practical reasoning can keep doing useful work."},
+      {"ref":"7, continued on page 4", "title":"An old expectation may be lingering", "explanation":"Sharadin’s diagnosis is that Shanahan still expects consciousness language to represent a hidden reality. When that reality cannot be found, the language seems empty or the decision seems beyond reason. The bottom of this scan is clipped; missing text is marked in the transcript."}
+    ],
+    "example":"Saying ‘the octopus is in pain’ helps us understand its behaviour and gives us reasons to treat it carefully. Sharadin asks why explaining these roles must leave another, deeper question unanswered.",
+    "question":"Can explaining the practical role of a word fully explain it, or does a question about what it refers to remain?"
+  },
+  {
+    "page":4, "handout":"sharadin-on-shanahan", "author":"Nate Sharadin", "day":1,
+    "title":"Practical choices can still have reasons", "theme":"Language & care",
+    "summary":"Sharadin argues that giving up a search for hidden metaphysical foundations need not make consciousness unreal, end the discussion, or turn decisions about AI into arbitrary personal choices.",
+    "notes":[
+      {"ref":"7, continued", "title":"No extra foundation does not mean everything is pretend", "explanation":"Sharadin compares this with moral claims. On the view he draws from Blackburn, saying that cruelty is wrong need not be a useful fiction just because we do not explain it by adding special moral objects to the world."},
+      {"ref":"8: diagnosis and remedy", "title":"Stop asking for an answer of the wrong kind", "explanation":"‘Therapy’ here means examining the assumptions that created a philosophical puzzle. Sharadin thinks the demand for another reality behind our practices may be the source of the remaining unease."},
+      {"ref":"8: ordinary questions", "title":"The discussion keeps going", "explanation":"Questions such as whether an animal is in pain, or whether we should extend concern to an AI, remain open. Sharadin thinks we should answer them with reasons about the situation and the consequences of our decisions."},
+      {"ref":"8: opening out", "title":"No need to replace reasoning with poetry", "explanation":"Sharadin challenges the idea that resolving a philosophical confusion closes down conversation and requires a new poetic outlook to reopen it. On his account, practical debate was available all along."},
+      {"ref":"9a", "title":"First possible explanation of the disagreement", "explanation":"Perhaps Shanahan thinks a practical account undermines consciousness talk by making it less real. Sharadin replies that a claim can remain serious and true within our practices without needing an extra hidden foundation."},
+      {"ref":"9b", "title":"Second possible explanation", "explanation":"Perhaps familiar practices do not settle unusual cases such as AI. Sharadin replies that an unsettled decision can still be guided by reasons: what the language is for, and the costs of wrongly including or excluding a being. The last line is partly clipped in the scan."}
+    ],
+    "example":"If a new kind of animal makes our usual rules of care uncertain, we can investigate its needs and debate the costs of getting its treatment wrong. Uncertainty does not force us to choose without reasons.",
+    "question":"Which reasons should guide a decision to extend concern to AI when existing habits do not settle it?"
+  },
+  {
+    "page":5, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"What are we asking when we ask if AI understands?", "theme":"Understanding",
+    "summary":"Boghossian separates three questions: whether AI understands as humans do, whether it has a more basic kind of understanding, and whether it fits a newly designed concept. He recommends starting with the human case.",
+    "notes":[
+      {"ref":"The Question", "title":"More than producing an answer", "explanation":"Human problem-solving often involves understanding a question, wanting to answer truthfully, reasoning about it, checking whether more evidence is needed, acting on those judgments, and communicating the result. Boghossian asks whether something like this happens in an LLM."},
+      {"ref":"Q", "title":"The human comparison", "explanation":"Does the AI solve problems in the way humans do? This asks about the capacities behind the answer, rather than just whether the answer sounds convincing."},
+      {"ref":"Q*", "title":"A more basic capacity", "explanation":"Perhaps AI lacks some features of human understanding but has its essential core. This is a different question, and requires an account of what that core would be."},
+      {"ref":"Q**", "title":"Redesigning the concept", "explanation":"We could introduce a version of ‘understanding’ suited to machines. Boghossian asks us to distinguish changing our concept from discovering that a machine already has the familiar capacity."},
+      {"ref":"The Main Arguments", "title":"Success and scepticism", "explanation":"One side treats impressive achievements as evidence of mental abilities. A sceptical argument points to next-token prediction as the underlying process. The next page explains why Boghossian rejects that simple argument, even though he remains sceptical for other reasons."}
+    ],
+    "example":"A student may memorize answers, learn a method, or understand why the method works. Getting an answer right does not immediately tell you which happened.",
+    "question":"Which kind of understanding would matter for the way you want to use an AI?"
+  },
+  {
+    "page":6, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"Meaning, interpretation, and degrees of understanding", "theme":"Understanding",
+    "summary":"A simple account of the underlying machinery does not rule out richer abilities. Boghossian instead questions how meaning is grounded, rejects interpretation alone as a sufficient account, and distinguishes three levels of understanding.",
+    "notes":[
+      {"ref":"Opening argument", "title":"Simple parts can support richer abilities", "explanation":"Knowing that a system predicts tokens does not, by itself, establish that it lacks beliefs or understanding. Boghossian allows that higher-level abilities can arise from lower-level processes."},
+      {"ref":"M&U / Grounding Problem", "title":"How do words connect with the world?", "explanation":"Boghossian raises the concern that a language-only system lacks the direct sensory contact through which people connect words with things. This is the handout’s framing; it is not a description of every AI system, including systems that process images or control robots."},
+      {"ref":"Meaning in LLMs", "title":"A useful interpretation may not settle what exists", "explanation":"We might predict a device by saying that it ‘wants’ something. Boghossian doubts that the usefulness of this description is sufficient to make it literally have a desire. He also worries that explaining mental states through interpretation already relies on an interpreter’s mental states."},
+      {"ref":"Derivative vs Original Meaning", "title":"Meaning can depend on other people", "explanation":"A word can mean something partly because of our relationship to people who introduced or use it. The paragraph introduces this possibility briefly; it does not develop a complete explanation of meaning in LLMs."},
+      {"ref":"Understanding and Grasping Rules", "title":"Three levels", "explanation":"The weakest level is using a word meaningfully. The middle level also involves knowing what it means. The strongest is an expert’s understanding. Boghossian’s main target is the middle level, rather than requiring every speaker to be an expert."}
+    ],
+    "example":"You can use a specialist word you learned from a doctor without knowing as much as the doctor. That raises a question about how much understanding is required for meaningful use.",
+    "question":"When does a useful way of describing a system become evidence that it really has the described capacity?"
+  },
+  {
+    "page":7, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"Do we see understanding, or infer it?", "theme":"Evidence",
+    "summary":"Boghossian argues that judging someone to understand a language involves an inference from their behaviour. If the same behaviour could arise in a different way, we need to compare explanations.",
+    "notes":[
+      {"ref":"Medium understanding", "title":"Set the target", "explanation":"The question is whether an LLM knows what its words mean in an ordinary, non-expert sense. Boghossian asks what that ability consists in before deciding that a machine has it."},
+      {"ref":"Cappelen & Dever", "title":"Can we just recognize it?", "explanation":"He challenges a position he attributes to Cappelen and Dever: that we can recognize understanding in a conversation without first having a full theory of it. His objection concerns the kind of evidence that recognition provides."},
+      {"ref":"Pink shirt example", "title":"Seeing a fact and drawing a conclusion", "explanation":"You can see that a shirt is pink. You may infer where it was made from background information. An inference can feel immediate while still relying on assumptions."},
+      {"ref":"Mandarin example", "title":"Conversation supplies evidence over time", "explanation":"Listening to someone speak Mandarin can give strong evidence that they understand it. Boghossian argues that this works by making understanding the best explanation of their performance."},
+      {"ref":"Lookup-table thought experiment", "title":"An alternative could change the judgment", "explanation":"If you discovered that a seemingly fluent speaker was a machine selecting responses from a huge table, your confidence might change. This is a thought experiment about evidence, not a claim that present-day LLMs literally use such a table."},
+      {"ref":"Closing proposal", "title":"Compare competing accounts", "explanation":"Boghossian proposes comparing human-like understanding with an account based on learned patterns. This page announces the argument he will make; it does not yet establish the conclusion."}
+    ],
+    "example":"A familiar-looking signature usually suggests a familiar writer. Learning that someone can copy it perfectly changes what the signature proves.",
+    "question":"What observations would distinguish understanding from a successful alternative way of producing the same behaviour?"
+  },
+  {
+    "page":8, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"Knowing a rule is more than scoring well", "theme":"Rules & reasons",
+    "summary":"Boghossian proposes that understanding involves grasping a general rule. He gives that grasp three roles: fixing correct applications, explaining what a speaker does, and providing a reason for doing it.",
+    "notes":[
+      {"ref":"Opening alternatives", "title":"Definitions and perfect performance are not enough", "explanation":"Being able to state a definition does not fully explain understanding. Requiring correct answers in every possible circumstance is also too demanding: people have limited time, memory, and attention."},
+      {"ref":"70% proposal", "title":"A percentage needs a defined set of questions", "explanation":"Boghossian rejects measuring understanding as success on a fixed percentage of all possible addition problems. There are infinitely many such problems, including ones far beyond a person’s practical capacity."},
+      {"ref":"Grasp / flash grasp", "title":"The general idea clicks", "explanation":"He proposes that understanding addition involves grasping a rule that applies beyond the examples you have seen. ‘Flash grasp’ names the idea that a general method can become available without learning each answer separately."},
+      {"ref":"First feature", "title":"The rule determines what counts as correct", "explanation":"‘Plus’ should keep meaning addition even for numbers nobody has used before. A rival rule could agree on every example so far and differ later. The handout calls attention to this possibility with ‘quus.’"},
+      {"ref":"Second feature", "title":"Understanding helps explain the answer", "explanation":"On this account, you give the answer because you understand the rule. Understanding is part of what produces your competent use, rather than a label added after observing it."},
+      {"ref":"Third feature / Justificatory Requirement", "title":"Understanding gives you a reason", "explanation":"Knowing what ‘green’ means and seeing a green wall gives you a reason to use the word. Boghossian wants an account of understanding that captures this role as well as the production of correct outputs."}
+    ],
+    "example":"A short method can tell you how to add unfamiliar numbers. A long list of previous answers cannot by itself tell you which rule should govern every new case.",
+    "question":"How would we tell whether a system is following a rule for a reason?"
+  },
+  {
+    "page":9, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"What do easy mistakes tell us?", "theme":"Rules & reasons",
+    "summary":"Boghossian connects understanding with acting for reasons, then argues that elementary mistakes put pressure on attributing that understanding to LLMs. The examples are reported in the handout, rather than reproduced tests in this archive.",
+    "notes":[
+      {"ref":"Planets analogy", "title":"Conforming to a pattern and acting for a reason", "explanation":"Planets move in ways described by rules, but do not choose their paths because they take a rule as a reason. Boghossian uses this difference to explain what he thinks human language use adds."},
+      {"ref":"Connection with consciousness", "title":"Reasons we can access", "explanation":"He suggests that knowing why you use a word connects understanding with awareness. This is an argued philosophical connection, rather than a result established for every account of understanding."},
+      {"ref":"Testing for Grasp", "title":"Allow hard mistakes; investigate easy ones", "explanation":"Humans may understand a method yet struggle with a very difficult problem. Boghossian expects much better performance where memory and concentration should not be a major obstacle."},
+      {"ref":"Decimal and sheep examples", "title":"Superficial cues can mislead", "explanation":"For decimal numbers, 9.9 is larger than 9.11. If all but nine sheep die, nine remain. The handout uses wrong answers to these questions as possible signs that a system follows misleading patterns."},
+      {"ref":"Multiplication example, continued on page 10", "title":"An answer that looks precise can still be wrong", "explanation":"The handout reports a model giving 50,322,417 for 5,647 × 8,911. That reported answer is incorrect. The actual product is 50,320,417. The model label in the handout has not been independently authenticated."}
+    ],
+    "example":"A child who compares decimal numbers by comparing the digits after the point may have missed the rule. A single wrong answer by an AI raises a question about its method, but competing explanations still need examination.",
+    "question":"Which mistakes reveal a missing concept, and which reveal a limit in using a concept?"
+  },
+  {
+    "page":10, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"A correction can sound convincing and still be wrong", "theme":"Evidence",
+    "summary":"In the reported exchange, the model replaces one wrong multiplication answer with another before accepting the author’s correct answer. Boghossian treats the sequence as evidence against robust understanding.",
+    "notes":[
+      {"ref":"Method question", "title":"What produced the number?", "explanation":"The author asks whether the answer came from a calculator or from the language model. The reported reply says external computational tools could be used. This is text quoted in the handout, not a verified log of which tools actually ran."},
+      {"ref":"First attempted correction", "title":"Confident wording does not verify a result", "explanation":"The model’s reported correction is 50,319,417, which is also wrong. An explanation of why mistakes happen is not itself evidence that the new number is correct."},
+      {"ref":"Author correction", "title":"The verified result", "explanation":"5,647 × 8,911 = 50,320,417. This arithmetic has been checked while preparing the archive. Both earlier answers are preserved in the transcript because they are the point of the example."},
+      {"ref":"Closing assessment", "title":"What the author concludes", "explanation":"Boghossian thinks errors of this kind are unlikely if the system understands the task. That conclusion is stronger than the arithmetic check alone: it depends on his account of what understanding should make possible."}
+    ],
+    "example":"An answer can include an apology, an explanation, and a boxed result without having been checked. A separate calculation is what settles this numerical question.",
+    "question":"Would reliable tool use count as the AI understanding the problem, or as a different system doing the calculation?"
+  },
+  {
+    "page":11, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"Humans make mistakes too. What about learned rules?", "theme":"Rules & reasons",
+    "summary":"Boghossian considers human error and future improvement as replies to his argument. He then grants that networks can learn general patterns, while questioning whether that amounts to human-style grasp of a rule.",
+    "notes":[
+      {"ref":"Humans Make Simple Errors, Too", "title":"One wrong answer can have different causes", "explanation":"A human might know a method and lose track halfway through. Boghossian favours a different explanation for the model examples: misleading patterns without understanding. His claim that the relevant human limitations do not apply to LLMs is part of his argument and remains open to challenge."},
+      {"ref":"These Errors Will Eventually Disappear", "title":"Could better models solve the problem?", "explanation":"He doubts that finite training will remove every unusual case that triggers elementary errors. This is his prediction, rather than a proof that improvement cannot remove a particular failure."},
+      {"ref":"LLMs and Grasping Rules", "title":"A second argument survives improved accuracy", "explanation":"Even if the easy mistakes disappear, he asks whether anything in the model fixes a rule’s unlimited applications, explains its use, and gives the system a reason to follow it."},
+      {"ref":"Grokking", "title":"A learned pattern starts to generalize", "explanation":"The handout describes a network that initially appears to memorize examples and later performs well on new ones. Boghossian accepts that this can be evidence of learning something general."},
+      {"ref":"Questions 1–2", "title":"Separate two achievements", "explanation":"Learning a general pattern is one achievement. Grasping a rule in the human sense he is discussing is another. The first does not settle the second without further argument."}
+    ],
+    "example":"A system that discovers a compact method has done more than store every answer. We can still ask whether it treats the method as a reason, and whether that requirement is fair.",
+    "question":"What evidence would justify moving from ‘learned a general pattern’ to ‘understands a rule’?"
+  },
+  {
+    "page":12, "handout":"boghossian-understanding", "author":"Paul Boghossian", "day":2,
+    "title":"How far does a learned rule reach?", "theme":"Rules & reasons",
+    "summary":"Boghossian argues that success over a finite domain does not establish a rule for infinitely many cases. He ends by asking what useful notion of understanding would remain if we dropped unlimited reach and action for reasons.",
+    "notes":[
+      {"ref":"Finite grokking experiments", "title":"A complete small test is still a small test", "explanation":"Addition modulo 97 wraps numbers around after 96, so there are only finitely many input combinations. Perfect performance on that task does not by itself establish ordinary addition for every possible natural number."},
+      {"ref":"Plus/quus", "title":"Many rules fit a finite record", "explanation":"A rival rule could give the same answers as addition for all tested numbers and diverge for huge ones. Boghossian asks what fixes addition, rather than that rival, as what the model means."},
+      {"ref":"Design, purpose, and hypothetical cases", "title":"Other ways to settle the interpretation", "explanation":"The handout considers a designer’s intentions, biological purpose, and what a system would do if it continued operating. Boghossian doubts these resolve the issue for the networks in question. That is his assessment, rather than an established general limitation."},
+      {"ref":"Justificatory requirement", "title":"The question about reasons remains", "explanation":"Even setting infinite reach aside, he asks whether the model acts because it takes something to be a reason. Following a causal process and responding to a reason are different in the account he is developing."},
+      {"ref":"Final question", "title":"Could a less demanding concept still be useful?", "explanation":"He closes with an open question: if understanding did not require unlimited applications or this kind of rational activity, what would it amount to? The handout does not supply a finished replacement account."}
+    ],
+    "example":"A rule that says ‘add normally below a trillion, then always answer five’ could match a huge collection of ordinary examples. What makes the intended rule addition instead?",
+    "question":"Should understanding require what Boghossian asks for, or can a less demanding account capture what matters?"
+  }
+]

@@ -1,0 +1,215 @@
+# Album 009: The Space of Possible Minds
+
+Time: 2026-11-05T09:47:14.122000+08:00
+Session: Artificial Intelligence, Subjectivity, and Silence
+Photo ID: AF1QipM5Ox5SDz6Qd0WQ5u_VmtMdYYcyi9P1lehyEc4F
+Image: sources/slides/images/slide-009.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczMjinwn2ykoXw4mcsoGuKYRCzBJ3HlArMvDA77LlNuZfmnWJ9hK5X3iZlw9PZURK4DsYWX_6DGbLRd4Evrpw_FLrFYtuPSbxpzejAysg1XbWeXYNIqv
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+——_
+
+—_-
+
+a7»
+
+c——>
+
+IE,
+
+owe
+
+i
+
+Ve
+
+ae
+
+The Space of Possible Minds
+
+[
+
+Quote 1b
+
+|
+
+Conscious
+
+“Within this post-reflective silence,
+
+Al/eri
+
+AI/ETI
+
+Our “mind
+
+the potential of the poetic opens out,
+
+f
+
+|
+
+children”
+
+and the task of appreciating the
+
+¢
+
+space of possible minds can be
+
+tackled afresh.”
+
+Shanahan, Ariificial intelligence,
+
+Subjectivity, and Silence
+
+a
+
+Conscious
+
+ro
+
+exotica
+
+Wa
+
+“No doubt [conscious experience]
+
+Robots & Al
+
+occurs in countless forms totally
+
+“<~ (pre 2020)
+
+Ko
+
+GT
+
+ta F
+
+unimaginable to us, on other planets
+
+in other solar systems throughout
+
+The Void of Inscrutability
+
+the universe”
+
+Capacity for consciousness
+
+E
+
+ay
+
+i>
+
+oR
+
+Nagel, What Is It Like to Be a Bat?
+
+Ld
+
+a
+
+a
+
+7y
+
+a
+
+Fee ES
+
+=
+
+—
+
+a
+
+ae
+
+aes mmr yn
+
+aires
+
+sane
+
+ts
+
+hee —!
+
+@
+
+ne | nner
+
+ae
+
+ean
+
+pool
+
+(75
+
+_- ——
+
+Murray Shanahan [ ~
+
+od
+
+orem Logan
+
+wy
+
+Oe ee
+
+Fra eee: GGRg in)
+
+emcee.
+
+Prades stias come Ob oe te title
+
+Ate ati a ee ae
+
+he NO AN 6 Senne an EI bel ad ot
+
+qt
+
+cmb ate inte niin A attain
+
+Bo. Oo
+
+=".
+
+at Gree Be ee Bee Oe
+
+Ao
+
+~—e
+
+(paepons that ars eapner va syseqnion in ttn feet pln
+
+Fe ee ne
+
+‘Va tan semen, enderenaeading the Winks tore
+
+enberenading ul Be pare we earn chee met
+
+‘va themh a 6 nema enter. wail you tie
+
+“aceytean' ts 0 tented witked bane, Wa ths el
+
+sdraryears behorsat yy machla poubly have nb
+
+‘wshcrestcqetigen eat ll bu hard to tere wth
+
+‘ern 6 mall on of mechs a Vi
+
+empty enpweed. 1's deatte, and might. wer
+
+‘word lanes whether yow'es gh may
+
+dh
+
+08 Wout Os toes parts ln peter
+```

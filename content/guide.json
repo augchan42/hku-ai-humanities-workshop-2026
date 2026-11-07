@@ -1,0 +1,441 @@
+{
+  "intro": "The workshop circles around a deceptively simple question: what would make an AI a mind? The materials approach it through experience, language, evidence, rules, and our relationships with other beings. These are competing approaches, rather than a shared workshop conclusion.",
+  "takeaways": [
+    {
+      "title": "Separate the questions",
+      "text": "Feeling pain, using meaningful words, grasping a rule, and deserving care are different questions. An answer to one does not automatically answer the others.",
+      "pages": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "Unknown and unsettled are different",
+      "text": "Boghossian argues that an answer can be factual even when we cannot discover it. His disagreement with the position he attributes to Shanahan concerns whether the question already has that kind of answer.",
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Practical judgment can involve reasons",
+      "text": "Sharadin argues that explaining what consciousness language does can leave room for serious reasoning about how we should treat AI.",
+      "pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Performance needs interpretation",
+      "text": "Impressive answers support a claim about ability, but the explanation of that ability remains in dispute. Mistakes also require explanation; they do not interpret themselves.",
+      "pages": [
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "title": "Learned patterns and grasped rules",
+      "text": "Boghossian accepts evidence that networks learn general patterns. He asks for more before attributing the kind of rule understanding that fixes applications and supplies reasons.",
+      "pages": [
+        8,
+        11,
+        12
+      ]
+    }
+  ],
+  "glossary": [
+    [
+      "LLM",
+      "A large language model: an AI trained to work with sequences of text pieces. The workshop asks what abilities its behaviour gives us reason to attribute to it.",
+      [
+        5,
+        6
+      ]
+    ],
+    [
+      "Token",
+      "A piece of text processed by a language model. It can be a word, part of a word, or punctuation.",
+      [
+        5
+      ]
+    ],
+    [
+      "Phenomenology",
+      "What an experience feels like from the inside—for example, the feeling of a headache.",
+      [
+        1
+      ]
+    ],
+    [
+      "Phenomenal consciousness",
+      "Having experiences with a felt character. This is narrower than being able to talk about experiences.",
+      [
+        1,
+        9
+      ]
+    ],
+    [
+      "Epistemology",
+      "Questions about what we know and how we could know it.",
+      [
+        2
+      ]
+    ],
+    [
+      "Metaphysics",
+      "Questions about what exists and what kinds of things those things are.",
+      [
+        2,
+        3
+      ]
+    ],
+    [
+      "Private-language argument",
+      "A challenge to the idea that a language could get its meaning entirely from private inner checks, with no shared standard for correct use. Its force and interpretation are disputed in the handouts.",
+      [
+        2
+      ]
+    ],
+    [
+      "Open texture",
+      "Room for judgment when a familiar word meets a new kind of case that its established use does not clearly settle.",
+      [
+        1
+      ]
+    ],
+    [
+      "Pragmatism",
+      "In Sharadin’s discussion, an approach that explains a kind of language by asking what using it does in our lives.",
+      [
+        3,
+        4
+      ]
+    ],
+    [
+      "Intentional stance",
+      "Predicting and explaining something by treating it as having beliefs and goals.",
+      [
+        3
+      ]
+    ],
+    [
+      "Interpretationism / interpretivism",
+      "A family of views connecting having beliefs and desires with being appropriately interpretable as having them. The speakers disagree about what makes an interpretation appropriate and what it establishes.",
+      [
+        6
+      ]
+    ],
+    [
+      "Intentionality",
+      "The ‘aboutness’ of a thought or other mental state—for example, a belief about tomorrow’s weather. Here it does not just mean planning to act.",
+      [
+        6
+      ]
+    ],
+    [
+      "Grounding",
+      "The connection between symbols and what they are about. The concern is how words get beyond connections to other words.",
+      [
+        6
+      ]
+    ],
+    [
+      "Derivative meaning",
+      "Meaning that depends on a relationship with other meaning-makers, rather than originating entirely in the current user of a symbol.",
+      [
+        6
+      ]
+    ],
+    [
+      "Conceptual engineering",
+      "Deliberately revising a concept to make it more useful or suitable for a purpose.",
+      [
+        5
+      ]
+    ],
+    [
+      "Inference to the best explanation",
+      "Concluding that something is likely because it best explains the evidence, rather than observing it directly.",
+      [
+        7
+      ]
+    ],
+    [
+      "Grasp of a rule",
+      "Understanding a general method in a way that guides new applications. Boghossian asks what distinguishes this from producing a good series of answers.",
+      [
+        8,
+        11
+      ]
+    ],
+    [
+      "Justificatory requirement",
+      "Boghossian’s requirement that understanding provide a reason for an action, as well as help cause or explain it.",
+      [
+        8,
+        9,
+        12
+      ]
+    ],
+    [
+      "Infinitary",
+      "Extending over infinitely many possible cases, such as addition for every pair of natural numbers.",
+      [
+        8,
+        12
+      ]
+    ],
+    [
+      "Plus/quus problem",
+      "The puzzle that a finite record of answers can fit addition and rival rules that diverge only in untested cases.",
+      [
+        8,
+        12
+      ]
+    ],
+    [
+      "Grokking",
+      "In the handout, the shift from apparently memorizing training examples to performing well on new cases by learning something more general.",
+      [
+        11,
+        12
+      ]
+    ],
+    [
+      "Modulo 97",
+      "Arithmetic that wraps around after 96. This creates a finite task, unlike ordinary addition over all natural numbers.",
+      [
+        12
+      ]
+    ],
+    [
+      "Moral standing",
+      "Counting morally in your own right, so that how you are treated matters for your own sake.",
+      [
+        3,
+        4
+      ]
+    ],
+    [
+      "Quasi-realism",
+      "The approach Sharadin draws from Blackburn: explain the practical role of a kind of language while preserving its ordinary serious claims, rather than treating them as useful make-believe.",
+      [
+        4
+      ]
+    ],
+    [
+      "Existential orientation",
+      "A broad outlook or way of relating to the world. The handouts dispute whether extending consciousness language to AI ultimately belongs here.",
+      [
+        1,
+        3,
+        4
+      ]
+    ],
+    [
+      "Embodiment",
+      "Having a body through which a being senses and acts in its surroundings.",
+      [
+        2,
+        3,
+        6
+      ]
+    ]
+  ],
+  "sessions": [
+    {
+      "id": "shanahan",
+      "day": 1,
+      "title": "Artificial Intelligence, Subjectivity, and Silence",
+      "speaker": "Murray Shanahan",
+      "range": [
+        3,
+        17
+      ],
+      "summary": "The opening slides connect questions about AI minds with Wittgenstein, Buddhist thought, and doubts about a fully independent self. Read alongside the two critical handouts: they help identify where the disagreement lies, but do not replace Shanahan’s full manuscript.",
+      "basis": "Title and photographed slides; PDF pages 1–4 supply critics’ accounts. The manuscript itself is not included.",
+      "topics": [
+        "What is an AI self?",
+        "How do we use consciousness language?",
+        "What can philosophical reflection resolve?"
+      ]
+    },
+    {
+      "id": "cappelen-commentary",
+      "day": 1,
+      "title": "Commentary on philosophical method",
+      "speaker": "Herman Cappelen",
+      "range": [
+        18,
+        31
+      ],
+      "summary": "The photographed commentary asks why exposing problems in a concept should end inquiry, rather than lead us to revise it. In everyday terms: discovering that a question is badly framed might be a reason to improve the question.",
+      "basis": "Visible slide headings and text, including album item 21. Attribution supported by the lectern nameplate and slide footer.",
+      "topics": [
+        "When should inquiry stop?",
+        "Revision or silence?",
+        "Who is philosophical therapy meant to help?"
+      ]
+    },
+    {
+      "id": "smith",
+      "day": 1,
+      "title": "Murray on Minds, Wittgenstein on Meaning",
+      "speaker": "Barry C. Smith",
+      "range": [
+        32,
+        42
+      ],
+      "summary": "The slides bring Wittgenstein’s discussions of meaning, machines, and following a rule into the exchange with Shanahan. A useful question for reading them is how a machine’s possible behaviour relates to our ways of describing it.",
+      "basis": "Title slide at item 32 and photographed excerpts. This is a reading orientation, not a reconstruction of unrecorded speech.",
+      "topics": [
+        "Meaning in use",
+        "Machines and possibilities",
+        "Following a rule"
+      ]
+    },
+    {
+      "id": "symposium",
+      "day": 1,
+      "title": "Symposium discussion and author response",
+      "speaker": "Workshop participants",
+      "range": [
+        43,
+        56
+      ],
+      "summary": "This group contains room photographs, a handout photograph, and images of the response and discussion. The two PDF commentaries provide readable written arguments; the room photos alone do not establish what each participant said.",
+      "basis": "Album sequence, official programme, and the supplied PDF.",
+      "topics": [
+        "Private language",
+        "Experience",
+        "Practical uses of consciousness talk"
+      ]
+    },
+    {
+      "id": "herrmann",
+      "day": 1,
+      "title": "Radical AI Interpretability",
+      "speaker": "Daniel A. Herrmann",
+      "range": [
+        61,
+        86
+      ],
+      "summary": "How could we work out a system’s beliefs, goals, and meanings from physical facts and behaviour? These slides connect interpretation with internal structure and formal methods. Looking inside a system can supply evidence for interpreting it, rather than being a competing project.",
+      "basis": "Title at item 61; method outline at 65; relationship between internal evidence and interpretation at 73. Formal derivations have not been independently checked.",
+      "topics": [
+        "Inferring beliefs and goals",
+        "Evidence from internal structure",
+        "What makes an interpretation fit?"
+      ]
+    },
+    {
+      "id": "street",
+      "day": 1,
+      "title": "Chuck, Wilson & the Emergence of Artificial Minds in Human-AI Conversation",
+      "speaker": "Winnie Street",
+      "range": [
+        87,
+        112
+      ],
+      "summary": "The slides distinguish an underlying model from the character that appears in a conversation. They explore whether the character’s apparent mental life is shaped by an interaction between a user and an AI, using comparisons with role-playing characters.",
+      "basis": "Title at item 87; model/character distinction at 90; role-playing and conversation at 99–105. The title slide prints different workshop dates; this archive follows the official programme and album dates.",
+      "topics": [
+        "Model or character?",
+        "The user’s role",
+        "Appearance of a persistent mind"
+      ]
+    },
+    {
+      "id": "keeling",
+      "day": 1,
+      "title": "Boltzmann Badger and the Relational View of Moral Standing",
+      "speaker": "Geoff Keeling",
+      "range": [
+        113,
+        131
+      ],
+      "summary": "Does a being matter morally because of its own features, or because of its relationships? Keeling’s slides challenge relationship-based views using imagined duplicates, including an isolated badger in pain. The question is whether being isolated should remove a claim to care.",
+      "basis": "Title at 113; definition at 115; argument and duplication examples at 123–129. This paraphrases the photographed argument.",
+      "topics": [
+        "Moral standing",
+        "Relationships and intrinsic features",
+        "What should a duplicate’s treatment reveal?"
+      ]
+    },
+    {
+      "id": "goldstein",
+      "day": 1,
+      "title": "Liability, copying, and successor agents",
+      "speaker": "Simon Goldstein",
+      "range": [
+        133,
+        146
+      ],
+      "summary": "If an agent can copy or merge itself, who should bear later costs for harm it caused? The photographed framework follows how much the original agent cares about its successors. Different future payments might be needed to create the same incentive today.",
+      "basis": "Album items 133–146; ‘Law without survival’ at 146. Topic label is editorial because no title slide is captured in this group; speaker attribution follows the programme and session sequence.",
+      "topics": [
+        "Copying and survival",
+        "Responsibility across successors",
+        "Incentives without a single continuing person"
+      ]
+    },
+    {
+      "id": "boghossian-talk",
+      "day": 2,
+      "title": "Understanding and Reasoning in LLMs: How to Approach the Issue",
+      "speaker": "Paul Boghossian",
+      "range": [
+        153,
+        153
+      ],
+      "summary": "The PDF supplies the substantive written material: eight pages on meaning, evidence for understanding, grasp of rules, elementary errors, and learned generalization. Start with PDF page 5 for the full reading guide.",
+      "basis": "Official programme, album handout photo 153, and PDF pages 5–12. No projected slide deck is reconstructed.",
+      "topics": [
+        "Understanding",
+        "Rules and reasons",
+        "What errors establish"
+      ]
+    },
+    {
+      "id": "shevlin",
+      "day": 2,
+      "title": "Servants, Parents, or Angels?",
+      "speaker": "Henry Shevlin",
+      "range": [
+        155,
+        186
+      ],
+      "summary": "The photographed talk compares models for living with powerful AI, including willing servants, parents, civil servants, and angels. These analogies help ask how much autonomy AI should have, what obligations could apply, and how our own interests interact with ethical concerns.",
+      "basis": "Title at 155; menu of models at 165; autonomy at 171–172; later photographed sections. A thematic reading guide, rather than a full transcript of the talk.",
+      "topics": [
+        "Human-AI relationships",
+        "Degrees of autonomy",
+        "Ethics and our own interests"
+      ]
+    },
+    {
+      "id": "cappelen-day2",
+      "day": 2,
+      "title": "Understanding: methods, evidence, and objections",
+      "speaker": "Herman Cappelen",
+      "range": [
+        187,
+        221
+      ],
+      "summary": "These photos show a discussion of understanding that favours beginning with recognizable cases and developing theories from them. That puts pressure on requiring a complete theory before accepting any example. The later slides consider objections about what language models can do.",
+      "basis": "Visible slide ‘Bottom up and top down’ at 187 and following sequence. The scheduled title concerns abandoning ‘consciousness’; these photos primarily show understanding material. The archive preserves the difference instead of inferring an unseen talk.",
+      "topics": [
+        "Recognizing understanding",
+        "Starting with cases",
+        "Assessing objections"
+      ]
+    }
+  ],
+  "generation": {
+    "model": "GPT 6.1 Sol high",
+    "statement": "This notebook was generated with GPT 6.1 Sol high. The website, organization, summaries, plain-language explanations, and OCR-assisted transcription cleanup were AI-generated. The underlying handouts, slides, and talks are the work of their credited authors."
+  }
+}

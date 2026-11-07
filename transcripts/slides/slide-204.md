@@ -1,0 +1,551 @@
+# Album 204: Herman Cappelen · photo 204
+
+Time: 2026-11-06T14:26:20.656000+08:00
+Session: Understanding: methods, evidence, and objections
+Photo ID: AF1QipNkhmpKqj74HjitAof3dWgYZUmGmrG0k8hN435k
+Image: sources/slides/images/slide-204.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPCS6xUfZfHOTv_UCaXUUKtPGjAHNpCUfQyB9EaL9PXNs7mHYyFy-H6IN1HJ0J6gtHI_PbU6bePtBlZKDUUkEqnk_4MxmAW7y9-Vy8qIE8r0yRViktr
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+a>
+
+>
+
+a
+
+yr
+
+—
+
+ae
+
+wae
+
+—-
+
+-=
+
+_—
+
+——
+
+=
+
+-—)
+
+ae
+
+-—-
+
+a
+
+»_>
+
+=D
+
+_—
+
+>)
+
+<<
+
+<<
+
+~
+
+en
+
+EXIT aL
+
+FAILURE AND COMPETING EXPLANATIONS
+
+| for LLMs
+
+Reply: Normal for us need not be norma
+
+=
+
+— =
+
+tal conditions. We normally
+
+Human cognitive capacities developed under particular environmen
+
+encounter convex faces. A concave mask can produce a systematic vi
+
+sual illusion without showing that
+
+we lack vision.
+
+LLMs have a different developmental history. Their training may establish different conditions under
+
+which their capacities work reliably. A task that is easy and familiar for us may place an LLM outside
+
+those conditions.
+
+The sceptic cannot simply move from “a human should get this right” to “an LLM that gets this wrong
+
+»
+
+lacks the capacity.”
+
+e
+
+t
+
+4D
+
+—- —
+
+=
+
+=
+
+4
+
+We need to investigate what counts as normal conditions for LLM cognition,
+
+We cannot simply import the
+
+human standard.
+
+-
+
+a2
+
+“
+
+I ceeateneneenenee
+
+Se eee el
+
+eae
+
+_
+
+y.
+
+2
+
+e
+
+>
+
+\ nage
+
+N
+
+}
+
+\
+
+oo
+
+a
+
+_————
+
+id
+
+&
+
+a
+
+a te we
+
+Ea” ~—
+
+—~
+
+ae
+
+ra
+
+"ag
+
+HermanCappeton .
+
+@
+
+wy
+
+Ay
+
+ey
+
+ang a4
+
+=
+
+ae
+
+kel
+
+Se
+
+2
+
+ae
+
+Mt
+
+rye?
+
+48
+
+1
+
+a
+
+te
+
+oy
+
+JF}
+
+ge
+
+iT gy:
+
+-_—
+
+ots
+
+a
+
+wy
+
+he
+
+we
+
+y
+
+rea
+
+Te
+
+uN
+
+ow
+
+Sy
+
+oe
+
+on
+
+eros
+
+wed
+
+af
+
+a4
+
+vn
+
+Pete ere ee
+
+Tar
+
+aN i
+
+Bete ae ey nce
+
+Fapaieg Mant ort ae
+
+me tan wot at em
+
+4,
+
+na
+
+a agg
+
+‘Watton extn aT mean
+
+Mode oh tam ot
+
+a haem AD LN 9 nl her ee eh i me
+
+baletaien
+
+Fa,
+
+ae ca
+
+AS
+
+arene tee
+
+2%
+
+=,
+
+2s,
+
+ee
+
+es
+
+net
+
+SET Nene ete a
+
+oral
+
+rhe
+
+2%
+
+4g
+
+4
+
+» tees
+
+Shas
+
+Fhe rama en mrs ba LA, TH a ne a oho ayes
+
+ee
+
+we.
+
+%
+
+ws
+
+LNA en, _
+
+yt
+
+aS
+
+x
+
+a
+
+re
+
+Le
+
+ss
+
+ae,
+
+AY
+
+tig!
+
+BL eS
+
+———
+
+—~ a
+
+—
+
+“Sy
+
+NS oe
+
+a
+
+ae
+
+a
+
+—
+
+~~
+
+—
+
+ae NN
+
+Se aE
+
+Me
+
+~
+
+43
+
+TO
+
+oe, oe
+
+ee
+
+eS
+
+SAS Y
+
+™,
+
+x.
+
++
+
+SSeS
+
+oe,
+
+aN
+
+fan:
+
+a
+
+Sx
+
+xo
+
+ie
+
+7 w
+
+ADR
+
+w
+
+=
+
+te
+
+é:
+
+<
+
+ee
+
+any
+
+yy
+
+oe
+
+-
+
+cai rn
+
+—
+
+Poe,
+
+a
+
+~——-
+
+.
+
+~~
+
+Tm
+
+_—_
+
+--
+
+Sg,
+
++
+
+ye
+
+| ‘
+
+—
+
+_
+
+x
+
+at
+
+a
+
+se
+
+4
+
+St
+
+mee
+
+ye
+
+d
+
+te
+
+and
+
+=
+
+a
+
+x
+
+Bs
+
+ne
+
+a
+
+eek
+
+wan
+
+ae
+
+ae
+
+- =
+
+wh
+
+ete ne
+
+~<.
+
+-—
+
+ee
+
+—-
+
+4"
+
+eS
+
+oneal
+
+-—
+
+—
+
+"
+
+— a.
+
+sarah
+
+®
+
+ae
+
+--
+
+a
+
+ee
+
+a,"
+
+Sa
+```

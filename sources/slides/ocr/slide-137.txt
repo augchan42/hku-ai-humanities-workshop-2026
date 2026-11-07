@@ -1,0 +1,14 @@
+Stakes as exchange rates
+
+A\is indifferent: $100 of consumption now, or $X for future B
+
+A’s stake in B = 100/X
+
+$100 for A now equals... A’s stake in B
+00 for B
+0 for B
+
+5 later
+
+ 
+

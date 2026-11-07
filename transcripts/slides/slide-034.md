@@ -1,0 +1,727 @@
+# Album 034: Barry C. Smith · photo 034
+
+Time: 2026-11-05T10:30:30.299000+08:00
+Session: Murray on Minds, Wittgenstein on Meaning
+Photo ID: AF1QipPeOCIg6BvHI3uRvaL-UWF8a8ZA_uISfqSGZVCg
+Image: sources/slides/images/slide-034.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczOIXTiC5WGVmA7EDjrgq9jZKsqtnd7UixnAHrZxVXNV98RC1e2P3el_BsGDXxe6fCqPH9E77PoqhQefIppsd0CPHun10CfcTdgN_TsAhJxDs5bg5S73
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+—
+
+—s
+
+—
+
+oy
+
+Fee a
+
+~~
+
+~,
+
+=
+
+~.
+
+—»~*
+
+—>
+
+ed
+
+yy
+
+rT
+
+——
+
+nee nor ene
+
+—
+
+—
+
+ee
+
+a
+
+isa
+
+a a ere ee
+
+Fags,” » -
+
+Piig
+
+om +e
+
+Wes
+
+at
+
+~~
+
+“f
+
+r=
+
+“Y
+
+maa
+
+<e start
+
+a*
+
+"9
+
+wena
+
+- WEEE: ‘@ whe Cty
+
+5
+
+° we
+
+|
+
+TAR
+
+6
+
+Fd.
+
+4
+
+£
+
+ae
+
+=
+
+Sais
+
+3°
+
+wy
+
+A eee.
+
+sf
+
+T4@
+
+<
+
+aN
+
+se
+
+oft-*
+
+7
+
+vw
+
+we mh
+
+patie (eis pli
+
+, 6
+
+"
+
+tl
+
+|
+
+e@meit,
+
+x?
+
+4 tn
+
+&-
+
+aT
+
+os
+
+~a
+
+1
+
+tf.
+
+af
+
+eee EA
+
+Atte
+
+.
+
+Po
+
+f,
+
+™ ~~ PhS
+
+Yb
+
+va
+
+Jefe
+
+oa
+
+TE
+
+et meee
+
+iy,
+
+wd 4
+
+«ov Rael
+
+4. .
+
+ae
+
+*)
+
+oe
+
+ney
+
+. ae
+
+he
+
+oo
+
+ae
+
+Wie =
+
+a}
+
+wat
+
+i
+
+1°."
+
+a”
+
+Pe
+
+it”
+
+nee nw,
+
+o +
+
+2 oe
+
+of
+
+fr
+
+et
+
+wa?
+
+U7
+
+af.
+
+Kp
+
+Cw
+
+= oF
+
+ry
+
+er
+
+SY
+
+eg
+
+Li)
+
+com |
+
+2
+
+‘ ~
+
+wy
+
+~~.
+
+» ae we la
+
+one XS
+
+.
+
+eZ,
+
+A
+
+a
+
+fae
+
+a
+
+aah
+
+8
+
+e*
+
+‘en
+
+» wee
+
+Ae
+
+249 ae
+
+eS
+
+7A,
+
+ee A
+
+6
+
+fa
+
+$ .
+
+‘p4
+
+oF
+
+“s
+
+~~
+
+“Na
+
+er
+
+vez
+
+72, "o>
+
+way
+
+we
+
+Ly
+
+ee
+
+tha
+
+r* ”
+
+tr
+
+ee
+
+vb
+
+a
+
+ghey
+
+eBaA lw
+
+|
+
+a
+
+. +.@l
+
+4,
+
+eva
+
+Se en P
+
+=" ey
+
+pr isy x
+
+as
+
+nyt
+
+a ee.
+
+tt
+
+9
+
+a4
+
+ay
+
+t.
+
+ve
+
++
+
+-¢!
+
+tia
+
+4
+
+So ae
+
+ele erg
+
+at
+
+PAX!
+
+a \
+
++}
+
+wae
+
+rate
+
+$>
+
+r$
+
+aa Sl
+
+¥?°
+
+aie
+
+ra ytd why
+
+eo.
+
+*
+
+we
+
+ad
+
+~ ow
+
+ve
+
+Ae
+
+“oy -—
+
+wa
+
+ate
+
+eon
+
+fe
+
+ots :
+
+-¢ *
+
+ws
+
+—
+
+i ghd >
+
+== |
+
+Be ts
+
+ce
+
+es
+
+woe
+
+Ah
+
+>t
+
+au
+
+ot
+
+ae
+
+-¢€
+
+§ oF?
+
+aye
+
+ae
+
+wd:,
+
+4
+
+“5
+
+we
+
+ny eae a en,
+
+y'
+
+oY
+
+aft
+
+£ *
+
+-
+
+Tey
+
+Ay
+
+AY
+
+screed am age
+
+Hf?
+
+3-
+
+ao
+
+de,
+
+~f
+
+4!
+
+\s
+
+4 t ade
+
+-~ f
+
+de
+
+at.
+
+~~
+
+~ «8
+
+a
+
+ay
+
+A
+
+ad
+
+‘5
+
+Pg
+
+jit
+
+4 ver *
+
+Fe
+
+me
+
+git be be
+
+¢ 1
+
+a *
+
+fo aoe 2° ¥.
+
+«wos
+
+es
+
+- 8
+
+oY
+
+os
+
+ride
+
+al!
+
+Se,
+
+a
+
+sw
+
+ye
+
+ae
+
+i
+
+all
+
+~* &
+
+wet
+
+w.
+
+e.2a '
+
+Ween
+
+es
+
+oye
+
+Pe
+
+Ye
+
+eo}
+
+wee
+
+if
+
+i?
+
+ae
+
+9
+
+r=
+
+ip
+
+—f ed
+
+CT
+
+——
+
+emer
+
+oh
+
+x.
+
+ar
+
+om
+
+FOE ANE
+
+oe
+
+2 rine,
+
+~~ oa
+
+Barry Smith
+
+@D
+
+es ae
+
+ea
+
+ae
+
+re
+
+eietergnaingtt
+
+_
+
+A Se
+
+a
+
+TOCA TE: SN PT oF a ey
+
+Bae
+
+oe 0 Rees Pant ne me
+
+ae
+
+AY
+
+Pid
+
+mee |
+
+mes
+
+Sie
+
+t+,
+
+eta
+
+Saree. See tie * Nie sepeenis r pamimte ts te at S An,
+
+eigen eg Fut.
+
+&
+
+1)
+
+ao
+
+air a
+
+ck
+
+e
+
+ed
+
+“ym
+
+g
+
+ee.
+
+--
+
+ra
+
+NE NNT Oe rin ee nek
+
+Re a a A ae ay cere ne ng ORE RIO a i at a a eninge Mine = ere tinge
+
+RNAI te Ng ahh Ror Ra etn ab Ateneo at CR AI gp mete “— eee em
+```

@@ -1,0 +1,52 @@
+Reply to the Problem of Easy Cases: Humans Make Simple Errors, Too
+
+There are two possible replies to this line of argument. The first one notes that even humans are
+capable of elementary errors consistent with their understanding the subject at hand, so we've set
+the bar too high.
+
+Look at the multiplication case. If a human were to make an error in such a case, it would be
+due not to their not knowing what multiplication is, but to a performance error, due to memory
+and attention limitations. But these limitations don’t apply to LLMs with their massive compute
+power and blazing speed.
+
+Given a choice between two different types of explanation for these errors:
+
+@ understanding plus performance limitations versus no understanding, and
+™@ being misled by patterns in the training set —
+
+: it does seem as though the latter is the more plausible explanation in the LLM case, while the
+former is the more plausible explanation in the human case.
+
+Reply: These Errors Will Eventually Disappear
+
+Iam doubtful that there will come a time when even the possibility of such elementary errors will
+have been decisively eliminated. Easy errors arise because they are ouslier cases. I assume that,
+so long as the training database is finite, there will always be outlier cases where the system can
+be tempted to behave in these uncomprehending ways. That’s why I’m doubtful that the
+possibility of such errors can be definitively eliminated.
+
+LLMs and Grasping Rules
+But what if the possibility of all such errors #s eliminated?
+
+The main argument for not attributing strong understanding that doesn’t depend on the
+possibility of easy errors is that there seems to be nothing corresponding to the ‘snapping into
+place of the grasp of a rule’ that then stands in extension-determining, explanatory and
+justificatory relations to a potential infinity of subsequent uses that we saw to be characteristic of
+the human case.
+
+There are people who think that there is evidence that LLMs cotton onto rules as is shown in the
+phenomenon known as ‘grokking.’ Grokking is a phenomenon in machine learning where a
+neural network first appears to memorize its training data and later seems to suddenly discover a
+general rule that lets it perform well on new cases.
+
+There are two questions here:
+
+(1) Does the network come to represent something general, rather than merely memorize
+instances?
+
+(2) And does that amount to grasping a rule in the sense in which a human grasps one?
+On the first question, there is quite strong evidence that, at least in some cases, the answer is yes.
+
+But can this really be said to be an infinitary rule with an infinite domain? Ordinary addition is a
+function on the natural numbers, so there are infinitely many possible cases. ss
+

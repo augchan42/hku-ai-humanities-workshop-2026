@@ -1,0 +1,233 @@
+# Album 166: Henry Shevlin · photo 166
+
+Time: 2026-11-06T11:37:07.402000+08:00
+Session: Servants, Parents, or Angels?
+Photo ID: AF1QipP2hGwMOS-iB1tbWVdWrvvovwgbuv7P7awMKi1U
+Image: sources/slides/images/slide-166.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczPv4eTtTBLn0QpsduUkVMF7TIyGWbkUcm_8r9OQyAHDPITppNQTgfrJYHxwBTBmpmaGF0rDTx-eWooV484ztQzGqFVhxmFS6EmtuKabQHpL8ddimNOW
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+ee
+
+gan
+
+SSS
+
+ae
+
+cr el
+
+oN
+
+&
+
+te
+
+a
+
+SS
+
+o>
+
+on i
+
+oy
+
+\=
+
+iS
+
+as
+
+=.
+
+=
+
+pp
+
+‘A menu amrns
+
+—
+
+aon
+
+miu
+
+art nm ant EY}
+
+eae
+
+AN
+
+Ait (s)
+
+ETEK Melts Cees
+
+Willing Servants
+
+best itcan
+
+ial
+
+fe
+
+CB.
+
+Ge eS
+
+ined
+
+irymaleeoeO legitimat
+
+‘authority Data
+
+| |
+
+PE aT OL interests
+
+a
+
+—
+
+en a rans
+
+Sr
+
+AS
+
+Walt
+
+TA RAPA Rone me Ely
+
+iI
+
+conception of the good
+
+\ |
+
+y
+
+a
+
+aA
+
+a devoted to ti
+
+ee Reick!
+
+Fy, ER
+
+Se eae aie 1. C-3PO
+
+HAL on a good day?
+
+ne Ue!
+
+(0. the general: goods juagement
+
+Nes
+
+cue ‘Data SICH DEI eT
+
+yy
+
+Gri
+
+alr ar ening Ss Minds’ are
+
+aveeee
+
+avteve
+
+pepves
+
+WY
+
+ul
+
+UNM IS
+
+[Za
+
+BR
+
+Unwilling Slaves
+
+ESTES
+
+evset
+
+eoort
+
+evens,
+
+Xe
+
+deed BS
+
+KEL
+
+Ss
+
+wor
+
+EN)
+
+-—
+
+—_
+
+XS
+
+a
+
+-* *,
+
+ET
+
+— 8B
+
+Sr
+
+MDE
+
+Senbd
+
+Zion Shevlin aN
+
+Z
+
+Hib
+
+\ \
+
+—
+
+—
+
+—
+
+\
+
+i -
+
+FY,
+
+ty
+
+m™> NN
+
+ay
+
+\
+
+_— |
+
+PT ih
+
+“8
+
+\"
+```

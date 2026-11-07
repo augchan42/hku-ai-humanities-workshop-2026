@@ -1,0 +1,16 @@
+User-LLM conversations are prima facie
+similar to D&D player interactions.
+
+The user maintains and updates a
+folk-psychological model of the character, and
+
+the LLM provides the behavioural feedback signal
+that the user employs to update and refine that
+model.
+
+Likewise, the LLM maintains a folk
+model of the user as they present themselves
+through the chat interface.
+
+ 
+

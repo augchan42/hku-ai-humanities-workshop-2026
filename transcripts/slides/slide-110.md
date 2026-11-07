@@ -1,0 +1,473 @@
+# Album 110: Winnie Street · photo 110
+
+Time: 2026-11-05T15:08:33.741000+08:00
+Session: Chuck, Wilson & the Emergence of Artificial Minds in Human-AI Conversation
+Photo ID: AF1QipOEKlajDKVarUyj-X3uZ4DdkllOmoEHlo5vv1Y0
+Image: sources/slides/images/slide-110.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczNwQdjvyg8uqbD4K7FASfDZQ0w0-Y5iFyr1J5cSTWnTVki3vCJ0fJGw9bYp_4s58t0bjNuoZD7R2IpWmDZeuSZKNGNAScJLHGHWljlNHhuq-L2--YUL
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+aan
+
+ae
+
+cae es hme
+
+SST
+
+emenl
+
+dl
+
+wee
+
+a,
+
+——
+
+a,
+
+eee,
+
+|
+
+ae,
+
+apa,
+
+wr ,
+
+Fmt
+
+a
+
+ee.
+
+a
+
+4
+
+neo
+
+nS
+
+Big”
+
+a |
+
+a
+
+—
+
+i
+
+a
+
+a —
+
+Woe!
+
+eo
+
+=a.
+
+ae
+
+i
+
+Sy
+
+to
+
+~
+
+a
+
+ee
+
+cine
+
+ee
+
+pe
+
+—~
+
+oe encinatteniaeneneieiise
+
+a _
+
+——_—_—_—
+
+— 3
+
+mens
+
+Sa
+
+—~.
+
+~~.
+
+—_—
+
+~—
+
+—_
+
+1m
+
+—-+
+
+Fee
+
+or onan
+
+-—
+
+—
+
+we
+
+11, tH
+
+6 AS Ow 60 & mimi
+
+———
+
+VItsy he
+
+mia Ey
+
+8
+
+4a
+
+@
+
+Ni]
+
+4a
+
+)
+
+Ei
+
+~wi? ME 8 ot em mon
+
+ra
+
+eg
+
+)
+
+Parsee a’
+
+eu
+
+ee
+
+=—- —
+
+—_—_  —
+
+TO eee ee
+
+—~
+
+_H
+
+==
+
+—sa 2,
+
+, Vw veg |
+
+—_—
+
+ieee i ee
+
+-——
+
+———-_—
+
+~s e
+
+aie
+
+440
+
+oo
+
+eee =—
+
+eee ase ee ee
+
+een we ae ee,
+
+a
+
+ve
+
+Keb,
+
+= Psychological Continuity ===
+
+ee ees,
+
+~~
+
+tow
+
+-_ .
+
+la er
+
+Oe er iy
+
+er ee ee
+
+_,
+
+-
+
+1
+
+== Becaiise real patterns emer
+
+eg ee nee
+
+ee a
+
+Taree Wn
+
+J
+
+4.
+
+ae
+
+i
+
+ge within t
+
+he conversation; rather than being internal
+
+=
+
+wee
+
+4
+
+~—=_to the LLM or LLMs implicated in the
+
+simulation, they can sta
+
+-——
+
+—_-
+
+as
+
+—2
+
+= -~ of relation to one another to en
+
+ind in the right kind
+
+—_
+
+ened eet
+
+_s,
+
+er,
+
+_—
+
+able psychological continuity
+
+ta —$$ as
+
+—~e—
+
+—
+
+.
+
+ee
+
+———w
+
+Fee
+
+=
+
+mf pm
+
+fee
+
+~The mental states that feature in an accurate predictive model of
+
+the character’s — = ="=
+
+he tle
+
+‘s#
+
+wie -|
+
+a
+
+se
+
++ Stn
+
+—-
+
+Bho
+
+wat
+
+oe «bi
+
+eal
+
+Yi
+
+== the right kinds of causal relationshi
+
+== behaviour are cumulative, in the sense that subsequent mental
+
+states stand in —~— =
+
+—
+
+aye
+
+Pete
+
+ps to prior mental states to constitute=———_-_ — —
+
+—_——
+
+Pec yoy
+
+‘
+
+97-38
+
+Ax | BA
+
+PY.
+
+1e
+
+s
+
+psychological continuity. ~
+
+i
+
+a
+
+be har
+
+eka
+
+ds
+
+te
+
+a fo
+
+heey &
+
+va |
+
+viet we
+
+aed IR fh,
+
+i |
+
+t
+
+This does not require that the same LLM instance be involved in simulating the
+
+—-—
+
+one.
+
+wa
+
+character at different points in the conversation.
+
+mii
+
+Y
+
++
+
+ne I
+
+ay
+
+. =
+
+ae
+
+’
+
+|
+
+a
+
+ne
+
+eran? ne
+
+.-———
+
+A
+
+a I,
+
+aaa ee
+
+ee , —
+
+--
+
+ie
+
+i
+
+a?
+
+wee
+
+ce ee mn hmmm
+
+a
+
+pen ee ee
+
+aN
+
+v
+
+o
+
+“\
+
+ene Ti ee ba
+
+Ae
+
+“~
+
+Me a
+```

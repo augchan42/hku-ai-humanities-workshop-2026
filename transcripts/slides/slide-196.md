@@ -1,0 +1,345 @@
+# Album 196: Herman Cappelen · photo 196
+
+Time: 2026-11-06T14:18:31.832000+08:00
+Session: Understanding: methods, evidence, and objections
+Photo ID: AF1QipOBnhPlMXHRSE2cgX0Uy9HcrwBEOFy0z5NnEfMa
+Image: sources/slides/images/slide-196.jpg
+Source image: https://lh3.googleusercontent.com/pw/AP1GczNX7AGfooCqqraROHKceiqNECzHqkUbcFxBqMpwYlRxnZvAfxIqHMxeec4Ou96GFGSruXur5ye1pxktwo_-1NKW-1Vum3a6bmndSsyfTvjFoXE5dtqa
+
+Status: UNVERIFIED machine text from photographed material or a video preview. Inspect source image.
+
+```text
+<>
+
+——_—
+
+ae
+
+rr
+
+——
+
+i
+
+—
+
+nee
+
+a <_-
+
+SS
+
+-,
+
+-,
+
+-_>
+
+TY
+
+Soe”
+
+_
+
+ae
+
+create Rar Se
+
+OBJECTIONS TO THE METHODOLOGY
+
+Objection: You are assuming your conclusion
+
+“You cannot start with LLMs understanding questions when that is precisely what we
+
+dispute.”
+
+— The sceptic
+
+\ a’
+
+But a disputed claim can still be something we have good reason to believe.
+
+ML
+
+Distinguish having evidence from having premises an opponent will accept.
+
+Our starting point concerns interactions in which there’s understanding
+
+i,
+
+We then defend treating those interactions as evidence.
+
+No philosophical argument can guarantee universal agreement.
+
+By
+
+en.
+
+iy
+
+Noe
+
+| What supports the attribution, and what would defeat it?
+
+Oe
+
+G
+
+ii
+
+s
+
+Sy *«
+
+Oe
+
+uf
+
+e
+
+S
+
+Ki
+
+wt ’
+
+Se Ra
+
+perenne
+
+fA
+
+u;¥
+
+N?
+
+ASA
+
+Jy
+
+4a
+
+‘a
+
+<S
+
+oem
+
+——
+
+Herman Cappeten
+
+=
+
+ean
+
+\
+
+ao
+
+‘yy @
+
+Ay
+
+Wy
+
+\
+
+A,
+
+‘s
+
+4 -
+
+ee
+
+W
+
+Karey
+
+ae
+
+ate
+
+|
+
+Saas
+
+ee
+
+can
+
+Lb
+
+x
+
+ieee
+
+oa
+
+ee
+
+ASS
+
+aN
+
+ro
+
+ne Sg
+
+ie
+
+sae
+
+—_A?
+
+—
+
+~ a
+
+Ramet eae get ae tom
+
+eee
+
+re =
+
+Lede» ha Se rr als re hm ot: Mr peg ewe fn Thar»
+
+Time.
+
+rms erate phtnety aor eae
+
+ten fete ote eats
+
+oe
+
++ tay hepa
+
+|
+
+et
+
+——
+
+een
+
+ete awn of emeny, Kenny mp et
+
+i
+
++
+
+{Oe A he ele gb Hh haw en
+
+TN elmer,
+
+—-~
+
+oe
+
+—
+
+ary
+
+ee
+
+—
+
+aX
+
+ak.
+
+a”
+
+NZ
+
+ee
+
+aN
+
++o
+
+a ATR ee cae
+
+SS
+
+A a
+
+Me a
+
+ee
+
+Ne
+
+TI ne nn
+
+as
+
+ss
+
+aw sae
+
+2
+
+a
+
+At
+
+— “_
+
+ce
+
+_——
+
+rn
+
+ane
+
+— ree
+
+oN Ne
+
+“Suu?
+
+ae
+
+—
+
+ennai eee
+
+er
+
+ae.
+
+—
+
+i
+
+a,
+
+e~
+
+ae
+
+aS
+
+ae,
+
+ss
+
+a
+
+aN
+
+rr |
+
+x
+
+a3
+
+5
+
+ae.
+
+ak S,
+```

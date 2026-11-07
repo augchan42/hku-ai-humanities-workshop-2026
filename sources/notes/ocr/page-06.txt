@@ -1,0 +1,53 @@
+ii. Therefore, LLMs don’t have beliefs, desires or intentions.
+
+This would not be a good argument. It doesn’t work because (i) and (ii) don’t entail (iii).
+Emergence is a real phenomenon:
+
+A stronger consideration in the Skeptic’s favor is that it’s hard to vindicate the claim that lies at
+the foundation of the Believer’s mentalistic explanation, namely:
+
+(Meaning and Understanding, M&U): LLMs wnderstand what they are being asked and
+respond meaningfully to those questions.
+
+Why would M&U be hard to vindicate? The Grounding Problem: LLMs don’t have sense organs
+through which they interact with their environment (Harnad, 1990).
+
+Meaning in LLMs
+There is a view about intentionality which would not only easily get around the Grounding
+Problem but also swiftly decide the question in favor of the Believers: Interpretivism.
+
+According to Interpretivism (see Dennett, 1987), a system has such intentional states as beliefs
+and desires provided it is easily interpretable as having those intentional states. And a system is
+easily so interpretable provided that thinking of it as having such beliefs and desires helps explain
+and predict its behavior in a certain range of cases.
+
+The trouble is that Interpretivism is implausible. Many things are readily interpretable as having
+beliefs and desires, but which it would be absurd to say really have them.
+
+A deeper problem is that ‘interpretation’ is itself an intentional state, so it’s hard to see how
+something’s being an intentional state could be exp/ained via its being so interpretable.
+
+Derivative vs Original Meaning.
+
+Since the 1970s, philosophers have been interested in the ways in which our words can
+sometimes mean things not because we put that meaning into them, but because we stand in
+certain relations to those who did.
+
+Understanding and Grasping Rules
+
+Can we say that the LLMs wnderstand what they are talking about? Like most philosophical
+words, the word ‘understanding’ has been used in different ways. In particular, it is natural to
+think that understanding comes in degrees.
+
+In the weakest sense, you understand a word W when you can use W with its meaning M: it
+expresses M in your mouth.
+
+In a medium sense, you understand W when you can not only use it to mean M but you also
+‘know what W means, know that it means M.’ -- I’ve put this phrase in quotation marks because
+it’s not clear what it itself means and I will come back to that.
+
+In the s/rongest possible sense, you understand W in the way an expert does. For example, a high
+school student might understand addition in the medium sense, but not understand it as well as a
+number theorist might, who would know that it is a commutative, associative, cancellative
+function.
+
