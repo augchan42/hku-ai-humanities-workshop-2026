@@ -60,8 +60,12 @@ for file in ['reading-guide','summary','glossary','sessions']:shutil.copy2(root/
 shutil.copy2(root/'sources/slides/manifest.json',downloads/'manifest.json')
 # Attach visually reviewed slide transcriptions without overwriting raw OCR.
 review_dir=root/'content/slide-review'
+review_sets=[]
 for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
  review_text=review.read_text()
+ title=re.search(r'^# (.+)$',review_text,re.M)
+ summary_match=re.search(r'^## Summary[^\n]*\n\s*(.+?)(?=\n\s*\n|\Z)',review_text,re.M|re.S)
+ review_sets.append({'title':title.group(1) if title else review.stem,'summary':summary_match.group(1).strip() if summary_match else '', 'file':review.name})
  for match in re.finditer(r'^## (\d{3}) — ([^\n]+)\n(.*?)(?=^## \d{3} — |\Z)',review_text,re.M|re.S):
   number=int(match.group(1)); section=match.group(3)
   transcription=re.search(r'### Visible text\n(.*?)(?=\n### In everyday language)',section,re.S)
@@ -71,7 +75,7 @@ for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
 # Publish the independently maintained, clearly marked review documents.
 for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
  shutil.copy2(review,downloads/review.name)
-data=dict(notes=notes,guide=guide,slides=slides)
+data=dict(notes=notes,guide=guide,slides=slides,reviewSets=review_sets)
 (site/'data.js').write_text('window.NOTEBOOK = '+json.dumps(data,ensure_ascii=False).replace('</','<\\/')+';\n')
 for output in ['dist','dist-local']:
  target=site/output;target.mkdir(exist_ok=True)
