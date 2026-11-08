@@ -58,6 +58,19 @@ for p in (root/'transcripts/notes').glob('*.md'):shutil.copy2(p,downloads/p.name
 for slug in ['boghossian-on-shanahan','sharadin-on-shanahan','boghossian-understanding','slides-index']:shutil.copy2(root/f'transcripts/{slug}.md',downloads/f'{slug}.md')
 for file in ['reading-guide','summary','glossary','sessions']:shutil.copy2(root/f'content/{file}.md',downloads/f'{file}.md')
 shutil.copy2(root/'sources/slides/manifest.json',downloads/'manifest.json')
+# Attach visually reviewed slide transcriptions without overwriting raw OCR.
+review_dir=root/'content/slide-review'
+for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
+ review_text=review.read_text()
+ for match in re.finditer(r'^## (\d{3}) — ([^\n]+)\n(.*?)(?=^## \d{3} — |\Z)',review_text,re.M|re.S):
+  number=int(match.group(1)); section=match.group(3)
+  transcription=re.search(r'### Visible text\n(.*?)(?=\n### In everyday language)',section,re.S)
+  explanation=re.search(r'### In everyday language\n(.*)',section,re.S)
+  if transcription and explanation:
+   slides[number-1]['review']={'transcription':transcription.group(1).strip(),'explanation':explanation.group(1).strip(),'source':review.name,'model':'GPT-6.1 Terra high'}
+# Publish the independently maintained, clearly marked review documents.
+for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
+ shutil.copy2(review,downloads/review.name)
 data=dict(notes=notes,guide=guide,slides=slides)
 (site/'data.js').write_text('window.NOTEBOOK = '+json.dumps(data,ensure_ascii=False).replace('</','<\\/')+';\n')
 for output in ['dist','dist-local']:
