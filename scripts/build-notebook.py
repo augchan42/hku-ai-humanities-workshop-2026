@@ -67,7 +67,7 @@ for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
  review_text=review.read_text()
  title=re.search(r'^# (.+)$',review_text,re.M)
  summary_match=re.search(r'^## Summary[^\n]*\n\s*(.+?)(?=\n\s*\n|\Z)',review_text,re.M|re.S)
- review_sets.append({'title':title.group(1) if title else review.stem,'summary':summary_match.group(1).strip() if summary_match else '', 'file':review.name})
+ review_sets.append({'title':title.group(1) if title else review.stem,'summary':summary_match.group(1).strip() if summary_match else '', 'file':review.name, 'slides':[int(n) for n in re.findall(r'^## (\d{3}) — ',review_text,re.M)]})
  for match in re.finditer(r'^## (\d{3}) — ([^\n]+)\n(.*?)(?=^## \d{3} — |\Z)',review_text,re.M|re.S):
   number=int(match.group(1)); section=match.group(3)
   transcription=re.search(r'### Visible text\n(.*?)(?=\n### In everyday language)',section,re.S)

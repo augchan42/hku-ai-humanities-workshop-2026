@@ -52,7 +52,7 @@ Comments on Shanahan — Paul Boghossian, NYU. Can an LLM feel pain? [Photograph
 
 ### In everyday language
 
-Boghossian asks what it would mean to say an AI system feels pain. The checked transcription and explanation of the handout are in the PDF section of this notebook.
+Boghossian asks what it would mean to say an AI system feels pain. The handout appears on PDF pages 1–2.
 
 ## 051 — Shanahan title screen during discussion
 
@@ -152,4 +152,4 @@ Understanding in Large Language Models — Paul Boghossian, NYU. [Photograph of 
 
 ### In everyday language
 
-Boghossian asks whether language models understand and solve problems in ways comparable to humans. The full handout transcription and explanation are in the PDF section of this notebook.
+Boghossian asks whether language models understand and solve problems in ways comparable to humans. The handout appears on PDF pages 5–12.

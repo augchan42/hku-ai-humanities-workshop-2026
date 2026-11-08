@@ -26,7 +26,9 @@ for folder in ['dist','dist-local']:
  assert len(parsed['notes'])==12 and len(parsed['slides'])==222
  assert parsed['guide']['generation']['model']=='GPT 6.1 Sol high'
  assert 'generation-disclosure' in (base/'app.js').read_text()
- assert 'Generated with GPT 6.1 Sol high' in (base/'index.html').read_text()
+ assert 'Generation disclosure' in (base/'index.html').read_text()
+ assert 'GPT 6.1 Sol high' in parsed['guide']['generation']['statement']
+ assert all(set_['slides'] for set_ in parsed['reviewSets'])
  if folder=='dist':
   assert 'hawthorne' not in parsed and 'hawthorneTranscript' not in parsed
   assert not (base/'private').exists()
