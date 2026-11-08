@@ -2,23 +2,49 @@
 
 The workshop circles around a deceptively simple question: what would make an AI a mind? The materials approach it through experience, language, evidence, rules, and our relationships with other beings. These are competing approaches, rather than a shared workshop conclusion.
 
-## Separate the questions
+## Pain, experience and the opening debate
+
+The PDF opens with Boghossian’s and Sharadin’s responses to Shanahan. His photographed opening slides question assumptions about inner experience; Boghossian defends the possibility of a factual question about AI pain, while Sharadin explores what practical reasoning can do. Cappelen’s commentary also questions whether exposing a philosophical confusion should end inquiry. These are different responses to the opening argument, not interchangeable accounts of it.
+
+Sources: PDF pages 1–4; Shanahan album 005–017; Cappelen album 018–031.
+
+## Understanding, evidence and interpretation
+
+The longer Boghossian handout asks what evidence would show that a language model understands, and whether following patterns amounts to grasping rules. Cappelen and Dever’s later slides defend the attribution of understanding and answer objections. Herrmann’s slides ask how behavior and evidence from inside an AI system can jointly support interpretations of its beliefs and goals. These talks approach related questions without all using the same test.
+
+Sources: PDF pages 5–12; Herrmann album 061–086; Cappelen and Dever album 187–221.
+
+## Characters, minds and moral concern
+
+Street explores whether a character emerging through conversation with a language model might count as a mind. This adds another possible subject to the handouts’ questions about experience and understanding. Keeling asks what gives an individual moral standing, using an isolated badger in pain to challenge a view based on relationships. His argument is not evidence that current AI feels pain.
+
+Sources: PDF pages 1–4; Street album 087–112; Keeling album 113–131.
+
+## From understanding to future responsibilities
+
+Shevlin asks how people might relate ethically to hypothetical future artificial persons, including whether such beings should be obedient or independent. Goldstein considers legal incentives when agents can copy or merge. These discussions extend beyond the PDF’s questions about present evidence and concepts: they explore what might follow under different assumptions about future systems.
+
+Sources: PDF pages 3–4 and 5–12; Goldstein album 133–146; Shevlin album 155–186.
+
+## Ideas from the handouts
+
+### Separate the questions
 
 Feeling pain, using meaningful words, grasping a rule, and deserving care are different questions. An answer to one does not automatically answer the others. Sources: PDF pages 1, 3, 5.
 
-## Unknown and unsettled are different
+### Unknown and unsettled are different
 
 Boghossian argues that an answer can be factual even when we cannot discover it. His disagreement with the position he attributes to Shanahan concerns whether the question already has that kind of answer. Sources: PDF pages 1, 2.
 
-## Practical judgment can involve reasons
+### Practical judgment can involve reasons
 
 Sharadin argues that explaining what consciousness language does can leave room for serious reasoning about how we should treat AI. Sources: PDF pages 3, 4.
 
-## Performance needs interpretation
+### Performance needs interpretation
 
 Impressive answers support a claim about ability, but the explanation of that ability remains in dispute. Mistakes also require explanation; they do not interpret themselves. Sources: PDF pages 7, 9, 10, 11.
 
-## Learned patterns and grasped rules
+### Learned patterns and grasped rules
 
 Boghossian accepts evidence that networks learn general patterns. He asks for more before attributing the kind of rule understanding that fixes applications and supplies reasons. Sources: PDF pages 8, 11, 12.
 

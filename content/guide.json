@@ -437,5 +437,27 @@
   "generation": {
     "model": "GPT 6.1 Sol high",
     "statement": "This notebook was generated with GPT 6.1 Sol high. The website, organization, summaries, plain-language explanations, and OCR-assisted transcription cleanup were AI-generated. The underlying handouts, slides, and talks are the work of their credited authors."
-  }
+  },
+  "workshop_context": [
+    {
+      "title": "Pain, experience and the opening debate",
+      "text": "The PDF opens with Boghossian’s and Sharadin’s responses to Shanahan. His photographed opening slides question assumptions about inner experience; Boghossian defends the possibility of a factual question about AI pain, while Sharadin explores what practical reasoning can do. Cappelen’s commentary also questions whether exposing a philosophical confusion should end inquiry. These are different responses to the opening argument, not interchangeable accounts of it.",
+      "sources": "PDF pages 1–4; Shanahan album 005–017; Cappelen album 018–031."
+    },
+    {
+      "title": "Understanding, evidence and interpretation",
+      "text": "The longer Boghossian handout asks what evidence would show that a language model understands, and whether following patterns amounts to grasping rules. Cappelen and Dever’s later slides defend the attribution of understanding and answer objections. Herrmann’s slides ask how behavior and evidence from inside an AI system can jointly support interpretations of its beliefs and goals. These talks approach related questions without all using the same test.",
+      "sources": "PDF pages 5–12; Herrmann album 061–086; Cappelen and Dever album 187–221."
+    },
+    {
+      "title": "Characters, minds and moral concern",
+      "text": "Street explores whether a character emerging through conversation with a language model might count as a mind. This adds another possible subject to the handouts’ questions about experience and understanding. Keeling asks what gives an individual moral standing, using an isolated badger in pain to challenge a view based on relationships. His argument is not evidence that current AI feels pain.",
+      "sources": "PDF pages 1–4; Street album 087–112; Keeling album 113–131."
+    },
+    {
+      "title": "From understanding to future responsibilities",
+      "text": "Shevlin asks how people might relate ethically to hypothetical future artificial persons, including whether such beings should be obedient or independent. Goldstein considers legal incentives when agents can copy or merge. These discussions extend beyond the PDF’s questions about present evidence and concepts: they explore what might follow under different assumptions about future systems.",
+      "sources": "PDF pages 3–4 and 5–12; Goldstein album 133–146; Shevlin album 155–186."
+    }
+  ]
 }

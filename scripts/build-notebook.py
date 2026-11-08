@@ -33,7 +33,9 @@ for n in notes:
  reading+=f'### Everyday example (editorial)\n\n{n["example"]}\n\n### Open question\n\n{n["question"]}\n\n'
 (root/'content/reading-guide.md').write_text(reading.rstrip()+'\n')
 summary='# Workshop synthesis\n\n'+guide['intro']+'\n\n'
-for t in guide['takeaways']:summary+=f'## {t["title"]}\n\n{t["text"]} Sources: PDF pages '+', '.join(map(str,t['pages']))+'.\n\n'
+for t in guide['workshop_context']:summary+=f'## {t["title"]}\n\n{t["text"]}\n\nSources: {t["sources"]}\n\n'
+summary+='## Ideas from the handouts\n\n'
+for t in guide['takeaways']:summary+=f'### {t["title"]}\n\n{t["text"]} Sources: PDF pages '+', '.join(map(str,t['pages']))+'.\n\n'
 summary+='## A real disagreement, not a consensus\n\nBoghossian’s response defends a factual question about sensations. Sharadin’s response asks what our language does and how decisions can be guided by practical reasons. Their objections pull in different directions. The longer Boghossian handout examines understanding rather than simply asking whether an AI is conscious. The source packet does not give a complete record of the workshop or establish that its participants agreed.\n\n## What is checked\n\nAll twelve PDF scans were visually inspected and obvious OCR errors corrected. Pages 3–4 have clipped text. The product 5,647 × 8,911 was independently checked as 50,320,417. Reported model outputs and model labels are preserved as source claims, without a new model experiment.\n'
 (root/'content/summary.md').write_text(summary.rstrip()+'\n')
 glossary='# Words, unpacked\n\nEditorial definitions for this workshop.\n\n'+''.join(f'## {t}\n\n{x}\n\nPDF pages: '+', '.join(map(str,p))+'.\n\n' for t,x,p in guide['glossary'])
