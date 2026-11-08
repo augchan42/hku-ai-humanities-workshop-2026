@@ -77,7 +77,7 @@ for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
 # Publish the independently maintained, clearly marked review documents.
 for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
  shutil.copy2(review,downloads/review.name)
-data=dict(notes=notes,guide=guide,slides=slides,reviewSets=review_sets)
+data=dict(notes=notes,guide=guide,slides=slides,reviewSets=review_sets,hawthorneNotes=json.loads((root/'content/hawthorne-notes.json').read_text()))
 (site/'data.js').write_text('window.NOTEBOOK = '+json.dumps(data,ensure_ascii=False).replace('</','<\\/')+';\n')
 for output in ['dist','dist-local']:
  target=site/output;target.mkdir(exist_ok=True)

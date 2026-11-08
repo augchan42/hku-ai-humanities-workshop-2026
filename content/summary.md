@@ -26,6 +26,12 @@ Shevlin asks how people might relate ethically to hypothetical future artificial
 
 Sources: PDF pages 3–4 and 5–12; Goldstein album 133–146; Shevlin album 155–186.
 
+## Consciousness and the subject of experience
+
+John Hawthorne’s final talk asks which physical entity could have an experience, whether concepts of experience have precise boundaries, and how reasoning about one’s position among observers can affect conclusions. This connects with Boghossian’s question about pain and with Street’s account of conversational characters.
+
+Sources: PDF pages 1–2; Street album 087–112; Hawthorne’s final session.
+
 ## Ideas from the handouts
 
 ### Separate the questions

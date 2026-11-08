@@ -1,0 +1,90 @@
+{
+  "title": "Consciousness, Vagueness and the Problem of the Many",
+  "summary": "Hawthorne offers three sets of considerations, rather than a single proof about all AI. He asks which physical thing is being proposed as conscious; whether the boundaries of consciousness concepts are more unsettled than they seem; and whether ways of reasoning about our own position among possible observers give implausibly strong conclusions.",
+  "basis": "Notes based on corrected captions from the workshop recording; the captions have not been checked against the audio. No slides were used.",
+  "sections": [
+    {
+      "title": "1. Which thing would have the experience?",
+      "explanation": "Before asking whether an AI is conscious, identify what ‘the AI’ picks out. Is it the hardware, a running process, a character, or all the events in a conversation? Hawthorne compares a distributed conversation with a team of people who each contribute a word. The people can be conscious without the team being an additional conscious subject. He uses this to challenge some proposed candidates, especially scattered collections of events.",
+      "example": "A football team has conscious players. That alone does not establish an extra experience belonging to the team as a whole.",
+      "question": "What kind of organization could turn a collection of interacting parts into one subject of experience?"
+    },
+    {
+      "title": "2a. Seeing an example may not fix every future case",
+      "explanation": "Imagine someone encountering a zebra for the first time. Does the word they introduce identify an animal by ancestry, by biological structure, or in some other way? Those possibilities agree on the familiar example but may disagree on an unusual duplicate. Hawthorne asks whether naming an itch fixes its application to every unfamiliar case as securely as we feel it does.",
+      "example": "An exact zebra-like organism appearing without zebra ancestors would satisfy some ways of grouping animals and fail others.",
+      "question": "Can direct acquaintance with a feeling settle how the word applies to very different beings?"
+    },
+    {
+      "title": "2b. The problem of the many",
+      "explanation": "A physical object can have many nearly identical candidate boundaries. For example, a table with one surface particle excluded is almost indistinguishable from a table with it included. Hawthorne considers a way of resolving the puzzle: it is definite that there is one table, without one exact candidate being definitely the table. Applying a similar account to a person challenges the idea that we have already identified a completely precise subject and property of experience. He is exploring the consequences of this account, not denying that pain occurs.",
+      "example": "There may be no single privileged outline of a cloud, even when it is clear that there is a cloud. The illustration helps with boundaries; the lecture’s argument about consciousness requires additional assumptions.",
+      "question": "If the person’s exact boundaries are unsettled, does that also unsettle which property a sensation word identifies?"
+    },
+    {
+      "title": "3a. Where am I among possible observers?",
+      "explanation": "Ordinary probability calculations become harder when the evidence is ‘I am this observer, at this time.’ Hawthorne describes a self-sampling approach: first give probabilities to possible worlds, then share each world’s probability among its possible observer positions. In his toy example, this can favour a shorter future even before the experiment’s coin toss. He presents that as a troubling consequence of the method.",
+      "example": "In the lecture’s setup, distributing probability among two positions in one world and three in another yields a 3/5 preference for the shorter world on Sunday. This depends on the specified sampling assumptions.",
+      "question": "Should a way of locating yourself among observers change your expectation of a future fair coin?"
+    },
+    {
+      "title": "3b. Counting more observers can bias the other way",
+      "explanation": "A different method, self-indication, gives extra weight to possibilities containing more copies of an observer’s experience. Hawthorne asks what happens if a metaphysical theory allows infinitely many coinciding conscious beings. Taking the weighting straightforwardly seems to give that theory overwhelming support. His point is to question what these probability methods license; the talk does not establish that infinitely many conscious beings actually coincide with you.",
+      "example": "If a theory gets more probability simply because it counts more copies, decisions about what counts as a copy can dominate the result.",
+      "question": "Can a probability method settle a deep question about consciousness before we investigate the systems involved?"
+    },
+    {
+      "title": "Q&A: How good is the team analogy?",
+      "explanation": "A questioner points out that a language model carries computational information forward, including information in its KV cache. It may be less like a group of forgetful word-contributors than the analogy suggests. Hawthorne accepts that there are differences, while maintaining that the comparison still motivates scepticism about a scattered conversational thread. The exchange leaves the significance of those differences disputed.",
+      "example": "Remembering the conversation’s words and preserving internal computational information are not identical forms of continuity.",
+      "question": "Which kinds of memory or causal continuity matter for a subject’s unity?"
+    },
+    {
+      "title": "Q&A: Does vague ownership make the feeling vague?",
+      "explanation": "Participants press the distinction between an itch and the person who has it. Perhaps the feeling can be identified precisely even if its owner has vague physical boundaries. Hawthorne explores why the relation between a thinker and a property could inherit the uncertainty. The exchange challenges the proposed solution to the problem of the many as well as its consequences.",
+      "example": "Not knowing an exact owner is different from not knowing what is owned. The issue is whether the proposed account of persons lets those two uncertainties stay separate.",
+      "question": "Where does the vagueness enter: the subject, the experience, the word, or the relationship between them?"
+    },
+    {
+      "title": "Q&A: How the probability conclusion is produced",
+      "explanation": "Hawthorne works through a toy contrast between a world with one familiar observer and a world with many additional observers having different experiences. Under his self-sampling setup, finding yourself with the familiar experience favours the first world. He emphasizes that this is a consequence of the proposed method and raises the question whether the consequence reveals a problem with the method.",
+      "example": "Spreading a world’s probability across many possible observers leaves less of it attached to the observer matching your evidence.",
+      "question": "Which observer positions belong in the comparison, and what evidence should eliminate them?"
+    },
+    {
+      "title": "Discussion: Hardware, distribution, and integration",
+      "explanation": "The discussion asks why an integrated rack of processors would differ from a conversation spread across distant racks. Hawthorne clarifies that he is not dismissing every integrated hardware candidate. Participants dispute whether spatial separation, gaps in time, retained computational state, or patterns of causal interaction do the important work. The discussion continues to concern his talk even after the room changes to a panel arrangement.",
+      "example": "A single continuing experience is a different proposal from a sequence in which separate systems each have their own experiences.",
+      "question": "Is physical distance decisive, or should the structure of interaction carry more weight?"
+    },
+    {
+      "title": "Discussion: Time slices and experiences without a continuing self",
+      "explanation": "Participants consider whether momentary parts could be conscious first, with a continuing person conscious in a secondary sense. Another question separates individual experiences from a persistent conscious self. Hawthorne leaves room for uncertainty and avoids a definitive conclusion that would conflict with his discussion of vagueness.",
+      "example": "The claim ‘there is an experience here now’ does not by itself establish one subject persisting through every stage of a conversation.",
+      "question": "Which arguments concern any experience at all, and which concern one continuing owner of experiences?"
+    }
+  ],
+  "connections": [
+    "PDF pages 1–2: Boghossian defends the idea that a sensation can be named in a way that makes AI pain a factual question. Hawthorne’s second part asks how precise that naming really is.",
+    "PDF pages 8 and 12: the question whether an example fixes all future applications echoes the plus/quus problem. Similarity of structure does not make the arguments identical.",
+    "Street’s photographed talk distinguishes models from conversational characters. Hawthorne asks a further question about what physical entity could be the subject of experience.",
+    "The final discussion matters: Hawthorne’s challenge to scattered conversational threads is narrower than a conclusion that no artificial hardware could ever be conscious."
+  ],
+  "sources": [
+    {
+      "title": "John Hawthorne, Direct Reference and Dancing Qualia (2007)",
+      "url": "https://ora.ox.ac.uk/objects/uuid%3A428fb22b-b905-4ef4-8293-3e9e5b2938d1",
+      "context": "On how concepts refer to experiences; related to the talk’s discussion of naming feelings."
+    },
+    {
+      "title": "Yoaav Isaacs, John Hawthorne and Jeffrey Sanford Russell, Multiple Universes and Self-Locating Evidence (2022)",
+      "url": "https://philosophersannual.org/42articles/isaacsetal-multiple.pdf",
+      "context": "On reasoning from information about one’s position among possible observers."
+    },
+    {
+      "title": "John Hawthorne and Andrew McGonigal, The Many Minds Account of Vagueness (2008)",
+      "url": "https://doi.org/10.1007/s11098-007-9110-3",
+      "context": "A related account of vagueness; the talk’s use of vagueness should not be assumed to repeat this paper’s argument."
+    }
+  ]
+}

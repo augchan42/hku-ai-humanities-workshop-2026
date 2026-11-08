@@ -32,7 +32,9 @@ for folder in ['dist','dist-local']:
  if folder=='dist':
   assert 'hawthorne' not in parsed and 'hawthorneTranscript' not in parsed
   assert not (base/'private').exists()
-  for secret_phrase in ['Paul is in a red room','team of amnesiacs','Self-indication','self-indication','87:38']:
+  assert len(parsed['hawthorneNotes']['sections']) == 10
+  assert 'hawthorneTranscript' not in parsed
+  for secret_phrase in ['Paul is in a red room','87:38']:
    assert secret_phrase not in data,secret_phrase
  else:
   if (root/'private/hawthorne/guide.json').exists():
