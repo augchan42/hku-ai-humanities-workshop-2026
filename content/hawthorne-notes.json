@@ -1,7 +1,7 @@
 {
   "title": "Consciousness, Vagueness and the Problem of the Many",
   "summary": "Hawthorne offers three sets of considerations, rather than a single proof about all AI. He asks which physical thing is being proposed as conscious; whether the boundaries of consciousness concepts are more unsettled than they seem; and whether ways of reasoning about our own position among possible observers give implausibly strong conclusions.",
-  "basis": "Notes based on corrected captions from the workshop recording; the captions have not been checked against the audio. No slides were used.",
+  "basis": "Notes and short quotations based on corrected captions from the complete workshop recording. The captions have not been checked against the audio, so quotation wording may need correction. No slides were used.",
   "sections": [
     {
       "title": "1. Which thing would have the experience?",
@@ -19,13 +19,21 @@
       "title": "2b. The problem of the many",
       "explanation": "A physical object can have many nearly identical candidate boundaries. For example, a table with one surface particle excluded is almost indistinguishable from a table with it included. Hawthorne considers a way of resolving the puzzle: it is definite that there is one table, without one exact candidate being definitely the table. Applying a similar account to a person challenges the idea that we have already identified a completely precise subject and property of experience. He is exploring the consequences of this account, not denying that pain occurs.",
       "example": "There may be no single privileged outline of a cloud, even when it is clear that there is a cloud. The illustration helps with boundaries; the lecture’s argument about consciousness requires additional assumptions.",
-      "question": "If the person’s exact boundaries are unsettled, does that also unsettle which property a sensation word identifies?"
+      "question": "If the person’s exact boundaries are unsettled, does that also unsettle which property a sensation word identifies?",
+      "quote": {
+        "text": "And unfortunately I have to make peace with myself in the same kind of way.",
+        "context": "After describing how he handles the problem of the many for a table, he applies the same problem to himself."
+      }
     },
     {
       "title": "3a. Where am I among possible observers?",
       "explanation": "Ordinary probability calculations become harder when the evidence is ‘I am this observer, at this time.’ Hawthorne describes a self-sampling approach: first give probabilities to possible worlds, then share each world’s probability among its possible observer positions. In his toy example, this can favour a shorter future even before the experiment’s coin toss. He presents that as a troubling consequence of the method.",
       "example": "In the lecture’s setup, distributing probability among two positions in one world and three in another yields a 3/5 preference for the shorter world on Sunday. This depends on the specified sampling assumptions.",
-      "question": "Should a way of locating yourself among observers change your expectation of a future fair coin?"
+      "question": "Should a way of locating yourself among observers change your expectation of a future fair coin?",
+      "quote": {
+        "text": "This is doomsday reasoning in microcosm.",
+        "context": "He describes the unsettling result of a probability thought experiment, not a prediction that the world will end."
+      }
     },
     {
       "title": "3b. Counting more observers can bias the other way",
@@ -49,7 +57,11 @@
       "title": "Q&A: How the probability conclusion is produced",
       "explanation": "Hawthorne works through a toy contrast between a world with one familiar observer and a world with many additional observers having different experiences. Under his self-sampling setup, finding yourself with the familiar experience favours the first world. He emphasizes that this is a consequence of the proposed method and raises the question whether the consequence reveals a problem with the method.",
       "example": "Spreading a world’s probability across many possible observers leaves less of it attached to the observer matching your evidence.",
-      "question": "Which observer positions belong in the comparison, and what evidence should eliminate them?"
+      "question": "Which observer positions belong in the comparison, and what evidence should eliminate them?",
+      "quote": {
+        "text": "It does allow for this fantastically presumptuous style of philosophy of mind.",
+        "context": "In discussion, he questions a method that can seem to draw strong conclusions about consciousness from probability assumptions alone."
+      }
     },
     {
       "title": "Discussion: Hardware, distribution, and integration",
@@ -86,5 +98,9 @@
       "url": "https://doi.org/10.1007/s11098-007-9110-3",
       "context": "A related account of vagueness; the talk’s use of vagueness should not be assumed to repeat this paper’s argument."
     }
-  ]
+  ],
+  "opening_quote": {
+    "text": "Certainly my bags are packed and I’m on the way to the airport.",
+    "context": "Hawthorne opens with a joke about Wittgenstein’s image of language “going on holiday”: philosophical language can stray from its ordinary use."
+  }
 }
