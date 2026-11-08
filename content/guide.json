@@ -1,5 +1,5 @@
 {
-  "intro": "The workshop circles around a deceptively simple question: what would make an AI a mind? The materials approach it through experience, language, evidence, rules, and our relationships with other beings. These are competing approaches, rather than a shared workshop conclusion.",
+  "intro": "Start with Murray Shanahan’s manuscript on AI and consciousness: the PDF includes written responses to it by Paul Boghossian and Nate Sharadin. Their exchange forms one thread in a wider workshop about minds, language, understanding and our responsibilities toward possible AI beings. The PDF also contains Boghossian’s separate handout on understanding in language models. The manuscript itself is not included in the supplied scan.",
   "takeaways": [
     {
       "title": "Separate the questions",
@@ -441,12 +441,12 @@
   "workshop_context": [
     {
       "title": "Pain, experience and the opening debate",
-      "text": "The PDF opens with Boghossian’s and Sharadin’s responses to Shanahan. His photographed opening slides question assumptions about inner experience; Boghossian defends the possibility of a factual question about AI pain, while Sharadin explores what practical reasoning can do. Cappelen’s commentary also questions whether exposing a philosophical confusion should end inquiry. These are different responses to the opening argument, not interchangeable accounts of it.",
+      "text": "The starting point is Murray Shanahan’s manuscript: PDF pages 1–2 are Paul Boghossian’s comments on it, and pages 3–4 are Nate Sharadin’s response. Boghossian defends the possibility of a factual question about AI pain, while Sharadin examines what practical reasoning can do. Shanahan’s photographed opening slides provide related context, and Herman Cappelen’s photographed commentary offers another response to the manuscript. The scan does not contain the manuscript itself, so the critics’ characterizations should not be treated as the full argument.",
       "sources": "PDF pages 1–4; Shanahan album 005–017; Cappelen album 018–031."
     },
     {
       "title": "Understanding, evidence and interpretation",
-      "text": "The longer Boghossian handout asks what evidence would show that a language model understands, and whether following patterns amounts to grasping rules. Cappelen and Dever’s later slides defend the attribution of understanding and answer objections. Herrmann’s slides ask how behavior and evidence from inside an AI system can jointly support interpretations of its beliefs and goals. These talks approach related questions without all using the same test.",
+      "text": "The PDF also contains Boghossian’s separate handout asking what evidence would show that a language model understands, and whether following patterns amounts to grasping rules. Cappelen and Dever’s later slides defend the attribution of understanding and answer objections. Herrmann’s slides ask how behavior and evidence from inside an AI system can jointly support interpretations of its beliefs and goals. These talks approach related questions without all using the same test.",
       "sources": "PDF pages 5–12; Herrmann album 061–086; Cappelen and Dever album 187–221."
     },
     {
