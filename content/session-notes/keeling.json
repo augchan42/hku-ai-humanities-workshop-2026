@@ -1,0 +1,41 @@
+{
+  "id": "keeling",
+  "headline": "Keeling asks whether moral standing depends on social relationships, and uses an isolated suffering badger to argue that it does not.",
+  "overview": "Geoff Keeling is a Staff Research Scientist at Google and a Fellow at the Institute of Philosophy, University of London. The talk responds to relational views of moral standing, which are often applied to the question of whether AI systems matter morally. No audio or notes exist, so these notes follow the slides only.",
+  "notes": [
+    "The title slide names the talk: Boltzmann Badger and the Relational View of Moral Standing. (slide 113)",
+    "Moral standing is defined with Kagan: an entity has it just in case it counts, morally speaking, in its own right. (slide 115)",
+    "Margot, a cat, is the example of an entity with moral standing. (slide 116)",
+    "The guiding question is what makes it the case that something has moral standing. (slide 117)",
+    "The slides list four candidate grounds: consciousness, sentience, agency and being alive. Keeling marks sentience as right and the other three as wrong. Citations include Singer, Regan, Kagan and Nussbaum. (slide 119)",
+    "All four candidates share one assumption: some intrinsic property P exists such that an entity has moral standing if and only if it has P. Views with this assumption are called property views. (slide 120)",
+    "The relational view rejects that assumption. It says moral standing depends on the social relationships in which entities stand. (slide 121)",
+    "The slides separate two relational theses. The first-order thesis grounds standing in things like declarative speech acts or phenomenal recognition. The second-order thesis says there is no practice-independent ground, and communal practices constitute the facts. (slide 122)",
+    "Keeling's argument against the first-order view has three steps. We should reject views that fail the Duplication Condition. Relational views fail it. So we should reject relational views. The first line of the slide seems to miss a word, probably \"reject\". (slide 123)",
+    "The slides suggest the argument works through a chain of grounding. A badger in pain makes the state of affairs bad for the badger. That makes it pro tanto morally bad. (slide 124)",
+    "Boltzmann Badger is an isolated duplicate of the badger. The same chain is applied to it: its pain is bad for it, and so pro tanto morally bad, even without social ties. (slide 126)",
+    "Four replies follow. Response 1 says there is no point of view of the universe, so moral badness needs a community. Response 2 gives standing to kinds, so badgers and Swampman qualify as members of a kind. Response 3 accepts both sentience and social relations as sufficient. Response 4 raises radical externalism, with no detail on the slide. (slides 127, 128, 129, 130)"
+  ],
+  "takeaways": [
+    "Property views say standing depends on what an individual is like. Relational views say it depends on how the individual is related to others.",
+    "Keeling's test case is an isolated duplicate in pain. If its pain still matters, social relations are not necessary for standing.",
+    "The slides list replies from the relational side, so the argument is not settled."
+  ],
+  "key_slides": [
+    {"slide": 120, "why": "States the Shared Assumption that defines property views."},
+    {"slide": 122, "why": "Separates the first-order and second-order relational theses."},
+    {"slide": 123, "why": "Gives the three-step argument from the Duplication Condition."},
+    {"slide": 126, "why": "Applies the grounding chain to the isolated badger."},
+    {"slide": 129, "why": "Shows the mixed view, which gives different answers for two duplicate robots."}
+  ],
+  "questions": [
+    "What exactly is the Duplication Condition, and does a relational theorist have to accept it?",
+    "Does the argument reach the second-order thesis, or only the first-order one?",
+    "If mixed views let both sentience and relations suffice, what is left to disagree about for AI systems?"
+  ],
+  "background": [
+    {"title": "Google's Geoff Keeling: AI Moral Patienthood Is Probably Not Relational (event listing)", "url": "https://luma.com/fiwjvfbz", "context": "Outside material, not the slides: a talk abstract by the same speaker that says relational views reject property views for poor reasons and are ambiguous between two readings."},
+    {"title": "AI Welfare (Keeling and Street, Cambridge Elements)", "url": "https://ai-humanity.net/ai-welfare/", "context": "Outside material, not the slides: a page about the speaker's book on AI welfare, which lists relational standing among possible grounds."},
+    {"title": "How to Count Animals, more or less (Kagan), Oxford Practical Ethics page", "url": "https://practicalethics.web.ox.ac.uk/node/155781", "context": "Outside material, not the slides: describes Kagan's book, which is the source of the definition of moral standing on slide 115."}
+  ]
+}

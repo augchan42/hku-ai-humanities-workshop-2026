@@ -1,0 +1,41 @@
+{
+  "id": "smith",
+  "headline": "Smith asks what Wittgenstein on meaning, sensation and rule-following can add to Shanahan's caution about talking of language models as if they were people.",
+  "overview": "Barry C. Smith is a British philosopher of mind and language. He directs the Institute of Philosophy at the School of Advanced Study, University of London. His talk responds to Murray Shanahan's work on how we should talk about large language models. The notes below come from the slides only, because no audio or speaker notes exist. Where a point is inferred from slide order, the note says so.",
+  "notes": [
+    "The talk is titled \"Murray on Minds, Wittgenstein on Meaning\". It is a response to Murray Shanahan, and it uses Wittgenstein as its main source. (slide 032)",
+    "A photograph of Wittgenstein introduces the philosopher whose writing fills the next slides. (slide 034)",
+    "The first list of Wittgensteinian themes has four items: meanings are not in the head, meaning is use, nothing is hidden, and sensations are not a something. (slide 035)",
+    "The second list adds three claims. Meanings are all there in the mind at once, yet they also unfold in use over time. Sensations are not a something, but not a nothing either. Inner processes need outward criteria. (slide 036)",
+    "\"Outward criteria\" means public signs by which we tell that an inner state is present. The slides suggest this matters for judging whether a system understands or feels anything. (slide 036)",
+    "Smith quotes Philosophical Investigations section 197. We say we grasp the whole use of a word in a flash. This is not strange in itself. It becomes strange when we think the later uses must already be present in that moment, yet are not. (slide 037)",
+    "Smith then quotes Shanahan's article \"Talking About Large Language Models\" (Communications of the ACM, 2024). Shanahan warns against applying our intuitions about people to AI systems, because their inner workings differ so much. He also wants us to credit them with the abilities they do have. (slide 038)",
+    "Section 194 asks what it means to say that a machine has possibilities of movement. A possibility is not the movement itself. It also seems to be more than the physical conditions of the machine. The slides suggest a link to how we talk about what AI systems can do. (slide 039)",
+    "A slide on following a rule gives three phrases: going on in the right way, knowing how to go on, and knowing the meaning of a word W as following a rule for its use. Understanding is shown by correct use in new cases. (slide 040)",
+    "Section 182 gives the example of someone who says \"yes\" to \"Can you lift this weight?\" and then fails. The slide shows that our criteria for \"being able to\" and \"understanding\" are more complicated than they look. One failure does not prove the ability was never there. (slide 041)",
+    "The last slide lists differences between AI assistants and people. They are not embodied. No continuous agent talks with us. They lack sense modalities, and talk of multimodal models may mislead. (slide 042)",
+    "The slide ends with open questions. Can modalities be added? Can AI come closer to us, rather than us granting so much to AI? Can we fully digitize our experience of the world? (slide 042)"
+  ],
+  "takeaways": [
+    "Wittgenstein ties meaning and understanding to use and to public criteria, not to a hidden inner object.",
+    "Shanahan's caution is the starting point: do not treat language models as people, and do not deny what they can do.",
+    "Smith's last slide suggests that bodies, senses and a continuous agent are the main differences to examine."
+  ],
+  "key_slides": [
+    {"slide": 36, "why": "States the central Wittgensteinian claims, including outward criteria for inner processes."},
+    {"slide": 37, "why": "Section 197 gives the puzzle of grasping a whole use at once, which frames the talk's view of understanding."},
+    {"slide": 38, "why": "Quotes Shanahan's article and links the Wittgenstein material to AI."},
+    {"slide": 41, "why": "Shows that judging ability and understanding depends on context and criteria."},
+    {"slide": 42, "why": "Lists the differences between AI assistants and people, and the open questions."}
+  ],
+  "questions": [
+    "If understanding is shown by correct use in new cases, what stops a language model from counting as understanding?",
+    "Do embodiment and sense modalities matter for meaning, or only for how we come to learn it?",
+    "Are the outward criteria for human minds the right ones to apply to AI systems, or do they need to change?"
+  ],
+  "background": [
+    {"title": "Talking about large language models (Imperial College repository record)", "url": "https://spiral.imperial.ac.uk/entities/publication/a247c9f7-cc21-4593-9f31-11dec8a2a1a6", "context": "Record of the Shanahan article quoted on slide 038; this is outside material, not the slides."},
+    {"title": "Still \"Talking About Large Language Models\": Some Clarifications", "url": "https://arxiv.org/abs/2412.10291v1", "context": "Shanahan's 2024 follow-up says his article was not meant to support a reductionist view of language models; this is outside material, not the slides."},
+    {"title": "Barry C. Smith (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Barry_C._Smith", "context": "Gives the speaker's role and research areas in philosophy of mind and language; this is outside material, not the slides."}
+  ]
+}

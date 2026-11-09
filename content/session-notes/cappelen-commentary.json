@@ -1,0 +1,43 @@
+{
+  "id": "cappelen-commentary",
+  "headline": "Cappelen asks who Shanahan's philosophical therapy treats, and why clearing up a confusion should end inquiry instead of leading to better arguments.",
+  "overview": "Herman Cappelen is Chair Professor of Philosophy at the University of Hong Kong. He works on philosophy of language and method, and he directs the HKU AI & Humanity Lab. These slides come from his commentary on Murray Shanahan's manuscript, which takes a Wittgenstein-style, therapeutic approach to consciousness and the self in AI. No audio or notes exist for this talk, so these notes follow the slides only.",
+  "notes": [
+    "The plan has three parts: the book's method, who the 'patient' is, and how therapy relates to arguments. 'Patient' means the person or position the therapy is meant to help. (slide 018)",
+    "Cappelen first treats the book as an introduction for smart students. He suggests it should say where its therapeutic method sits among other methods, and he names Baz and Horwich on method as examples. (slide 019)",
+    "He lists eight common philosophical methods, such as conceptual analysis, conceptual engineering, the method of cases, model-building and genealogy. He says none of them by itself commits you to a private inner self. (slide 020)",
+    "He asks why criticism of our concepts should end in silence. The slide links this to Pyrrhonian readings of Wittgenstein and Buddhism, where judgment is suspended and calm follows. (slide 021)",
+    "The slides suggest his main reply is that finding a contradiction gives a reason to revise a commitment. It does not show we should give up the inquiry. (slide 021)",
+    "He gives three examples of radical criticism that keeps arguing: Williamson on luminosity, his own work with Dever on the first person, and Frankish on illusionism. He asks what the book's therapy adds to these. (slide 022)",
+    "He questions the claim that almost every philosopher or scientist writing on consciousness holds a dualist picture. He asks where that commitment actually enters their arguments. (slide 023)",
+    "He applies the question to himself, Williamson, Hawthorne and Thomasson. He says he thinks consciousness is a bad theoretical category, so he asks which of his commitments needs treatment. (slide 024)",
+    "He cites Williamson's anti-exceptionalism about philosophy. On this view, philosophy extends methods from ordinary life and science. The consent example shows that a more abstract question need not add a strange metaphysical commitment. (slide 025)",
+    "He objects to two steps in the Proust and Descartes passages. No outside check on a memory does not make identity meaningless, and a reader's access to Descartes through words is not Descartes's access to himself. (slides 026, 027)",
+    "On the whirlpool, he asks why a fuzzy boundary shows dependence on our conventions, and why the result should hold for all phenomena. He says dependence on water and gravity is not dependence on language. (slides 028, 030)",
+    "He says the vagueness argument skips well-known rivals, such as abundant ontology and epistemicism. A student reader would gain from seeing the book engage them. (slide 029)",
+    "He closes with four questions: who is the patient, what counts as success, whether therapy fits anti-exceptionalism, and whether flawed arguments can give legitimate therapy. (slide 031)"
+  ],
+  "takeaways": [
+    "Cappelen does not reject the aim of dissolving confusion. He asks the book to name its targets and to argue each step.",
+    "His central objection is that a contradiction or a hard case calls for revision and more inquiry, not silence.",
+    "He asks whether therapy can work with invalid arguments, and what would count as success."
+  ],
+  "key_slides": [
+    {"slide": 21, "why": "States the core objection: why should criticism end in silence instead of revision?"},
+    {"slide": 23, "why": "Raises the 'who is the patient' question about the book's broad claims."},
+    {"slide": 28, "why": "Shows the whirlpool argument and the two steps he says need support."},
+    {"slide": 30, "why": "Separates dependence on physical causes from dependence on language."},
+    {"slide": 31, "why": "Summarises his four questions for the book."}
+  ],
+  "questions": [
+    "If the aim is therapy and not proof, can Shanahan answer by saying the arguments only need to change how readers see things?",
+    "Could a therapy that stops inquiry still be reasonable for readers who find the old questions unhelpful?",
+    "How should the book name its targets without turning into a survey of every philosopher it mentions?"
+  ],
+  "background": [
+    {"title": "Palatable Conceptions of Disembodied Being (Shanahan, arXiv)", "url": "https://arxiv.org/pdf/2503.16348", "context": "Shanahan's published paper on consciousness and disembodied AI that draws on Wittgenstein; it is outside material, and it may not be the exact manuscript Cappelen discusses."},
+    {"title": "Herman Cappelen (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Herman_Cappelen", "context": "Outside biography confirming his HKU chair and his work on method and conceptual engineering, not slide content."},
+    {"title": "The Inessential Indexical, table of contents", "url": "https://hermancappelen.net/docs/IE-TOC.pdf", "context": "Contents of the Cappelen and Dever book cited on slide 22; outside material, not the slides."},
+    {"title": "Illuminating Anti-Luminosity", "url": "https://core.ac.uk/works/63304061", "context": "A paper discussing Williamson's anti-luminosity argument, which slide 22 mentions; outside material."}
+  ]
+}

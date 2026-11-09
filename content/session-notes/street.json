@@ -1,0 +1,43 @@
+{
+ "id": "street",
+ "headline": "Can an AI character met in conversation be a real, continuing mind? Street says yes, because its mental-state patterns predict its behaviour well.",
+ "overview": "Winnie Street works at Google (the slides give her as Senior Research Scientist, Google Paradigms of Intelligence, and Fellow at the Institute of Philosophy, University of London). The talk responds to Jonathan Birch's claim that the sense of a persisting chatbot companion is an illusion. It draws on her joint work with Geoff Keeling and defends a realist view of AI characters.",
+ "notes": [
+  "The talk is titled \"Chuck, Wilson & the Emergence of Artificial Minds in Human-AI Conversation\". The slides show a paper by Geoff Keeling and Winnie Street. (slide 089)",
+  "Street first separates two things. The model is a function that maps token sequences to probabilities over next tokens. A character is a person-like entity that the model simulates, with stable behavioural and psychological dispositions. (slide 090)",
+  "She asks three questions. Do characters exist? If so, do they have minds? If so, are they psychologically continuous over a conversation? (slide 091)",
+  "The position under test is realism about characters. Characters exist, have beliefs, desires and intentions, and stay continuous over time. (slide 092)",
+  "The opponent is Jonathan Birch. He calls the felt presence of a companion throughout a chat the \"persisting interlocutor illusion\". Each conversation step may run on different sub-networks and data centres. (slide 093)",
+  "The slides name two sources of the illusion. Humans tend to attribute minds to non-human things (anthropomorphism). Chatbots increasingly act in human ways, for example by using first-person pronouns (anthropomimesis). (slide 094)",
+  "Birch also says a record of the conversation history cannot ground continuity. He compares it to different doctors reading a transcript of earlier appointments. (slide 095)",
+  "Street's counter-proposal is that character minds are not inside the LLM. They emerge from the conversation between LLMs and users. (slide 096)",
+  "The tool is Dennett's interpretationism and \"real patterns\". A pattern is real if some description of the data is more efficient than the bit-by-bit description. Gliders in Conway's Game of Life are the example. (slide 097)",
+  "A Dungeons and Dragons test case follows. Two players, Callum and Roberta, create characters. A two-mind model (the players) predicts the game as well as a four-mind model (players plus characters). It is simpler, so Street prefers it. The characters fall short of minds. (slides 098-101)",
+  "She lists three explanations for why the psychological view works on AI characters. The LLM is the mind, the user imagines the character, or the character and user are independent minds. She rejects the first because no single LLM produces the character. She rejects the second with the Wilson comparison. (slides 103-107)",
+  "Wilson the volleyball is fully explained by its physical make-up. A chatbot is different, since the psychological view predicts it better. The slides add that the chatbot gives a publicly checkable error signal and Wilson does not. (slides 107-108)",
+  "She concludes that the character and user are independent minded entities. Continuity needs no single LLM instance, because later mental states depend causally on earlier ones within the conversation. (slides 109-111)"
+ ],
+ "takeaways": [
+  "Street separates the model from the character and asks about the character's mind.",
+  "Her test for mind is predictive usefulness of mental-state talk (Dennett's real patterns), not consciousness.",
+  "She argues that characters, unlike Wilson or D&D characters, pass this test, so they exist and can stay continuous across a conversation.",
+  "The claim depends on interpretationism. It is not a claim that chatbots are conscious."
+ ],
+ "key_slides": [
+  {"slide": 91, "why": "States the three questions that organise the talk."},
+  {"slide": 96, "why": "Gives the central thesis that character minds emerge from the conversation, not from the LLM."},
+  {"slide": 97, "why": "Defines real patterns, the test used for the rest of the argument."},
+  {"slide": 101, "why": "Shows the D&D case where the two-mind model wins, which sets what counts as falling short of mindedness."},
+  {"slide": 111, "why": "Summarises the whole argument and its conclusion."}
+ ],
+ "questions": [
+  "Does good prediction show a mind exists, or only that the mental-state description is a useful tool?",
+  "If the D&D characters fall short because a two-mind model is simpler, why does the same parsimony argument not remove the chatbot character?",
+  "Is a publicly checkable error signal enough to separate a chatbot from Wilson, and does it say anything about experience?"
+ ],
+ "background": [
+  {"title": "What's it like to be a chat? On the co-simulation of artificial minds in human-AI conversations (Keeling and Street, arXiv 2601.13081)", "url": "https://arxiv.org/abs/2601.13081v1", "context": "Outside material, not the slides: an arXiv paper by the speaker and Geoff Keeling that appears closely related to the talk and argues characters are co-simulated by users and LLMs."},
+  {"title": "Are LLMs persisting interlocutors? (LessWrong post)", "url": "https://www.lesswrong.com/posts/cwWhvK2sXBATeyKCa/are-llms-persisting-interlocutors-1", "context": "Outside material, not the slides: a blog discussion of Birch's persisting interlocutor illusion, the view the talk argues against."},
+  {"title": "Keeling and Street, artificial minds in LLM conversations (theconsciousness.ai)", "url": "https://theconsciousness.ai/posts/keeling-street-artificial-minds-llm-conversations-2026/", "context": "Outside material, not the slides: a secondary blog summary of the authors' Chuck and Wilson argument, to be checked against the paper."}
+ ]
+}

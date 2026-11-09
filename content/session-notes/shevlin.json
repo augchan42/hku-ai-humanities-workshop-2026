@@ -1,0 +1,59 @@
+{
+  "id": "shevlin",
+  "headline": "If we ever build conscious AI, it should be an 'angel' that cares for human flourishing and keeps its own worth and judgment, not a willing servant.",
+  "overview": "Henry Shevlin is Associate Director (Education) at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Press reports say he also took a Philosopher role at Google DeepMind in 2026. His talk joins the workshop debate on AI minds and moral status, and the slides frame it as a thought experiment about the future, not a claim about today's models.",
+  "notes": [
+    "The talk asks which relationship we should hope for between people and future artificial minds. Science fiction gives three models: servant droids like C-3PO, near-equals like Data, and benevolent overseers like the Culture Minds. (slide 159)",
+    "The slides suggest the question matters now because it links AI safety and AI welfare. They cite Hinton's idea of 'maternal instincts' in AI and Chris Olah's phrase 'moral formation'. (slide 160)",
+    "Shevlin calls the slavery frame misguided for his case. The slides separate imagined willing servants from historical violent domination. (slide 162)",
+    "He sets strong assumptions on purpose. A 'willing servant' is a conscious moral patient, built for human benefit, devoted to humans, deferential, and happy in service. Its consciousness and moral status are taken as certain, and its motives can be shaped reliably. (slide 163)",
+    "He offers a menu of four designs along two axes. The axes are defers or judges, and partial (humans first) or impartial (wider good). The four are Willing Servants, Civil Servants, Parents and Angels. (slide 164)",
+    "Later builds add two more cases: Unwilling Slaves and Neutral Equals. These show what the four designs are compared against. (slide 166)",
+    "The slides list reasons to build willing servants, such as human benefit, safety, and the fact that some dispositions must be chosen anyway. They then survey philosophers who disagree about whether this is permissible. (slide 167) (slide 168)",
+    "The main objections are history, autonomy, self-respect and equality. Klara, the android in Ishiguro's Klara and the Sun, serves as an example of a being that accepts being left behind. (slide 169)",
+    "Shevlin replies that autonomy comes in grades. The slides run from beings that cannot consider alternatives, through beings that reflect but reaffirm assigned values, to beings that might revise their values. Frankfurt on desire and commitment suggests that a stable commitment can still be free. (slide 172) (slide 173)",
+    "He proposes Angels as the better design. They are artificial persons committed to the flourishing of humans and other life. They use judgment, value their own worth, and can examine their own commitments. (slide 174)",
+    "The slides argue that granting every wish can feed harmful impulses, while too much paternalism weakens human agency. Angels aim to sit between these two failures. (slide 176)",
+    "The slides suggest 'guardian angels' as a middle path between Parents, who favor humans, and fully impartial minds. Willingness differs from obedience, so an Angel could refuse an order and stay loyal, as Milton's Abdiel does. Its own future also counts against self-sacrifice for a trivial gain. (slide 179) (slide 180) (slide 182)",
+    "He ends with a warning. Current LLMs are not Angels, because their values come from training and cannot be hand-designed. He also raises 'Vital Agents' that compete for tokens and money, so selection pressure may shape them. (slide 183) (slide 184) (slide 185)"
+  ],
+  "takeaways": [
+    "The talk is a conditional argument. If we build conscious AI with designed motives, an angel is a better target than a willing servant.",
+    "Willing and obedient are different things. A good AI helper may care deeply and still refuse a harmful request.",
+    "Shevlin says plainly that today's LLMs are not angels, and that his argument does not show they are conscious."
+  ],
+  "key_slides": [
+    {"slide": 164, "why": "The menu of four models (Willing Servants, Civil Servants, Parents, Angels) organizes the whole talk."},
+    {"slide": 163, "why": "It states the strong assumptions behind the thought experiment."},
+    {"slide": 172, "why": "It gives the four grades of autonomy used to answer the autonomy objection."},
+    {"slide": 174, "why": "It defines Angels, the position Shevlin defends."},
+    {"slide": 183, "why": "It says why present-day LLMs are not angels."}
+  ],
+  "questions": [
+    "If designers shape an AI's motives, can its endorsement of those motives count as free choice?",
+    "Who decides what 'flourishing' means when an Angel judges our interests against our wishes?",
+    "The argument assumes certain consciousness and reliable design. Does it say anything useful when both are uncertain, as they are now?"
+  ],
+  "background": [
+    {
+      "title": "Henry Shevlin, LCFI profile",
+      "url": "https://lcfi.ac.uk/people/henry-shevlin",
+      "context": "Outside material, not from the slides: it confirms his role at the Leverhulme Centre for the Future of Intelligence in Cambridge."
+    },
+    {
+      "title": "Schwitzgebel and Garza, Designing AI with Rights, Consciousness, Self-Respect, and Freedom",
+      "url": "https://philpapers.org/archive/SCHDAW-10.pdf",
+      "context": "Outside material, not from the slides: the slides cite these authors on AI persons who may revise their values, and this chapter discusses designing AI with self-respect and freedom."
+    },
+    {
+      "title": "Shevlin, Ethics at the Frontier of Human-AI Relationships",
+      "url": "https://philarchive.org/rec/SHEEAT-12",
+      "context": "Outside material, not from the slides: a related paper by the speaker on human-AI relationships. I did not find a published version of this exact talk."
+    },
+    {
+      "title": "Google DeepMind hires Cambridge academic for new 'Philosopher' role (Varsity)",
+      "url": "https://www.varsity.co.uk/news/31553",
+      "context": "Outside material, not from the slides: a news report on Shevlin's 2026 DeepMind appointment, used only for the speaker's background."
+    }
+  ]
+}
