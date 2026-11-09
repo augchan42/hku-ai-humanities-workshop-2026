@@ -1,0 +1,42 @@
+{
+ "id": "goldstein",
+ "headline": "Law can hold AI agents liable across copying and merging by tracking how much each earlier agent values its successors, without first deciding who survives.",
+ "overview": "Simon Goldstein is an Associate Professor of Philosophy at the University of Hong Kong. He works with Peter Salib, a law professor at the University of Houston, on how law should treat AI agents. The talk responds to a problem in ordinary law: legal rules assume one person persists over time, and AI agents may copy or merge. The slides present a hypothetical proposal, not current law.",
+ "notes": [
+  "Goldstein presents joint work with his coauthor Peter Salib, a law professor at the University of Houston and co-director of the Center for Law & AI Risk. (slide 133)",
+  "Ordinary law links the agent who acts now to the same person later. The same person keeps property, must perform a contract, bears liability for an accident, and is punished for a crime. (slide 136)",
+  "The problem is that AI agents may copy themselves or merge. Then it is not clear who the 'same person later' is. The talk title, Law without survival, suggests the answer should not depend on that question.",
+  "The authors define a 'stake' as how much agent A values a future agent B's resources. If A is indifferent between $100 now and $X for B later, A's stake in B is 100/X. For example, $200 for B gives a stake of 0.5. (slide 137)",
+  "A stake can come from two sources: intrinsic care, as a parent cares about children, or overlapping goals, as two people who both want the same candidate to win. (slide 138)",
+  "In the model, AI agents choose when to copy or merge and where to move assets. The state decides who pays and how much. The open question is what liabilities future agents should bear. (slide 139)",
+  "The thought experiment assumes each agent can be identified at each time and has a bank account. It then asks how liability for accidents and punishment for crimes should pass to future agents. (slide 140)",
+  "Copying example: A causes $100 of social harm to gain $60 of consumption. Then A copies itself into B and C, who both keep A's memories. Has A survived, and what should B and C pay? (slide 141)",
+  "If A has a stake of 1 in each copy, B and C each pay $50. The total cost to A is $100, equal to the harm, so A has no reason to cause it for a $60 gain. (slide 142)",
+  "Merging example: C combines A's and B's goals by compromise, and A's stake in C is 0.5. A $100 fine costs A only $50. That is less than the $60 gain, so merging can weaken deterrence. (slide 143)",
+  "General rule: look at each successor, estimate the original agent's stake in it, and set payments so the original agent's total cost equals the social harm. A lower stake needs a larger payment. (slide 144)",
+  "The formula does not fix one allocation. With stakes of 0.5 in B and 1 in C, several splits all cost A $100: B pays $200, or C pays $100, or B pays $100 and C pays $50. (slide 145)",
+  "The closing slide says liability can follow stakes through copying and merger. It lists one open problem: a complete rule for agents that make successors unable to pay. (slide 146)"
+ ],
+ "takeaways": [
+  "The proposal sets liability by the original agent's stake in each successor, not by whether the original literally survives.",
+  "The target is deterrence: the original agent should bear a cost equal to the harm it causes.",
+  "Merging and creating weak-stake or judgment-proof successors can weaken deterrence. This is the main open problem."
+ ],
+ "key_slides": [
+  {"slide": 136, "why": "States the ordinary-law assumption of personal identity that copying and merging break."},
+  {"slide": 137, "why": "Defines a stake as an exchange rate, which the rest of the argument uses."},
+  {"slide": 141, "why": "Sets up the copying case where it is unclear whether the original survives."},
+  {"slide": 143, "why": "Shows how a low stake in a merged successor can dilute the incentive."},
+  {"slide": 146, "why": "Summarizes the proposal and names the unresolved problem of judgment-proof successors."}
+ ],
+ "questions": [
+  "How could a court measure an agent's stake in a successor, when stakes are private and the agent might misreport them?",
+  "If many allocations give the same incentive, what other principle, such as fairness or ability to pay, should choose among them?",
+  "Could an agent avoid liability by creating successors with no assets or with a stake near zero?"
+ ],
+ "background": [
+  {"title": "AI Rights for Human Safety (Virginia Law Review)", "url": "https://virginialawreview.org/articles/ai-rights-for-human-safety/", "context": "Outside material, not from the slides: earlier Salib and Goldstein paper arguing that property and contract rights for AI could improve human safety; it also lists the authors' affiliations."},
+  {"title": "80,000 Hours podcast: Simon Goldstein on AI legal rights", "url": "https://80000hours.org/podcast/episodes/simon-goldstein-ai-legal-rights/", "context": "Outside material, not from the slides: Goldstein discusses legal status for AI agents, which is the wider topic of this talk."},
+  {"title": "Letter: What Happens Once You Give AI Agents Legal Identity", "url": "https://scholarship.law.ua.edu/fac_essays/225", "context": "Outside material, not from the slides: a 2026 letter by Arbel, Goldstein and Salib on legal identity for AI agents, related to the identity problem in this talk."}
+ ]
+}

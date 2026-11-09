@@ -3,3 +3,21 @@
 main:focus{outline:none}
 
 .slide-list{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.slide-list button{font-size:13px;text-align:left}
+
+/* Talks and slide notes */
+.talk-list{display:grid;gap:14px;margin:18px 0 34px}
+.talk-card{display:grid;grid-template-columns:150px 1fr auto;gap:20px;align-items:center;padding:14px;background:var(--white);border:1px solid var(--line);border-radius:10px;color:inherit;text-decoration:none}
+.talk-card:hover{border-color:var(--green)}
+.talk-card img{width:150px;aspect-ratio:4/3;object-fit:cover;border-radius:6px;background:var(--pale)}
+.talk-card h3{margin:4px 0 6px;font-family:var(--serif);font-size:21px;line-height:1.2}
+.talk-card p{margin:0;color:var(--muted);line-height:1.45}
+.talk-card .arrow{font-size:22px;color:var(--green)}
+.talk-notes h2{margin-top:38px}
+.note-list{padding-left:1.2em;line-height:1.6}
+.note-list li{margin:0 0 .6em}
+.key-slides{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.slide-explained{display:grid;gap:22px}
+.slide-row{display:grid;grid-template-columns:minmax(200px,300px) 1fr;gap:20px;align-items:start;padding-bottom:22px;border-bottom:1px solid var(--line)}
+.slide-row .slide-card img{width:100%}
+.slide-row p{margin:6px 0 0;line-height:1.55}
+@media(max-width:700px){.talk-card{grid-template-columns:96px 1fr}.talk-card img{width:96px}.talk-card .arrow{display:none}.slide-row{grid-template-columns:1fr}}

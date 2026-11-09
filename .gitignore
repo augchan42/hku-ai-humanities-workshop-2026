@@ -5,3 +5,4 @@ site/.git/
 site/node_modules/
 site/.openai/local-state.json
 __pycache__/
+.playwright-mcp/

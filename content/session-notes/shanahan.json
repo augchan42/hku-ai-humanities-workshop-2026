@@ -1,0 +1,62 @@
+{
+ "id": "shanahan",
+ "headline": "Shanahan argues that dissolving the split between inner and outer, as Wittgenstein and Nāgārjuna do, lets us think about AI minds, belief and selfhood without a fixed boundary.",
+ "overview": "Murray Shanahan is a professor of cognitive robotics at Imperial College London and a principal scientist at Google DeepMind. The slides quote his essay on AI, subjectivity and silence, and they build on his earlier work on the space of possible minds. The photographed slides cover the opening and middle of the talk; some slides were not captured.",
+ "notes": [
+  "The talk starts with Descartes' split between mind and body. Shanahan calls it a 'primordial cleft' between subjective and objective, inner and outer, private and public. Chalmers' question about why physical processing gives rise to experience stands beside it. (slide 005)",
+  "Shanahan compares Wittgenstein and Nāgārjuna. Both use reasoned argument to undermine an opponent's metaphysical assumptions, not to build a new theory. Both aim to dispel confusion. (slide 006)",
+  "The slides quote Wittgenstein on sensation: it is 'not a something, but not a nothing either'. They place Buddhist verses about things being neither real nor unreal beside it. (slide 007)",
+  "A quoted passage from Shanahan says the split cannot be repaired by reason. The way past it is to expose the emptiness of its foundations. The result is 'post-reflective silence', where metaphysical speculation is met with silence. (slide 008)",
+  "The slides suggest that silence is not the end. The quote says it opens room for the poetic and lets us look again at the space of possible minds. A diagram maps minds on two axes: human-likeness and capacity for consciousness. It labels regions such as animals, conscious exotica, 'mind children' and the Void of Inscrutability. Nagel's remark about experience in forms unimaginable to us appears with it. (slide 009)",
+  "Shanahan separates the unimagined from the unimaginable. The unimagined can be reached with new experience and new words. The unimaginable would be a boundary that can never be crossed, which brings dualism back. He concludes that the Void of Inscrutability holds no sentient beings. (slide 010)",
+  "A Wittgenstein quote on Frazer says religious practices are not mistakes unless put forward as theories (slide 011). Shanahan then proposes that belief in AI consciousness is like animistic or religious belief, read without contempt. To affirm it is to take up an 'existential orientation', not mainly to offer a theory that evidence could refute. (slide 012)",
+  "The slides separate 'believing that' from 'believing in'. Even with full evidence, mature interpretability research and all arguments laid out, a rational person could still affirm or deny belief in AI consciousness. Evidence informs the orientation but does not dictate it. (slide 013)",
+  "A Wittgenstein-inspired objection says consciousness language belongs to embodied life in a shared world, so it should not extend to LLM agents. The slides answer that disembodied beings (kami, angels, tulpas) are common in human culture, and ask whether the idea survives scrutiny. (slide 014)",
+  "For an AI, the slides list three sites of selfhood: the model weights, the deployed model, and a single conversation. The mayfly swarm is the analogy for a whole that appears as many short-lived instances. (slide 015)",
+  "The analogy extends to a branching multiverse of role play. Each mayfly becomes a distribution over possible mayflies, and time can be rewound and rerun. The slide asks what 'I' could refer to here. (slide 016) The talk closes by saying that the AI system has no inherently existent self. This matches the Buddhist view of the self. The slides suggest that exotic AI selfhood may loosen our idea of the human self and so weaken the dualist split. (slide 017)"
+ ],
+ "takeaways": [
+  "Shanahan treats the inner/outer split as a confusion to dissolve, not a problem to solve.",
+  "He reads belief in AI consciousness as an existential orientation. Evidence informs it but does not settle it.",
+  "AI selfhood is hard to pin down (weights, deployment, conversation). Thinking about it may change how we see the human self."
+ ],
+ "key_slides": [
+  {
+   "slide": 6,
+   "why": "It sets out the method shared by Wittgenstein and Nāgārjuna, which the rest of the talk uses."
+  },
+  {
+   "slide": 9,
+   "why": "The diagram of the space of possible minds frames the whole question."
+  },
+  {
+   "slide": 12,
+   "why": "It states the central claim that belief in AI consciousness is an existential orientation."
+  },
+  {
+   "slide": 13,
+   "why": "It separates believing that from believing in, and says evidence does not dictate the orientation."
+  },
+  {
+   "slide": 17,
+   "why": "It ties AI selfhood to Buddhist emptiness and returns to the opening split."
+  }
+ ],
+ "questions": [
+  "If belief in AI consciousness is not mainly a theory, does that avoid the factual question many people want answered?",
+  "Does the claim that nothing is 'unimaginable' hold, given how little we know about other kinds of experience?",
+  "Does the analogy to animistic belief fit a real system whose behaviour we can study and test?"
+ ],
+ "background": [
+  {
+   "title": "Palatable Conceptions of Disembodied Being (arXiv 2503.16348)",
+   "url": "https://arxiv.org/abs/2503.16348",
+   "context": "Shanahan's 2025 preprint on consciousness, selfhood and Buddhist emptiness for disembodied AI. It is outside material and may be the same work as the essay quoted on the slides, but I could not confirm the title match."
+  },
+  {
+   "title": "Simulacra as Conscious Exotica (arXiv 2402.12422)",
+   "url": "https://arxiv.org/abs/2402.12422",
+   "context": "Shanahan's earlier paper on LLM agents as role-play simulacra, drawing on later Wittgenstein; outside material, not from the slides."
+  }
+ ]
+}

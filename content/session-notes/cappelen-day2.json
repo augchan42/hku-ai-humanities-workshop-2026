@@ -1,0 +1,41 @@
+{
+  "id": "cappelen-day2",
+  "headline": "Language models can understand, and we should test this by observing their behavior first, not by starting from a fixed theory of understanding.",
+  "overview": "Herman Cappelen is Chair Professor of Philosophy at the University of Hong Kong, where he directs the AI & Humanity lab. This talk presents joint work with Josh Dever, which matches their paper \"Going Whole Hog: A Philosophical Defense of AI Cognition\". The slides end with replies to Paul Boghossian's criticisms of the view. These notes come from the slides only, because no audio or notes exist.",
+  "notes": [
+    "The slides contrast two methods. Top down starts with a theory of understanding and checks whether a candidate meets it. Bottom up starts with clear cases of understanding and builds the theory from them. The authors prefer bottom up, and they say first judgments can still be overturned. (slide 187)",
+    "The frog analogy supports this. People identified frogs long before genetics. So knowing that something is a frog does not require first knowing what makes it a frog. (slide 189)",
+    "The same holds for Nora and Mandarin. To find out if she understands, let Mandarin speakers talk with her. We can have good evidence of a capacity without knowing its computational basis. (slide 190)",
+    "High-level descriptions such as \"believes\" and \"understands\" are legitimate evidence. Economists and ordinary people use them without translating into neuroscience. (slide 191)",
+    "The \"whole hog\" argument has two premises. Observation: LLMs understand and answer questions. Holistic network: mental and intentional features are connected, so evidence for some is evidence for others. The conclusion is that LLMs have an extensive, interconnected cognitive life. (slide 192)",
+    "The slides suggest the network works like this. Understanding points to knowledge of meaning and then belief. Answering points to action, intention and goals. Choosing answers and making plans point to reasoning. These inferences are defeasible, so new evidence can overturn them. (slide 193)",
+    "The authors say they do not claim behavior is the same as having a mind. A system could act like us and lack mental states. Evidence can support a conclusion even if the evidence could occur without it. (slide 195)",
+    "They propose \"nuanced detectors\". When many competent observers agree after long interaction, including tests for trickery, that agreement is strong but defeasible evidence of mental states. This answers the claims of circular reasoning and anthropomorphism. (slide 197)",
+    "On loose talk and pretense, they say \"ChatGPT told me the route from Heathrow\" is a claim we stand by when challenged. \"My refrigerator is angry\" is not. Interpreting a chatbot is also much less flexible than a child's game with a stick as a sword. (slide 199)",
+    "On failures such as block-stacking, they ask when a failure should qualify a capacity and when it should remove it. They propose a cognitive science of LLMs, like Kahneman and Tversky's work on human shortcuts. Normal conditions for humans may differ from those for models. (slide 203)",
+    "Objections share one form: an LLM cannot have F because it lacks X. The authors reply either that X is not required or that the model has it. Examples cover grounding, learning from testimony, truth versus plausibility, and imposed goals. (slide 206)",
+    "The last slides answer Boghossian. They reject his theory-first definition, grant inference to the best explanation, treat easy errors as ambiguous, and use hyper-externalism for plus and quus. They also call consciousness a defective concept. (slide 214)"
+  ],
+  "takeaways": [
+    "Start from observed cases of understanding, then build and test theories. Do not start from a definition.",
+    "Behavior is defeasible evidence of mental states. It is not proof, and it can be overturned.",
+    "Each \"LLMs lack X\" objection needs a check: is X really required, and is X really missing?"
+  ],
+  "key_slides": [
+    {"slide": 187, "why": "States the bottom-up method that the whole talk rests on."},
+    {"slide": 192, "why": "Gives the whole hog argument in two premises and a conclusion."},
+    {"slide": 197, "why": "Defines nuanced detectors, the main kind of evidence the authors rely on."},
+    {"slide": 206, "why": "Shows the general form of the objections and the two ways to reply."},
+    {"slide": 214, "why": "Begins the replies to Boghossian's theory-first approach."}
+  ],
+  "questions": [
+    "Is agreement among observers reliable evidence, or do models train to please users and so fool even careful observers?",
+    "If failures can both qualify and remove a capacity, what result would make the authors withdraw the claim?",
+    "Does the bottom-up method already assume the answer when it counts chatbot answers as clear cases of understanding?"
+  ],
+  "background": [
+    {"title": "Going Whole Hog: A Philosophical Defense of AI Cognition (arXiv 2504.13988)", "url": "https://arxiv.org/pdf/2504.13988v1.pdf", "context": "The authors' own paper on the whole hog thesis and the objections the talk covers; this is outside material, not the slides."},
+    {"title": "Herman Cappelen, HKU Data Science profile", "url": "https://datascience.hku.hk/professor-cappelen-herman/", "context": "Source for the speaker's role and lab at HKU; this is outside material, not the slides."},
+    {"title": "Linguistic Relativity, LLMs, and the Hog Thesis", "url": "https://ai-humanity.net/linguistic-relativity-llms-and-the-hog-thesis/", "context": "A related text from the authors' AI & Humanity group that discusses the hog thesis; this is outside material, not the slides."}
+  ]
+}

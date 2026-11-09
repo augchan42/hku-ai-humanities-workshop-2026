@@ -73,11 +73,23 @@ for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
   transcription=re.search(r'### Visible text\n(.*?)(?=\n### In everyday language)',section,re.S)
   explanation=re.search(r'### In everyday language\n(.*)',section,re.S)
   if transcription and explanation:
-   slides[number-1]['review']={'transcription':transcription.group(1).strip(),'explanation':explanation.group(1).strip(),'source':review.name,'model':'GPT-6.1 Terra high'}
+   slides[number-1]['review']={'heading':match.group(2).strip(),'transcription':transcription.group(1).strip(),'explanation':explanation.group(1).strip(),'source':review.name,'model':'GPT-6.1 Terra high'}
 # Publish the independently maintained, clearly marked review documents.
 for review in sorted(review_dir.glob('*.md')) if review_dir.exists() else []:
  shutil.copy2(review,downloads/review.name)
-data=dict(notes=notes,guide=guide,slides=slides,reviewSets=review_sets,hawthorneNotes=json.loads((root/'content/hawthorne-notes.json').read_text()))
+# Synthesized per-talk notes (content/session-notes/*.json), shown first on the site.
+session_notes={}
+notes_dir=root/'content/session-notes'
+for f in sorted(notes_dir.glob('*.json')) if notes_dir.exists() else []:
+ n=json.loads(f.read_text());session_notes[n['id']]=n
+talk_md='# Talk notes\n\nSynthesized note-taker summaries, one per photographed slide set. They are interpretations of the slides plus outside background, not transcripts of speech.\n\n'
+for sess in guide['sessions']:
+ n=session_notes.get(sess['id'])
+ if not n:continue
+ talk_md+=f'## {sess["speaker"]}: {sess["title"]}\n\n**{n["headline"]}**\n\n{n["overview"]}\n\n'+''.join(f'- {b}\n' for b in n['notes'])+'\n### Takeaways\n\n'+''.join(f'- {b}\n' for b in n['takeaways'])+'\n### Questions\n\n'+''.join(f'- {b}\n' for b in n['questions'])+'\n### Background (outside the slides)\n\n'+''.join(f'- [{b["title"]}]({b["url"]}): {b["context"]}\n' for b in n['background'])+'\n'
+(root/'content/talk-notes.md').write_text(talk_md.rstrip()+'\n')
+shutil.copy2(root/'content/talk-notes.md',downloads/'talk-notes.md')
+data=dict(notes=notes,guide=guide,slides=slides,reviewSets=review_sets,sessionNotes=session_notes,hawthorneNotes=json.loads((root/'content/hawthorne-notes.json').read_text()))
 (site/'data.js').write_text('window.NOTEBOOK = '+json.dumps(data,ensure_ascii=False).replace('</','<\\/')+';\n')
 for output in ['dist','dist-local']:
  target=site/output;target.mkdir(exist_ok=True)
