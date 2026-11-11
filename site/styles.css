@@ -21,3 +21,8 @@ main:focus{outline:none}
 .slide-row .slide-card img{width:100%}
 .slide-row p{margin:6px 0 0;line-height:1.55}
 @media(max-width:700px){.talk-card{grid-template-columns:96px 1fr}.talk-card img{width:96px}.talk-card .arrow{display:none}.slide-row{grid-template-columns:1fr}}
+
+/* Copy-for-LLM button */
+.copy-btn{display:inline-flex;align-items:center;gap:8px;margin:14px 0 0;padding:7px 14px;font:600 13px var(--sans);color:var(--green);background:var(--white);border:1px solid var(--line);border-radius:999px;cursor:pointer}
+.copy-btn:hover,.copy-btn:focus-visible{border-color:var(--green)}
+.copy-btn.done{background:var(--pale);border-color:var(--green)}
