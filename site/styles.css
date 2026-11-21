@@ -26,3 +26,4 @@ main:focus{outline:none}
 .copy-btn{display:inline-flex;align-items:center;gap:8px;margin:14px 0 0;padding:7px 14px;font:600 13px var(--sans);color:var(--green);background:var(--white);border:1px solid var(--line);border-radius:999px;cursor:pointer}
 .copy-btn:hover,.copy-btn:focus-visible{border-color:var(--green)}
 .copy-btn.done{background:var(--pale);border-color:var(--green)}
+.byline{font-size:15px;color:var(--muted);margin:-10px 0 18px}.summary{font:19px/1.7 var(--sans);color:#3f5047;max-width:760px;margin-top:28px}
